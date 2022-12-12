@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{9625453E-4B01-A0D0-A4DD-C59AC5D1952E}",
+	"EngineAssociation": "{B693D7B1-4AA5-4F23-7AF1-FDBF4A190A8D}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Takes",
+			"Enabled": true
 		}
 	]
 }
