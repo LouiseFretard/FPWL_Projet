@@ -1,0 +1,1604 @@
+﻿Log file open, 01/22/23 15:44:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=17924)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPWL_Projet
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:\Users\pc\Documents\GitHub\FPWL_Projet\FPWL_Projet\FPWL_Projet.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2486] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="5dce3d64478aa986006cd9983f87497d"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.257523
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-8DE5A9E144F9B1AB22A0388BF167DB07
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.01 seconds
+LogConfig: Display: Loading Linux ini files took 0.02 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2486] (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GT 710
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.22-14.44.18:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.22-14.44.18:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.22-14.44.18:773][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.22-14.44.18:774][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.22-14.44.18:775][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.22-14.44.18:775][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.22-14.44.18:776][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.22-14.44.18:776][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.22-14.44.18:776][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.22-14.44.18:776][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.22-14.44.18:776][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.22-14.44.18:776][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.22-14.44.18:776][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.22-14.44.18:776][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.22-14.44.18:776][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.22-14.44.18:787][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.22-14.44.18:787][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.22-14.44.18:900][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GT 710 (Max supported Feature Level 11_0, shader model 6.5)
+[2023.01.22-14.44.18:900][  0]LogD3D12RHI: Adapter has 984MB of dedicated video memory, 0MB of dedicated system memory, and 8158MB of shared system memory, 1 output[s]
+[2023.01.22-14.44.18:906][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.22-14.44.18:906][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8158MB of shared system memory, 0 output[s]
+[2023.01.22-14.44.18:906][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.22-14.44.18:906][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.22-14.44.18:906][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.22-14.44.18:906][  0]LogHAL: Display: Platform has ~ 16 GB [17110605824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.22-14.44.18:906][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.22-14.44.18:906][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.22-14.44.18:906][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2023.01.22-14.44.18:906][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2023.01.22-14.44.18:906][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2023.01.22-14.44.18:906][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2023.01.22-14.44.18:906][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2023.01.22-14.44.18:906][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2023.01.22-14.44.18:906][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2023.01.22-14.44.18:906][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2023.01.22-14.44.18:907][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2023.01.22-14.44.18:907][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2023.01.22-14.44.18:907][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.01.22-14.44.18:907][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.22-14.44.18:907][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.22-14.44.18:907][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.22-14.44.18:907][  0]LogInit: Computer: DESKTOP-LDNDR19
+[2023.01.22-14.44.18:907][  0]LogInit: User: pc
+[2023.01.22-14.44.18:907][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.01.22-14.44.18:907][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.22-14.44.18:907][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.01.22-14.44.18:907][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.22-14.44.18:907][  0]LogMemory: Process Physical Memory: 259.63 MB used, 267.93 MB peak
+[2023.01.22-14.44.18:907][  0]LogMemory: Process Virtual Memory: 201.46 MB used, 217.71 MB peak
+[2023.01.22-14.44.18:907][  0]LogMemory: Physical Memory: 6250.49 MB used,  10067.46 MB free, 16317.95 MB total
+[2023.01.22-14.44.18:907][  0]LogMemory: Virtual Memory: 9000.11 MB used,  11285.83 MB free, 20285.95 MB total
+[2023.01.22-14.44.18:907][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.22-14.44.18:912][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.22-14.44.18:923][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.22-14.44.18:924][  0]LogInit: Using OS detected language (fr-FR).
+[2023.01.22-14.44.18:924][  0]LogInit: Using OS detected locale (fr-FR).
+[2023.01.22-14.44.18:926][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so 'fr' will be used for the language.
+[2023.01.22-14.44.18:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2023.01.22-14.44.18:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2023.01.22-14.44.18:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2023.01.22-14.44.18:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2023.01.22-14.44.18:927][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2023.01.22-14.44.18:927][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2023.01.22-14.44.18:927][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2023.01.22-14.44.18:927][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.22-14.44.18:937][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.22-14.44.18:937][  0]LogWindowsTextInputMethodSystem:   - Français (France) - (Keyboard).
+[2023.01.22-14.44.18:937][  0]LogWindowsTextInputMethodSystem:   - Japonais (Japon) - Éditeur de méthode d’entrée Microsoft (TSF IME).
+[2023.01.22-14.44.18:937][  0]LogWindowsTextInputMethodSystem:   - Français (France) - Correction de l’entrée tactile (TSF IME).
+[2023.01.22-14.44.18:937][  0]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2023.01.22-14.44.18:950][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.22-14.44.18:950][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.22-14.44.19:074][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.22-14.44.19:077][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.22-14.44.19:077][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.22-14.44.19:155][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.22-14.44.19:155][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.22-14.44.19:155][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.22-14.44.19:155][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.22-14.44.19:155][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.22-14.44.19:155][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.22-14.44.19:155][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.22-14.44.19:155][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.22-14.44.19:155][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.22-14.44.19:155][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2023.01.22-14.44.19:209][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.22-14.44.19:213][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.22-14.44.19:222][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.22-14.44.19:433][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.22-14.44.19:433][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.22-14.44.19:470][  0]LogD3D12RHI:     GPU DeviceId: 0x128b (for the marketing name, search the web for "GPU Device Id")
+[2023.01.22-14.44.19:470][  0]LogWindows: Attached monitors:
+[2023.01.22-14.44.19:470][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.22-14.44.19:470][  0]LogWindows: Found 1 attached monitors.
+[2023.01.22-14.44.19:470][  0]LogWindows: EnumDisplayDevices:
+[2023.01.22-14.44.19:470][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.22-14.44.19:470][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.01.22-14.44.19:470][  0]LogWindows:    2. 'NVIDIA GeForce GT 710' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.22-14.44.19:470][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2023.01.22-14.44.19:470][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2023.01.22-14.44.19:470][  0]LogD3D12RHI:   Driver Version: 473.81 (internal:30.0.14.7381, unified:473.81)
+[2023.01.22-14.44.19:470][  0]LogD3D12RHI:      Driver Date: 7-11-2022
+[2023.01.22-14.44.19:470][  0]LogRHI: Texture pool is 527 MB (70% of 753 MB)
+[2023.01.22-14.44.19:470][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.22-14.44.19:470][  0]LogD3D12RHI: RHI does not have support for 64 bit atomics
+[2023.01.22-14.44.19:484][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.22-14.44.20:841][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GT 710
+Installed: 473.81
+Recommended: 516.25
+[2023.01.22-14.44.20:849][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/FPWL_Projet.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Intermediate/TurnkeyReport_0.log" -log="E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Intermediate/TurnkeyLog_0.log" -project="E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/FPWL_Projet.uproject"  -platform=all'
+[2023.01.22-14.44.20:849][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Unreal/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/FPWL_Projet.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Intermediate/TurnkeyReport_0.log" -log="E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Intermediate/TurnkeyLog_0.log" -project="E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/FPWL_Projet.uproject"  -platform=all" ]
+[2023.01.22-14.44.20:867][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.22-14.44.20:873][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.22-14.44.20:873][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.22-14.44.20:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.22-14.44.20:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.22-14.44.20:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.22-14.44.20:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.22-14.44.20:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.22-14.44.20:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.22-14.44.20:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.22-14.44.20:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.22-14.44.20:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.22-14.44.20:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.22-14.44.20:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.22-14.44.20:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.22-14.44.20:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.22-14.44.20:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.22-14.44.20:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.22-14.44.20:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.22-14.44.20:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.22-14.44.20:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.22-14.44.20:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.22-14.44.20:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.22-14.44.20:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.22-14.44.20:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.22-14.44.20:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.22-14.44.20:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.22-14.44.20:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.22-14.44.20:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.22-14.44.20:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.22-14.44.20:922][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.22-14.44.20:928][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.22-14.44.20:930][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.22-14.44.20:930][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.22-14.44.20:930][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.22-14.44.20:930][  0]LogTargetPlatformManager:   PCM
+[2023.01.22-14.44.20:932][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.22-14.44.20:932][  0]LogTargetPlatformManager:   BINKA
+[2023.01.22-14.44.20:932][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.22-14.44.20:932][  0]LogTargetPlatformManager:   OGG
+[2023.01.22-14.44.20:932][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.22-14.44.20:932][  0]LogTargetPlatformManager:   OPUS
+[2023.01.22-14.44.20:969][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.22-14.44.20:974][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.22-14.44.20:976][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.22-14.44.20:976][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.22-14.44.20:976][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.22-14.44.20:976][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.22-14.44.20:976][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.22-14.44.20:976][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.22-14.44.20:976][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.22-14.44.20:977][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.22-14.44.20:977][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.22-14.44.20:977][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.22-14.44.20:977][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.22-14.44.20:977][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.22-14.44.20:979][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.22-14.44.20:979][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.22-14.44.20:979][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.22-14.44.20:979][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.22-14.44.21:000][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.22-14.44.21:000][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.22-14.44.21:000][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.22-14.44.21:006][  0]LogDerivedDataCache: Speed tests for C:/Users/pc/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.22-14.44.21:006][  0]LogDerivedDataCache: Display: Performance to C:/Users/pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1095.43MBs, RandomWriteSpeed=156.51MBs. Assigned SpeedClass 'Local'
+[2023.01.22-14.44.21:008][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.22-14.44.21:008][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.22-14.44.21:008][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.22-14.44.21:012][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.22-14.44.21:012][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.22-14.44.21:013][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Intermediate/Shaders/WorkingDirectory/8916/).
+[2023.01.22-14.44.21:013][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pc/AppData/Local/Temp/UnrealShaderWorkingDir/CD76D21E4150869EBCBEB692ADA11183/'.
+[2023.01.22-14.44.21:013][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.22-14.44.21:013][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2023.01.22-14.44.22:393][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.22-14.44.22:393][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.22-14.44.22:394][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.22-14.44.22:445][  0]LogAssetRegistry: FAssetRegistry took 0.0154 seconds to start up
+[2023.01.22-14.44.22:451][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.22-14.44.22:626][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.22-14.44.22:627][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.22-14.44.22:826][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.22-14.44.22:826][  0]LogDeviceProfileManager: Active device profile: [0000051719CCE8C0][00000517102E0000 50] WindowsEditor
+[2023.01.22-14.44.22:826][  0]LogDeviceProfileManager: Profiles: [0000051719CCE380][00000517102E2800 50] Windows, [0000051719CCE8C0][00000517102E0000 50] WindowsEditor, [0000051719CCD580][00000517102EA000 50] WindowsServer, [0000051719CCBB40][00000517035A7800 50] WindowsClient, [0000051719CCB280][0000051710297800 50] IOS, [0000051719CCB7C0][00000517102E5000 50] iPadAir2, [0000051719CCE1C0][000005171A1D0000 50] IPadPro, [0000051719CCB0C0][000005171A1D2800 50] iPadAir3, [0000051719CCDE40][000005171A1D7800 50] iPadAir4, [0000051719CCDC80][000005171A1DA000 50] iPadMini4, [0000051719CCA100][000005171A1DC800 50] iPadMini5, [0000051719CCD740][0000051710295000 50] iPadMini6, [000005171A271340][000005171A1F2800 50] iPhone6S, [000005171A2716C0][000005171A1F0000 50] iPhone7, [000005171A271A40][000005171A1F5000 50] iPodTouch7, [000005171A272680][000005171A1FA000 50] iPhone6SPlus, [000005171A2724C0][000005171A1FC800 50] iPhone7Plus, [000005171A272300][000005171A1D5000 50] iPhoneSE, [000005171A272140][000005171A1F7800 50] iPhone8, [000005171A271F80][000005171A1E0000 50] iPhone8Plus, [000005171A271180][000005171A1E5000 50] iPhoneX, [000005171A2708C0][000005171A1E7800 50] iPhoneXS, [000005171A270540][000005171A1EA000 50] iPhoneXSMax, [000005171A273F00][000005171A1EC800 50] iPhoneXR, [000005171A271500][000005171239C800 50] iPhone11, [000005171A2740C0][0000051719FC0000 50] iPhone11Pro, [000005171A273640][0000051719FC5000 50] iPhone11ProMax, [000005171A2732C0][0000051719FC7800 50] iPhoneSE2, [000005171A273100][0000051719FCA000 50] iPhone12Mini, [000005171A274280][0000051719FCC800 50] iPhone12, [000005171A270700][000005171A1E2800 50] iPhone12Pro, [000005171A274440][000005171A210000 50] iPhone12ProMax, [000005171A272840][000005171A215000 50] iPhone13Mini, [000005171A273B80][000005171A217800 50] iPhone13, [000005171A2739C0][000005171A21A000 50] iPhone13Pro, [000005171A271C00][000005171A21C800 50] iPhone13ProMax, [000005171A274D00][0000051719FC2800 50] iPadPro105, [000005171A274B40][000005171A220000 50] iPadPro129, [000005171A274600][000005171A225000 50] iPadPro97, [000005171A275400][000005171A227800 50] iPadPro2_129, [000005171A2755C0][000005171A22A000 50] iPad5, [000005171A275E80][000005171A22C800 50] iPad6, [000005171A272A00][000005171A212800 50] iPad7, [000005171A276040][000005171A230000 50] iPad8, [000005171A270FC0][000005171A235000 50] iPad9, [000005171A275080][000005171A237800 50] iPadPro11, [000005171A271880][000005171A23A000 50] iPadPro2_11, [000005171A276200][000005171A23C800 50] iPadPro3_11, [000005171A2763C0][000005171A222800 50] iPadPro3_129, [000005171A275240][000005171A240000 50] iPadPro4_129, [000005171A275940][000005171A245000 50] iPadPro5_129, [000005171A276E40][000005171A247800 50] AppleTV, [000005171A2701C0][000005171A24A000 50] AppleTV4K, [000005171A277000][000005171A24C800 50] TVOS, [000005171A2794C0][000005171A290000 50] Mac, [000005171A279840][000005171A292800 50] MacEditor, [000005171A2778C0][000005171A297800 50] MacClient, [000005171A276580][000005171A29A000 50] MacServer, [000005171A279680][000005171A232800 50] Linux, [000005171A279F40][000005171A242800 50] LinuxEditor, [000005171A272BC0][000005171A29C800 50] LinuxArm64Editor, [000005171A274980][000005171A250000 50] LinuxArm64, [000005171A270C40][000005171A255000 50] LinuxClient, [000005171A276900][000005171A257800 50] LinuxArm64Client, [000005171A279140][000005171A25A000 50] LinuxServer, [000005171A271DC0][000005171A25C800 50] LinuxArm64Server, [000005171A279BC0][000005171A295000 50] Android, [000005171A278F80][0000051719FF0000 50] Android_Preview_OpenGL, [000005171A277380][0000051719FF5000 50] Android_Preview_Vulkan, [000005171A277700][0000051719FF7800 50] Android_Low, [000005171A277FC0][0000051719FFA000 50] Android_Mid, [000005171A2771C0][0000051719FFC800 50] Android_High, [000005171A277A80][000005171A252800 50] Android_Default, [000005171A278880][000005171A2A0000 50] Android_Adreno4xx, [000005171A270380][000005171A2A5000 50] Android_Adreno5xx_Low, [000005171A276740][000005171A2A7800 50] Android_Adreno5xx, [000005171A2786C0][000005171A2AA000 50] Android_Adreno6xx, [000005171A27A480][000005171A2AC800 50] Android_Adreno6xx_Vulkan, [000005171A270A80][0000051719FF2800 50] Android_Adreno7xx, [000005171A274EC0][000005171A2B0000 50] Android_Adreno7xx_Vulkan, [000005171A275B00][000005171A2B5000 50] Android_Mali_T6xx, [000005171A279D80][000005171A2B7800 50] Android_Mali_T7xx, [000005171A277E00][000005171A2BA000 50] Android_Mali_T8xx, [000005171A2747C0][000005171A2BC800 50] Android_Mali_G71, [000005171A273800][000005171A2A2800 50] Android_Mali_G72, [000005171A277540][000005171A2C0000 50] Android_Mali_G72_Vulkan, [000005171A270E00][000005171A2C5000 50] Android_Mali_G76, [000005171A27AD40][000005171A2C7800 50] Android_Mali_G76_Vulkan, [000005171A276C80][000005171A2CA000 50] Android_Mali_G77, [000005171A27AF00][000005171A2CC800 50] Android_Mali_G77_Vulkan, [000005171A276AC0][000005171A2B2800 50] Android_Mali_G78, [000005171A278C00][000005171A2D0000 50] Android_Mali_G78_Vulkan, [000005171A27A2C0][000005171A2D5000 50] Android_Mali_G710, [000005171A27B0C0][000005171A2D7800 50] Android_Mali_G710_Vulkan, [000005171A278340][000005171A2DA000 50] Android_Xclipse_920, [000005171A27B280][000005171A2DC800 50] Android_Xclipse_920_Vulkan, [000005171A272D80][000005171A2C2800 50] Android_Vulkan_SM5, [000005171A27AB80][000005171A2E0000 50] Android_PowerVR_G6xxx, [000005171A27B7C0][000005171A2E5000 50] Android_PowerVR_GT7xxx, [000005171A272F40][000005171A2E7800 50] Android_PowerVR_GE8xxx, [000005171A273480][000005171A2EA000 50] Android_PowerVR_GM9xxx, [000005171A27C080][000005171A2EC800 50] Android_PowerVR_GM9xxx_Vulkan, [000005171A27BEC0][000005171A2D2800 50] Android_TegraK1, [000005171A27C240][000005171A2F0000 50] Android_Unknown_Vulkan, [000005171A279300][000005171A2F5000 50] Oculus_Quest, [000005171A270000][000005171A2F7800 50] Oculus_Quest2, [000005171A27B980][000005171A2FA000 50] HoloLens, 
+[2023.01.22-14.44.22:826][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.22-14.44.22:828][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.01.22-14.44.22:828][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.01.22-14.44.22:828][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.22-14.44.22:828][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.22-14.44.22:828][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.22-14.44.22:845][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.22-14.44.23:022][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.22-14.44.23:022][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.22-14.44.23:022][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.22-14.44.23:022][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.22-14.44.23:022][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.22-14.44.23:034][  0]LogNetVersion: FPWL_Projet 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 708527282)
+[2023.01.22-14.44.23:151][  0]LogSlate: Border
+[2023.01.22-14.44.23:151][  0]LogSlate: BreadcrumbButton
+[2023.01.22-14.44.23:151][  0]LogSlate: Default
+[2023.01.22-14.44.23:151][  0]LogSlate: Icons.Save
+[2023.01.22-14.44.23:151][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.22-14.44.23:151][  0]LogSlate: ListView
+[2023.01.22-14.44.23:151][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.22-14.44.23:151][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.22-14.44.23:151][  0]LogSlate: TableView.DarkRow
+[2023.01.22-14.44.23:151][  0]LogSlate: TableView.Row
+[2023.01.22-14.44.23:151][  0]LogSlate: TreeView
+[2023.01.22-14.44.23:317][  0]SourceControl: Source control is disabled
+[2023.01.22-14.44.23:344][  0]SourceControl: Source control is disabled
+[2023.01.22-14.44.23:344][  0]SourceControl: Source control is disabled
+[2023.01.22-14.44.23:458][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.22-14.44.23:459][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.01.22-14.44.23:459][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.22-14.44.23:772][  0]LogPython: Using Python 3.9.7
+[2023.01.22-14.44.24:497][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 901364924248CF89ABA3E983E70C3DCA | Instance: 10DE6B7F49B812A3680B7BBE89590E34 (DESKTOP-LDNDR19-8916).
+[2023.01.22-14.44.24:532][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.22-14.44.24:536][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.22-14.44.24:608][  0]SourceControl: Source control is disabled
+[2023.01.22-14.44.24:610][  0]SourceControl: Source control is disabled
+[2023.01.22-14.44.24:618][  0]SourceControl: Source control is disabled
+[2023.01.22-14.44.24:625][  0]LogUProjectInfo: Found projects:
+[2023.01.22-14.44.24:853][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.22-14.44.24:914][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.22-14.44.24:932][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.22-14.44.24:932][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.22-14.44.25:022][  0]LogCollectionManager: Loaded 0 collections in 0.000614 seconds
+[2023.01.22-14.44.25:093][  0]LogFileCache: Scanning file cache for directory 'E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Collections/' took 0.00s
+[2023.01.22-14.44.25:093][  0]LogFileCache: Scanning file cache for directory 'E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/Developers/pc/Collections/' took 0.00s
+[2023.01.22-14.44.25:093][  0]LogFileCache: Scanning file cache for directory 'E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/Collections/' took 0.00s
+[2023.01.22-14.44.25:378][  0]LogEngine: Initializing Engine...
+[2023.01.22-14.44.25:392][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.22-14.44.25:393][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.22-14.44.25:645][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.22-14.44.25:646][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.22-14.44.25:656][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.44.25:686][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.22-14.44.25:686][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.22-14.44.25:708][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.22-14.44.25:709][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.22-14.44.25:709][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.22-14.44.25:709][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.22-14.44.25:709][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.22-14.44.25:709][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.22-14.44.25:709][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.22-14.44.25:709][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.22-14.44.25:709][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.22-14.44.25:709][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.22-14.44.25:709][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.22-14.44.25:709][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.22-14.44.25:709][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.22-14.44.25:710][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.22-14.44.25:710][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.22-14.44.25:710][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.22-14.44.25:714][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.22-14.44.25:735][  0]LogAudioMixer: Display: Using Audio Hardware Device Casque (High Definition Audio Device)
+[2023.01.22-14.44.25:735][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.22-14.44.25:737][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.22-14.44.25:737][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.22-14.44.25:737][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.22-14.44.25:737][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.22-14.44.25:738][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.22-14.44.25:738][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.22-14.44.25:738][  0]LogInit: FAudioDevice initialized.
+[2023.01.22-14.44.25:738][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.22-14.44.25:739][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.22-14.44.25:739][  0]LogInit: Texture streaming: Enabled
+[2023.01.22-14.44.25:771][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.22-14.44.25:781][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.22-14.44.25:796][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={17AB775B-45F0-4011-0E19-66BC26C290D7}
+[2023.01.22-14.44.25:834][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.22-14.44.25:842][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.22-14.44.25:842][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.22-14.44.26:873][  0]LogLiveCoding: Display: First instance in process group "UE_FPWL_Projet_0x2bb5f472", spawning console
+[2023.01.22-14.44.26:873][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.22-14.44.26:873][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.22-14.44.26:890][  0]LogInit: Transaction tracking system initialized
+[2023.01.22-14.44.26:970][  0]BlueprintLog: New page: Editor Load
+[2023.01.22-14.44.27:174][  0]LocalizationService: Localization service is disabled
+[2023.01.22-14.44.27:224][  0]TimingProfiler: Initialize
+[2023.01.22-14.44.27:224][  0]TimingProfiler: OnSessionChanged
+[2023.01.22-14.44.27:224][  0]LoadingProfiler: Initialize
+[2023.01.22-14.44.27:224][  0]LoadingProfiler: OnSessionChanged
+[2023.01.22-14.44.27:224][  0]NetworkingProfiler: Initialize
+[2023.01.22-14.44.27:225][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.22-14.44.27:225][  0]MemoryProfiler: Initialize
+[2023.01.22-14.44.27:225][  0]MemoryProfiler: OnSessionChanged
+[2023.01.22-14.44.27:882][  0]LogFileCache: Scanning file cache for directory 'E:/Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/' took 0.04s
+[2023.01.22-14.44.27:882][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.22-14.44.28:019][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.22-14.44.28:020][  0]SourceControl: Source control is disabled
+[2023.01.22-14.44.28:184][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.22-14.44.31:108][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2023.01.22-14.44.35:595][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2023.01.22-14.44.35:601][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/GD/Interactainable/Inventory/BP_Second_Key_Child_Inventory
+/Game/GD/Maps/Blockout_Paris
+/Game/GD/Interactainable/Inventory/BP_Log_Child_Inventory
+/Game/GD/Interactainable/Inventory/Bp_Poids_Child_Inventory
+/Game/GD/Interactainable/Inventory/Box_Hiding_Objet
+/Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item
+/Game/GD/Interactainable/Inventory/BP_Poids_2ND_Child_Poids
+/Game/GD/Interactainable/Inventory/BP_Poids_3rd_Child_Poids
+/Game/GD/Interactainable/Inventory/BP_Poids_4th_Child_Poids
+/Game/GD/Interactainable/Inventory/BP_Match_Child_Inventory
+/Game/GD/Widget/HUD
+[2023.01.22-14.44.35:661][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.827
+[2023.01.22-14.44.35:661][  0]Cmd: MAP LOAD FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Maps/Project_Degree_Select_House.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.22-14.44.35:662][  0]LightingResults: New page: Lighting Build
+[2023.01.22-14.44.35:671][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.44.35:671][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.44.35:671][  0]MapCheck: New page: Map Check
+[2023.01.22-14.44.35:672][  0]LightingResults: New page: Lighting Build
+[2023.01.22-14.44.35:683][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.22-14.44.35:685][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.01.22-14.44.35:754][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Project_Degree_Select_House'.
+[2023.01.22-14.44.35:761][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.44.35:761][  0]LogAIModule: Creating AISystem for world Project_Degree_Select_House
+[2023.01.22-14.44.35:762][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.22-14.44.35:762][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.22-14.44.35:762][  0]LogWorldPartition: Display: WorldPartition initialize took 359 us
+[2023.01.22-14.44.35:763][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.22-14.44.35:770][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.22-14.44.35:770][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.22-14.44.35:771][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,199ms to complete.
+[2023.01.22-14.44.35:771][  0]LogFileHelpers: Loading map 'Project_Degree_Select_House' took 0.109
+[2023.01.22-14.44.35:781][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.947
+[2023.01.22-14.44.35:781][  0]LogShaderCompilers: Display: ================================================
+[2023.01.22-14.44.35:781][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.22-14.44.35:781][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.22-14.44.35:781][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.22-14.44.35:781][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.22-14.44.35:781][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.22-14.44.35:781][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.22-14.44.35:781][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.22-14.44.35:781][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.22-14.44.35:781][  0]LogShaderCompilers: Display: ================================================
+[2023.01.22-14.44.35:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.22-14.44.35:854][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.22-14.44.35:859][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.22-14.44.35:865][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.22-14.44.35:910][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.22-14.44.35:910][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-14.44.35:911][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.22-14.44.35:911][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-14.44.35:911][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.22-14.44.35:911][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-14.44.35:912][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.22-14.44.35:912][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-14.44.35:913][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.22-14.44.35:913][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-14.44.35:913][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.22-14.44.35:913][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-14.44.35:913][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.22-14.44.35:914][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-14.44.35:914][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.22-14.44.35:914][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-14.44.35:914][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.22-14.44.35:914][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-14.44.35:915][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.22-14.44.35:915][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-14.44.35:915][  0]LogFeaturePack: Error: Error in Feature pack E:/Unreal/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.22-14.44.36:367][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.01.22-14.44.36:458][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.01.22-14.44.37:057][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.22-14.44.37:058][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.22-14.44.37:117][  0]LogViewport: Scene viewport resized to 1366x902, mode Windowed.
+[2023.01.22-14.44.37:160][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.22-14.44.38:003][  0]LogStall: Startup...
+[2023.01.22-14.44.38:005][  0]LogStall: Startup complete.
+[2023.01.22-14.44.38:016][  0]LogLoad: (Engine Initialization) Total time: 23.18 seconds
+[2023.01.22-14.44.38:016][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.22-14.44.38:486][  0]LogAssetRegistry: Asset discovery search completed in 16.0432 seconds
+[2023.01.22-14.44.38:490][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.22-14.44.38:496][  0]LogContentStreaming: Texture pool size now 400 MB
+[2023.01.22-14.44.38:592][  2]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.22-14.44.41:140][ 39]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/GD/ThirdPerson/Blueprints/BP_Diplome_First_Person_Project.BP_Diplome_First_Person_Project) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.22-14.44.41:398][ 39]LogBlueprint: Warning: [AssetLog] E:\Users\pc\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\ThirdPerson\Blueprints\BP_Diplome_First_Person_Project.uasset: [Compiler] Spawn Interact in World and Reset Child Actor  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2023.01.22-14.44.41:797][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/ThirdPerson/Blueprints/BP_Diplome_First_Person_Project.BP_Diplome_First_Person_Project
+[2023.01.22-14.44.41:798][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.44.43:092][ 39]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/GD/Interactainable/Letter/BP_Base_Parent_Interactainable_Letter.BP_Base_Parent_Interactainable_Letter) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.22-14.44.43:092][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Letter/BP_Base_Parent_Interactainable_Letter.BP_Base_Parent_Interactainable_Letter
+[2023.01.22-14.44.43:092][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.44.43:489][ 39]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.22-14.44.43:489][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item
+[2023.01.22-14.44.43:490][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.44.43:866][ 39]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/GD/Widget/HUD.HUD) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.22-14.44.43:920][ 39]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GD/Widget/HUD.HUD
+[2023.01.22-14.44.43:921][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.44.44:013][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.44.44:068][ 39]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.01.22-14.44.44:395][ 39]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-14.44.44:395][ 39]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-14.44.44:412][ 39]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/GD/Interactainable/Inventory/BP_First_Key_Child_Inventory.BP_First_Key_Child_Inventory) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.22-14.44.44:412][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_First_Key_Child_Inventory.BP_First_Key_Child_Inventory
+[2023.01.22-14.44.44:412][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.44.45:051][ 39]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.22-14.45.01:629][204]LogSlate: Took 0.001686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.01.22-14.45.01:827][204]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.01.22-14.45.14:719][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.01.22-14.45.14:928][540]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.005400 seconds
+[2023.01.22-14.45.14:941][540]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item
+[2023.01.22-14.45.14:942][540]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Base_Parent_Inventory_Item9EA579DD41E0DC2BFCF7E9BC3F8FB975.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.uasset'
+[2023.01.22-14.45.14:958][540]AssetCheck: New page: Asset Save: BP_Base_Parent_Inventory_Item
+[2023.01.22-14.45.14:958][540]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item
+[2023.01.22-14.45.15:518][548]BlueprintLog: New page: Compile BP_Base_Parent_Inventory_Item
+[2023.01.22-14.45.15:627][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.01.22-14.45.16:665][557]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item
+[2023.01.22-14.45.16:666][557]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Base_Parent_Inventory_Item092FD1584DC13C9BCDCD7E9D9ACA5993.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.uasset'
+[2023.01.22-14.45.16:677][557]AssetCheck: New page: Asset Save: BP_Base_Parent_Inventory_Item
+[2023.01.22-14.45.16:678][557]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item
+[2023.01.22-14.45.17:420][567]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.22-14.45.17:433][567]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.22-14.45.23:822][628]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.22-14.45.28:762][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.22-14.45.28:967][749]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_First_Key_Child_Inventory
+[2023.01.22-14.45.28:967][749]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_First_Key_Child_InventoryCA525D41434EC2A562240C87AB0E24F3.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_First_Key_Child_Inventory.uasset'
+[2023.01.22-14.45.28:984][749]AssetCheck: New page: Asset Save: BP_First_Key_Child_Inventory
+[2023.01.22-14.45.28:984][749]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_First_Key_Child_Inventory.BP_First_Key_Child_Inventory
+[2023.01.22-14.45.29:481][755]BlueprintLog: New page: Compile BP_First_Key_Child_Inventory
+[2023.01.22-14.45.29:604][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.01.22-14.45.30:312][761]BlueprintLog: New page: Compile BP_First_Key_Child_Inventory
+[2023.01.22-14.45.30:384][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.22-14.45.35:994][810]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_Second_Key_Child_Inventory.BP_Second_Key_Child_Inventory
+[2023.01.22-14.45.35:995][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.45.46:681][976]BlueprintLog: New page: Compile BP_Second_Key_Child_Inventory
+[2023.01.22-14.45.46:771][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.01.22-14.45.48:581][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.22-14.45.48:829][ 11]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Second_Key_Child_Inventory
+[2023.01.22-14.45.48:830][ 11]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Second_Key_Child_Inventory3556EC274195B0DA0C249CBBCA923476.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Second_Key_Child_Inventory.uasset'
+[2023.01.22-14.45.48:841][ 11]AssetCheck: New page: Asset Save: BP_Second_Key_Child_Inventory
+[2023.01.22-14.45.48:841][ 11]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Second_Key_Child_Inventory.BP_Second_Key_Child_Inventory
+[2023.01.22-14.45.52:914][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/Box_Hiding_Objet.Box_Hiding_Objet
+[2023.01.22-14.45.52:914][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.46.05:282][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.01.22-14.46.05:493][314]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Box_Hiding_Objet
+[2023.01.22-14.46.05:494][314]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Box_Hiding_Objet6242E22D4C00E0BD0901AC804F724C2F.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Box_Hiding_Objet.uasset'
+[2023.01.22-14.46.05:505][314]AssetCheck: New page: Asset Save: Box_Hiding_Objet
+[2023.01.22-14.46.05:505][314]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/Box_Hiding_Objet.Box_Hiding_Objet
+[2023.01.22-14.46.05:815][319]BlueprintLog: New page: Compile Box_Hiding_Objet
+[2023.01.22-14.46.05:947][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.01.22-14.46.07:690][334]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.46.07:690][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.46.10:454][355]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.22-14.46.10:454][355]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.46.10:455][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.46.11:191][361]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.22-14.46.11:191][361]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.46.11:191][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.46.11:391][361]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.01.22-14.46.15:462][391]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_Match_Child_Inventory.BP_Match_Child_Inventory
+[2023.01.22-14.46.15:462][391]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.46.21:216][472]LogDerivedDataCache: C:/Users/pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.201 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.22-14.46.24:070][515]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Match_Child_Inventory
+[2023.01.22-14.46.24:071][515]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Match_Child_Inventory499DC23841161D083AE0FF918F5C1116.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Match_Child_Inventory.uasset'
+[2023.01.22-14.46.24:083][515]AssetCheck: New page: Asset Save: BP_Match_Child_Inventory
+[2023.01.22-14.46.24:083][515]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Match_Child_Inventory.BP_Match_Child_Inventory
+[2023.01.22-14.46.38:841][621]BlueprintLog: New page: Compile BP_Match_Child_Inventory
+[2023.01.22-14.46.38:978][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.01.22-14.46.41:191][639]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.46.41:191][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.46.44:203][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_2ND_Child_Poids.BP_Poids_2ND_Child_Poids
+[2023.01.22-14.46.44:204][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.46.44:645][665]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.22-14.46.44:719][665]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.074 s
+[2023.01.22-14.46.44:719][665]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.22-14.46.44:719][665]LogOutputDevice: Error: 
+[2023.01.22-14.46.44:719][665]LogOutputDevice: Error: Ensure condition failed: ParentHandle.IsValid() [File:D:\build\++UE5\Sync\Engine\Source\Editor\SubobjectDataInterface\Private\SubobjectDataSubsystem.cpp] [Line: 297]
+[2023.01.22-14.46.44:719][665]LogOutputDevice: Error: 
+[2023.01.22-14.46.44:719][665]LogOutputDevice: Error: Stack: 
+[2023.01.22-14.46.44:719][665]LogOutputDevice: Error: [Callstack] 0x00007ffbeaa8673b UnrealEditor-SubobjectDataInterface.dll!UnknownFunction []
+[2023.01.22-14.46.44:719][665]LogOutputDevice: Error: [Callstack] 0x00007ffbea9f0090 UnrealEditor-SubobjectEditor.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbea9a392e UnrealEditor-SubobjectEditor.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbf28e52df UnrealEditor-Kismet.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbf28dffd1 UnrealEditor-Kismet.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbf28d5c61 UnrealEditor-Kismet.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbf2901050 UnrealEditor-Kismet.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbf29c3196 UnrealEditor-Kismet.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbf29c3711 UnrealEditor-Kismet.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbe6da4073 UnrealEditor-AssetTools.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbf8fabf93 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbf8fac809 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbf8fac59a UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbb19f0805 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbb19f0a60 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbb19d9aff UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbe78b20f0 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbe786b010 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbe78b44db UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbe7872c36 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbe77f8802 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbe78c767d UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbe78b48a2 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc007a601e UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc0081e876 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc00808249 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc007fcea1 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc317fa8f5 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc317e9247 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc317fce51 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc317e49a7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc7dcee7e8 USER32.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc7dcee47e USER32.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffbada57e59 InkObj.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc77781118 atlthunk.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc7dcee7e8 USER32.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc7dcee229 USER32.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc317fe148 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ff743c27114 UnrealEditor.exe!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ff743c40d9c UnrealEditor.exe!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ff743c40e8a UnrealEditor.exe!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ff743c43c4d UnrealEditor.exe!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ff743c55564 UnrealEditor.exe!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ff743c58736 UnrealEditor.exe!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc7e1c7614 KERNEL32.DLL!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb026a1 ntdll.dll!UnknownFunction []
+[2023.01.22-14.46.44:720][665]LogOutputDevice: Error: 
+[2023.01.22-14.46.44:721][665]LogStats:                SubmitErrorReport -  0.000 s
+[2023.01.22-14.46.45:374][665]LogStats:                    SendNewReport -  0.653 s
+[2023.01.22-14.46.45:374][665]LogStats:             FDebug::EnsureFailed -  0.728 s
+[2023.01.22-14.46.50:063][700]LogViewport: Scene viewport resized to 938x715, mode Windowed.
+[2023.01.22-14.47.18:903][992]BlueprintLog: New page: Compile BP_Poids_2ND_Child_Poids
+[2023.01.22-14.47.19:000][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.01.22-14.47.22:014][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.01.22-14.47.22:135][ 53]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Poids_2ND_Child_Poids
+[2023.01.22-14.47.22:135][ 53]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Poids_2ND_Child_Poids31928FA34F413C03CBACABAAE2D020FF.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Poids_2ND_Child_Poids.uasset'
+[2023.01.22-14.47.22:147][ 53]AssetCheck: New page: Asset Save: BP_Poids_2ND_Child_Poids
+[2023.01.22-14.47.22:147][ 53]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_2ND_Child_Poids.BP_Poids_2ND_Child_Poids
+[2023.01.22-14.47.25:417][ 77]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.47.25:417][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.47.28:047][ 96]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_3rd_Child_Poids.BP_Poids_3rd_Child_Poids
+[2023.01.22-14.47.28:048][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.47.30:749][114]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.47.30:749][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.47.30:881][114]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_3rd_Child_Poids.BP_Poids_3rd_Child_Poids
+[2023.01.22-14.47.30:881][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.47.34:819][141]LogViewport: Scene viewport resized to 938x715, mode Windowed.
+[2023.01.22-14.48.00:807][382]BlueprintLog: New page: Compile BP_Poids_3rd_Child_Poids
+[2023.01.22-14.48.00:940][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.22-14.48.02:595][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.01.22-14.48.02:873][416]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Poids_3rd_Child_Poids
+[2023.01.22-14.48.02:874][416]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Poids_3rd_Child_PoidsB19B9C8B41E65AD5B1BF23A3604A694E.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Poids_3rd_Child_Poids.uasset'
+[2023.01.22-14.48.02:885][416]AssetCheck: New page: Asset Save: BP_Poids_3rd_Child_Poids
+[2023.01.22-14.48.02:885][416]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_3rd_Child_Poids.BP_Poids_3rd_Child_Poids
+[2023.01.22-14.48.04:208][428]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.48.04:208][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.48.08:117][456]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_4th_Child_Poids.BP_Poids_4th_Child_Poids
+[2023.01.22-14.48.08:117][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.48.11:226][477]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.48.11:227][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.48.11:372][477]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_4th_Child_Poids.BP_Poids_4th_Child_Poids
+[2023.01.22-14.48.11:372][477]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.48.13:075][488]LogViewport: Scene viewport resized to 938x715, mode Windowed.
+[2023.01.22-14.48.31:496][681]BlueprintLog: New page: Compile BP_Poids_4th_Child_Poids
+[2023.01.22-14.48.31:639][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.01.22-14.48.35:872][712]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.48.35:872][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.48.40:039][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.01.22-14.48.40:374][769]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Poids_4th_Child_Poids
+[2023.01.22-14.48.40:375][769]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Poids_4th_Child_Poids633F612A404CB68980BAE8A4BF005758.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Poids_4th_Child_Poids.uasset'
+[2023.01.22-14.48.40:387][769]AssetCheck: New page: Asset Save: BP_Poids_4th_Child_Poids
+[2023.01.22-14.48.40:387][769]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_4th_Child_Poids.BP_Poids_4th_Child_Poids
+[2023.01.22-14.48.45:869][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/Bp_Poids_Child_Inventory.Bp_Poids_Child_Inventory
+[2023.01.22-14.48.45:869][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.48.54:947][910]LogViewport: Scene viewport resized to 938x715, mode Windowed.
+[2023.01.22-14.50.32:451][884]BlueprintLog: New page: Compile Bp_Poids_Child_Inventory
+[2023.01.22-14.50.32:568][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.01.22-14.50.33:353][890]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Bp_Poids_Child_Inventory
+[2023.01.22-14.50.33:353][890]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Bp_Poids_Child_InventoryB1CB266B4F578BF4EFD83A855A7C11D9.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Bp_Poids_Child_Inventory.uasset'
+[2023.01.22-14.50.33:369][890]AssetCheck: New page: Asset Save: Bp_Poids_Child_Inventory
+[2023.01.22-14.50.33:369][890]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/Bp_Poids_Child_Inventory.Bp_Poids_Child_Inventory
+[2023.01.22-14.51.01:787][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_Second_Key_Child_Inventory.BP_Second_Key_Child_Inventory
+[2023.01.22-14.51.01:788][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.51.07:086][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.22-14.51.07:274][170]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Poids_2ND_Child_Poids
+[2023.01.22-14.51.07:275][170]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Poids_2ND_Child_Poids478B779E486FFB779445AAB59740821C.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Poids_2ND_Child_Poids.uasset'
+[2023.01.22-14.51.07:311][170]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Poids_3rd_Child_Poids
+[2023.01.22-14.51.07:311][170]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Poids_3rd_Child_Poids40F2426B47AFFD80F83384ACA9F84149.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Poids_3rd_Child_Poids.uasset'
+[2023.01.22-14.51.07:323][170]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Poids_4th_Child_Poids
+[2023.01.22-14.51.07:323][170]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Poids_4th_Child_Poids5A5E2B8A4C682EB318E982B23D6FD0D4.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Poids_4th_Child_Poids.uasset'
+[2023.01.22-14.51.07:339][170]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.22-14.51.07:339][170]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_2ND_Child_Poids.BP_Poids_2ND_Child_Poids
+[2023.01.22-14.51.07:339][170]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_4th_Child_Poids.BP_Poids_4th_Child_Poids
+[2023.01.22-14.51.07:339][170]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Poids_3rd_Child_Poids.BP_Poids_3rd_Child_Poids
+[2023.01.22-14.52.08:439][295]BlueprintLog: New page: Compile HUD
+[2023.01.22-14.52.08:547][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.01.22-14.52.49:912][822]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Poids_7kg
+[2023.01.22-14.52.49:913][822]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_7kgCBF85C6B449553B407CFE99C27703BB4.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Poids_7kg.uasset'
+[2023.01.22-14.52.49:927][822]AssetCheck: New page: Asset Save: Poids_7kg
+[2023.01.22-14.52.49:927][822]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Poids_7kg.Poids_7kg
+[2023.01.22-14.52.55:972][884]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-14.52.55:972][884]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-14.54.15:222][850]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-14.54.15:222][850]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-14.56.02:534][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset" SILENT=true
+[2023.01.22-14.56.02:590][836]LogSavePackage: Moving output files for package: /Game/GD/Widget/HUD
+[2023.01.22-14.56.02:590][836]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUD0C9CF6DB4AD4B927C83E51B4C9822184.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset'
+[2023.01.22-14.56.02:608][836]AssetCheck: New page: Asset Save: HUD
+[2023.01.22-14.56.02:608][836]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/HUD.HUD
+[2023.01.22-14.56.10:928][925]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/ThirdPerson/Items_Inventory.Items_Inventory
+[2023.01.22-14.56.10:928][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-14.56.19:602][ 11]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-14.56.19:602][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-14.56.23:302][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.22-14.56.27:206][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.22-14.58.39:849][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.01.22-14.58.39:851][774]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GD/Maps/Project_Degree_Select_House' took 0.067
+[2023.01.22-14.58.39:852][774]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GD/Widget/HUD] ([2] browsable assets)...
+[2023.01.22-14.58.39:856][774]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GD/Widget/HUD.HUD]
+[2023.01.22-14.58.39:856][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Widget/HUD]
+[2023.01.22-14.58.39:856][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Widget/HUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.01.22-14.58.39:902][774]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Widget/HUD_Auto1
+[2023.01.22-14.58.39:902][774]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUD_Auto1EB3499A34B55E99142BAACAAD0BD3063.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Widget/HUD_Auto1.uasset'
+[2023.01.22-14.58.39:902][774]LogFileHelpers: Auto-saving content packages took 0.051
+[2023.01.22-15.02.10:172][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset" SILENT=true
+[2023.01.22-15.02.10:220][308]LogSavePackage: Moving output files for package: /Game/GD/Widget/HUD
+[2023.01.22-15.02.10:220][308]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUD1F0757014E0F6FF18B7EE2B02A9387DD.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset'
+[2023.01.22-15.02.10:237][308]AssetCheck: New page: Asset Save: HUD
+[2023.01.22-15.02.10:237][308]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/HUD.HUD
+[2023.01.22-15.02.12:560][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.01.22-15.02.28:932][666]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.02.28:932][666]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.02.32:567][702]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.02.32:567][702]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.03.10:895][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.01.22-15.03.11:135][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset" SILENT=true
+[2023.01.22-15.03.11:206][414]LogSavePackage: Moving output files for package: /Game/GD/Widget/HUD
+[2023.01.22-15.03.11:207][414]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUD7F164E32443B22AC5A6D3F808BE7D572.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset'
+[2023.01.22-15.03.11:220][414]AssetCheck: New page: Asset Save: HUD
+[2023.01.22-15.03.11:220][414]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/HUD.HUD
+[2023.01.22-15.04.22:122][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.04.22:122][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.04.40:232][692]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.04.40:232][692]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.04.56:168][  3]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.04.56:168][  3]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.06.18:097][438]BlueprintLog: New page: Compile HUD
+[2023.01.22-15.06.18:239][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.01.22-15.08.36:695][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.08.36:695][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.09.15:854][488]LogEditorTransaction: Undo Edit Image
+[2023.01.22-15.09.22:028][552]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.09.22:028][552]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.10.30:789][536]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.10.30:789][536]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.10.48:286][821]LogSlate: Window 'Save Asset As' being destroyed
+[2023.01.22-15.11.01:775][122]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.11.01:775][122]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.11.39:245][921]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.11.39:245][921]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.12.39:034][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.01.22-15.12.39:036][442]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GD/Maps/Project_Degree_Select_House' took 0.078
+[2023.01.22-15.12.39:036][442]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GD/Widget/HUD] ([2] browsable assets)...
+[2023.01.22-15.12.39:055][442]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GD/Widget/HUD.HUD]
+[2023.01.22-15.12.39:055][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Widget/HUD]
+[2023.01.22-15.12.39:055][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Widget/HUD_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.01.22-15.12.39:110][442]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Widget/HUD_Auto2
+[2023.01.22-15.12.39:110][442]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUD_Auto2646D58BB4ABEEAC4FB59A486BC3C10EC.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Widget/HUD_Auto2.uasset'
+[2023.01.22-15.12.39:111][442]LogFileHelpers: Auto-saving content packages took 0.074
+[2023.01.22-15.13.15:626][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.01.22-15.13.15:686][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset" SILENT=true
+[2023.01.22-15.13.15:736][713]LogSavePackage: Moving output files for package: /Game/GD/Widget/HUD
+[2023.01.22-15.13.15:737][713]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUDD72334594BA8C882E089199617274468.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset'
+[2023.01.22-15.13.15:752][713]AssetCheck: New page: Asset Save: HUD
+[2023.01.22-15.13.15:752][713]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/HUD.HUD
+[2023.01.22-15.20.28:236][ 60]LogEditorFactories: Performing atomic reimport of [E:/Users/pc/Downloads/Poids_3.rgb]
+[2023.01.22-15.20.28:237][ 60]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Users/pc/Downloads/Poids_3.rgb)
+[2023.01.22-15.20.28:647][ 60]Error: Texture import failed
+[2023.01.22-15.20.28:657][ 60]LogEditorFactories: Warning: -- import failed
+[2023.01.22-15.20.28:668][ 60]LogEditorFactories: Performing atomic reimport of [E:/Users/pc/Downloads/Poids_5kg.rgb]
+[2023.01.22-15.20.28:668][ 60]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Users/pc/Downloads/Poids_5kg.rgb)
+[2023.01.22-15.20.28:669][ 60]Error: Texture import failed
+[2023.01.22-15.20.28:669][ 60]LogEditorFactories: Warning: -- import failed
+[2023.01.22-15.20.28:685][ 60]LogEditorFactories: Performing atomic reimport of [E:/Users/pc/Downloads/Poids_7kg.rgb]
+[2023.01.22-15.20.28:686][ 60]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Users/pc/Downloads/Poids_7kg.rgb)
+[2023.01.22-15.20.28:687][ 60]Error: Texture import failed
+[2023.01.22-15.20.28:687][ 60]LogEditorFactories: Warning: -- import failed
+[2023.01.22-15.20.28:709][ 60]LogEditorFactories: Performing atomic reimport of [E:/Users/pc/Downloads/Key_2.rgb]
+[2023.01.22-15.20.28:711][ 60]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Users/pc/Downloads/Key_2.rgb)
+[2023.01.22-15.20.28:714][ 60]Error: Texture import failed
+[2023.01.22-15.20.28:714][ 60]LogEditorFactories: Warning: -- import failed
+[2023.01.22-15.20.28:734][ 60]LogEditorFactories: Performing atomic reimport of [E:/Users/pc/Downloads/Key_Image.rgb]
+[2023.01.22-15.20.28:735][ 60]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Users/pc/Downloads/Key_Image.rgb)
+[2023.01.22-15.20.28:737][ 60]Error: Texture import failed
+[2023.01.22-15.20.28:737][ 60]LogEditorFactories: Warning: -- import failed
+[2023.01.22-15.20.28:751][ 60]LogEditorFactories: Performing atomic reimport of [E:/Users/pc/Downloads/Match.rgb]
+[2023.01.22-15.20.28:752][ 60]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Users/pc/Downloads/Match.rgb)
+[2023.01.22-15.20.28:753][ 60]Error: Texture import failed
+[2023.01.22-15.20.28:753][ 60]LogEditorFactories: Warning: -- import failed
+[2023.01.22-15.20.28:767][ 60]LogEditorFactories: Performing atomic reimport of [E:/Users/pc/Downloads/Mystery_Box.rgb]
+[2023.01.22-15.20.28:768][ 60]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Users/pc/Downloads/Mystery_Box.rgb)
+[2023.01.22-15.20.28:770][ 60]Error: Texture import failed
+[2023.01.22-15.20.28:770][ 60]LogEditorFactories: Warning: -- import failed
+[2023.01.22-15.20.28:784][ 60]LogEditorFactories: Performing atomic reimport of [E:/Users/pc/Downloads/Poids_1kg.rgb]
+[2023.01.22-15.20.28:784][ 60]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Users/pc/Downloads/Poids_1kg.rgb)
+[2023.01.22-15.20.28:785][ 60]Error: Texture import failed
+[2023.01.22-15.20.28:785][ 60]LogEditorFactories: Warning: -- import failed
+[2023.01.22-15.20.49:490][290]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.22-15.20.49:499][290]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.22-15.20.49:507][291]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.22-15.20.53:635][325]LogContentBrowser: Attempting asset rename: NewFolder -> Image
+[2023.01.22-15.20.53:636][325]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.22-15.20.58:179][353]LogAssetTools: Warning: Failed to import 'e:\Users\pc\Downloads\Poids_7kg.rgb'. Unknown extension 'rgb'.
+[2023.01.22-15.20.58:200][353]LogAssetTools: Warning: Failed to import 'e:\Users\pc\Downloads\Key_2.rgb'. Unknown extension 'rgb'.
+[2023.01.22-15.20.58:216][353]LogAssetTools: Warning: Failed to import 'e:\Users\pc\Downloads\Key_Image.rgb'. Unknown extension 'rgb'.
+[2023.01.22-15.20.58:237][353]LogAssetTools: Warning: Failed to import 'e:\Users\pc\Downloads\Match.rgb'. Unknown extension 'rgb'.
+[2023.01.22-15.20.58:249][353]LogAssetTools: Warning: Failed to import 'e:\Users\pc\Downloads\Mystery_Box.rgb'. Unknown extension 'rgb'.
+[2023.01.22-15.20.58:266][353]LogAssetTools: Warning: Failed to import 'e:\Users\pc\Downloads\Poids_1kg.rgb'. Unknown extension 'rgb'.
+[2023.01.22-15.20.58:282][353]LogAssetTools: Warning: Failed to import 'e:\Users\pc\Downloads\Poids_3.rgb'. Unknown extension 'rgb'.
+[2023.01.22-15.20.58:311][353]LogAssetTools: Warning: Failed to import 'e:\Users\pc\Downloads\Poids_5kg.rgb'. Unknown extension 'rgb'.
+[2023.01.22-15.22.41:108][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.01.22-15.22.41:109][668]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GD/Maps/Project_Degree_Select_House' took 0.077
+[2023.01.22-15.22.41:110][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Key_Image] ([1] browsable assets)...
+[2023.01.22-15.22.41:162][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Key_Image.Key_Image]
+[2023.01.22-15.22.41:162][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Key_Image]
+[2023.01.22-15.22.41:165][668]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Key_Image_Auto3
+[2023.01.22-15.22.41:165][668]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Key_Image_Auto306258BE349B1F986A02FB4AEC5CD2BC8.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Key_Image_Auto3.uasset'
+[2023.01.22-15.22.41:166][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Key_2] ([1] browsable assets)...
+[2023.01.22-15.22.41:200][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Key_2.Key_2]
+[2023.01.22-15.22.41:200][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Key_2]
+[2023.01.22-15.22.41:210][668]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Key_2_Auto3
+[2023.01.22-15.22.41:210][668]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Key_2_Auto3A38F04F643BEC628B734E0B4F5AB2226.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Key_2_Auto3.uasset'
+[2023.01.22-15.22.41:211][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Mystery_Box] ([1] browsable assets)...
+[2023.01.22-15.22.41:219][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Mystery_Box.Mystery_Box]
+[2023.01.22-15.22.41:219][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Mystery_Box]
+[2023.01.22-15.22.41:221][668]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Mystery_Box_Auto3
+[2023.01.22-15.22.41:221][668]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Mystery_Box_Auto37943980341520D491C8E6FAC180AC389.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Mystery_Box_Auto3.uasset'
+[2023.01.22-15.22.41:222][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Match] ([1] browsable assets)...
+[2023.01.22-15.22.41:223][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Match.Match]
+[2023.01.22-15.22.41:223][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Match]
+[2023.01.22-15.22.41:236][668]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Match_Auto3
+[2023.01.22-15.22.41:237][668]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Match_Auto36FF2E45549D6C2A6BEF9999F0107320F.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Match_Auto3.uasset'
+[2023.01.22-15.22.41:237][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Poids_5kg] ([1] browsable assets)...
+[2023.01.22-15.22.41:239][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Poids_5kg.Poids_5kg]
+[2023.01.22-15.22.41:239][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Poids_5kg]
+[2023.01.22-15.22.41:240][668]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Poids_5kg_Auto3
+[2023.01.22-15.22.41:241][668]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_5kg_Auto3851DF1F9458A552AF7CFAFBAB7238186.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Poids_5kg_Auto3.uasset'
+[2023.01.22-15.22.41:241][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Poids_3] ([1] browsable assets)...
+[2023.01.22-15.22.41:243][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Poids_3.Poids_3]
+[2023.01.22-15.22.41:243][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Poids_3]
+[2023.01.22-15.22.41:244][668]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Poids_3_Auto3
+[2023.01.22-15.22.41:245][668]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_3_Auto348B8B3E148AC794B0E00B3B120D1605D.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Poids_3_Auto3.uasset'
+[2023.01.22-15.22.41:245][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GD/Interactainable/Inventory/Poids_7kg] ([1] browsable assets)...
+[2023.01.22-15.22.41:245][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Poids_7kg]
+[2023.01.22-15.22.41:256][668]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Poids_7kg_Auto3
+[2023.01.22-15.22.41:256][668]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_7kg_Auto3F1793AE4401EED3902EE1693FE49EE4C.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Poids_7kg_Auto3.uasset'
+[2023.01.22-15.22.41:257][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Poids_1kg] ([1] browsable assets)...
+[2023.01.22-15.22.41:259][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Poids_1kg.Poids_1kg]
+[2023.01.22-15.22.41:259][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Poids_1kg]
+[2023.01.22-15.22.41:261][668]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Poids_1kg_Auto3
+[2023.01.22-15.22.41:261][668]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_1kg_Auto37B247F8F4B24D6A0DD79D896490D3B1C.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Poids_1kg_Auto3.uasset'
+[2023.01.22-15.22.41:262][668]LogFileHelpers: Auto-saving content packages took 0.153
+[2023.01.22-15.28.33:853][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 e:\Users\pc\Downloads\Key_Image.tga)
+[2023.01.22-15.28.33:874][735]LogTexture: Display: Building textures: /Game/GD/Interactainable/Inventory/Image/Key_Image.Key_Image (BGRA8, 572X278 X1X1) (Required Memory Estimate: 3.03299 MB), EncodeSpeed: Fast
+[2023.01.22-15.28.33:874][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 e:\Users\pc\Downloads\Log(Buches).tga)
+[2023.01.22-15.28.33:884][735]LogTexture: Display: Building textures: /Game/GD/Interactainable/Inventory/Image/Log_Buches_.Log_Buches_ (BGRA8, 907X463 X1X1) (Required Memory Estimate: 8.009739 MB), EncodeSpeed: Fast
+[2023.01.22-15.28.33:884][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 e:\Users\pc\Downloads\Match.tga)
+[2023.01.22-15.28.33:891][735]LogTexture: Display: Building textures: /Game/GD/Interactainable/Inventory/Image/Match.Match (BGRA8, 582X363 X1X1) (Required Memory Estimate: 4.029579 MB), EncodeSpeed: Fast
+[2023.01.22-15.28.33:891][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 e:\Users\pc\Downloads\Mystery_Box.tga)
+[2023.01.22-15.28.33:897][735]LogTexture: Display: Building textures: /Game/GD/Interactainable/Inventory/Image/Mystery_Box.Mystery_Box (BGRA8, 519X382 X1X1) (Required Memory Estimate: 3.781471 MB), EncodeSpeed: Fast
+[2023.01.22-15.28.33:897][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 e:\Users\pc\Downloads\Poids_1kg.tga)
+[2023.01.22-15.28.33:903][735]LogTexture: Display: Building textures: /Game/GD/Interactainable/Inventory/Image/Poids_1kg.Poids_1kg (BGRA8, 430X265 X1X1) (Required Memory Estimate: 2.173424 MB), EncodeSpeed: Fast
+[2023.01.22-15.28.33:903][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 e:\Users\pc\Downloads\Poids_3.tga)
+[2023.01.22-15.28.33:907][735]LogTexture: Display: Building textures: /Game/GD/Interactainable/Inventory/Image/Poids_3.Poids_3 (BGRA8, 355X248 X1X1) (Required Memory Estimate: 1.67923 MB), EncodeSpeed: Fast
+[2023.01.22-15.28.33:907][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 e:\Users\pc\Downloads\Poids_5kg.tga)
+[2023.01.22-15.28.33:911][735]LogTexture: Display: Building textures: /Game/GD/Interactainable/Inventory/Image/Poids_5kg.Poids_5kg (TFO_AutoDXT, 272X192 X1X1) (Required Memory Estimate: 0.996094 MB), EncodeSpeed: Fast
+[2023.01.22-15.28.33:911][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 e:\Users\pc\Downloads\Poids_7kg.tga)
+[2023.01.22-15.28.33:917][735]LogTexture: Display: Building textures: /Game/GD/Interactainable/Inventory/Image/Poids_7kg.Poids_7kg (BGRA8, 483X315 X1X1) (Required Memory Estimate: 2.901936 MB), EncodeSpeed: Fast
+[2023.01.22-15.28.33:917][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 e:\Users\pc\Downloads\Key_2.tga)
+[2023.01.22-15.28.33:981][735]LogTexture: Display: Building textures: /Game/GD/Interactainable/Inventory/Image/Key_2.Key_2 (BGRA8, 703X368 X1X1) (Required Memory Estimate: 4.934387 MB), EncodeSpeed: Fast
+[2023.01.22-15.29.33:574][ 33]BlueprintLog: New page: Compile BP_Base_Parent_Inventory_Item
+[2023.01.22-15.29.33:657][ 33]LogProperty: Warning: Serialized Class /Script/Engine.Texture2D for a property of Class /Script/UMG.Image. Reference will be nullptred.
+    Property = ObjectProperty /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item_C:Image
+    Item = Texture2D /Game/GD/Interactainable/Inventory/Mystery_Box.Mystery_Box
+[2023.01.22-15.29.33:657][ 33]LogProperty: Warning: Serialized Class /Script/Engine.Texture2D for a property of Class /Script/UMG.Image. Reference will be nullptred.
+    Property = ObjectProperty /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item_C:Image
+    Item = Texture2D /Game/GD/Interactainable/Inventory/Key_Image.Key_Image
+[2023.01.22-15.29.33:658][ 33]LogProperty: Warning: Serialized Class /Script/Engine.Texture2D for a property of Class /Script/UMG.Image. Reference will be nullptred.
+    Property = ObjectProperty /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item_C:Image
+    Item = Texture2D /Game/GD/Interactainable/Inventory/Match.Match
+[2023.01.22-15.29.33:658][ 33]LogProperty: Warning: Serialized Class /Script/Engine.Texture2D for a property of Class /Script/UMG.Image. Reference will be nullptred.
+    Property = ObjectProperty /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item_C:Image
+    Item = Texture2D /Game/GD/Interactainable/Inventory/Poids_1kg.Poids_1kg
+[2023.01.22-15.29.33:658][ 33]LogProperty: Warning: Serialized Class /Script/Engine.Texture2D for a property of Class /Script/UMG.Image. Reference will be nullptred.
+    Property = ObjectProperty /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item_C:Image
+    Item = Texture2D /Game/GD/Interactainable/Inventory/Key_2.Key_2
+[2023.01.22-15.29.33:659][ 33]LogProperty: Warning: Serialized Class /Script/Engine.Texture2D for a property of Class /Script/UMG.Image. Reference will be nullptred.
+    Property = ObjectProperty /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item_C:Image
+    Item = Texture2D /Game/GD/Interactainable/Inventory/Poids_5kg.Poids_5kg
+[2023.01.22-15.29.33:659][ 33]LogProperty: Warning: Serialized Class /Script/Engine.Texture2D for a property of Class /Script/UMG.Image. Reference will be nullptred.
+    Property = ObjectProperty /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item_C:Image
+    Item = Texture2D /Game/GD/Interactainable/Inventory/Poids_3.Poids_3
+[2023.01.22-15.29.33:659][ 33]LogProperty: Warning: Serialized Class /Script/Engine.Texture2D for a property of Class /Script/UMG.Image. Reference will be nullptred.
+    Property = ObjectProperty /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item_C:Image
+    Item = Texture2D /Game/GD/Interactainable/Inventory/Poids_7kg.Poids_7kg
+[2023.01.22-15.29.33:795][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.01.22-15.29.43:047][175]Cmd: TRANSACTION UNDO
+[2023.01.22-15.29.43:047][175]LogEditorTransaction: Undo Change Parameter Type
+[2023.01.22-15.32.41:681][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.01.22-15.32.41:682][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GD/Maps/Project_Degree_Select_House' took 0.079
+[2023.01.22-15.32.41:683][345]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item] ([2] browsable assets)...
+[2023.01.22-15.32.41:689][345]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item]
+[2023.01.22-15.32.41:689][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item]
+[2023.01.22-15.32.41:703][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item_Auto4
+[2023.01.22-15.32.41:703][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Base_Parent_Inventory_Item_Au8241F0E042E030CC1782489CBFC6992A.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item_Auto4.uasset'
+[2023.01.22-15.32.41:704][345]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GD/Widget/HUD] ([2] browsable assets)...
+[2023.01.22-15.32.41:707][345]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GD/Widget/HUD.HUD]
+[2023.01.22-15.32.41:707][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Widget/HUD]
+[2023.01.22-15.32.41:707][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Widget/HUD_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.01.22-15.32.41:758][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Widget/HUD_Auto4
+[2023.01.22-15.32.41:758][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUD_Auto49B3C30894338E933133AAF8589D6AAB0.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Widget/HUD_Auto4.uasset'
+[2023.01.22-15.32.41:759][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Image/Key_Image] ([1] browsable assets)...
+[2023.01.22-15.32.41:761][345]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Image/Key_Image.Key_Image]
+[2023.01.22-15.32.41:761][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Image/Key_Image]
+[2023.01.22-15.32.41:762][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Image/Key_Image_Auto4
+[2023.01.22-15.32.41:763][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Key_Image_Auto4298239C54F188F7E508F0F90DA4768FC.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Image/Key_Image_Auto4.uasset'
+[2023.01.22-15.32.41:763][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Image/Log_Buches_] ([1] browsable assets)...
+[2023.01.22-15.32.41:765][345]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Image/Log_Buches_.Log_Buches_]
+[2023.01.22-15.32.41:765][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Image/Log_Buches_]
+[2023.01.22-15.32.41:767][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Image/Log_Buches__Auto4
+[2023.01.22-15.32.41:767][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Log_Buches__Auto4BCAC376742E2E6BB928C639C0AD484A4.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Image/Log_Buches__Auto4.uasset'
+[2023.01.22-15.32.41:767][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Image/Match] ([1] browsable assets)...
+[2023.01.22-15.32.41:769][345]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Image/Match.Match]
+[2023.01.22-15.32.41:769][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Image/Match]
+[2023.01.22-15.32.41:773][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Image/Match_Auto4
+[2023.01.22-15.32.41:773][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Match_Auto49B5CFB5A4F47E7304D5CD39BCF6590D4.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Image/Match_Auto4.uasset'
+[2023.01.22-15.32.41:774][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Image/Mystery_Box] ([1] browsable assets)...
+[2023.01.22-15.32.41:775][345]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Image/Mystery_Box.Mystery_Box]
+[2023.01.22-15.32.41:775][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Image/Mystery_Box]
+[2023.01.22-15.32.41:777][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Image/Mystery_Box_Auto4
+[2023.01.22-15.32.41:777][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Mystery_Box_Auto426065A364C147FA56A802084C4307DE9.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Image/Mystery_Box_Auto4.uasset'
+[2023.01.22-15.32.41:778][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Image/Poids_1kg] ([1] browsable assets)...
+[2023.01.22-15.32.41:779][345]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Image/Poids_1kg.Poids_1kg]
+[2023.01.22-15.32.41:779][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Image/Poids_1kg]
+[2023.01.22-15.32.41:780][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Image/Poids_1kg_Auto4
+[2023.01.22-15.32.41:780][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_1kg_Auto4FB4663634D4D0BD661232D86A260B4D4.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Image/Poids_1kg_Auto4.uasset'
+[2023.01.22-15.32.41:782][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Image/Poids_3] ([1] browsable assets)...
+[2023.01.22-15.32.41:783][345]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Image/Poids_3.Poids_3]
+[2023.01.22-15.32.41:783][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Image/Poids_3]
+[2023.01.22-15.32.41:784][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Image/Poids_3_Auto4
+[2023.01.22-15.32.41:785][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_3_Auto464979A2F4B9BA1B0C06D3E8382875FE8.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Image/Poids_3_Auto4.uasset'
+[2023.01.22-15.32.41:785][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Image/Poids_5kg] ([1] browsable assets)...
+[2023.01.22-15.32.41:786][345]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Image/Poids_5kg.Poids_5kg]
+[2023.01.22-15.32.41:786][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Image/Poids_5kg]
+[2023.01.22-15.32.41:788][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Image/Poids_5kg_Auto4
+[2023.01.22-15.32.41:788][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_5kg_Auto43D5E950C491ADAB30AAE93A4E629C43F.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Image/Poids_5kg_Auto4.uasset'
+[2023.01.22-15.32.41:788][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Image/Poids_7kg] ([1] browsable assets)...
+[2023.01.22-15.32.41:789][345]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Image/Poids_7kg.Poids_7kg]
+[2023.01.22-15.32.41:789][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Image/Poids_7kg]
+[2023.01.22-15.32.41:792][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Image/Poids_7kg_Auto4
+[2023.01.22-15.32.41:792][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_7kg_Auto4DA910049461084354E3F3F8B1F5D3BDB.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Image/Poids_7kg_Auto4.uasset'
+[2023.01.22-15.32.41:792][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Interactainable/Inventory/Image/Key_2] ([1] browsable assets)...
+[2023.01.22-15.32.41:794][345]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Interactainable/Inventory/Image/Key_2.Key_2]
+[2023.01.22-15.32.41:794][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Interactainable/Inventory/Image/Key_2]
+[2023.01.22-15.32.41:795][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Interactainable/Inventory/Image/Key_2_Auto4
+[2023.01.22-15.32.41:796][345]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Key_2_Auto4A8E0C3034355A1A2A285DFB7DCAB7334.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Interactainable/Inventory/Image/Key_2_Auto4.uasset'
+[2023.01.22-15.32.41:796][345]LogFileHelpers: Auto-saving content packages took 0.114
+[2023.01.22-15.32.44:299][427]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.22-15.32.44:299][427]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.22-15.32.46:706][571]LogContentBrowser: Deferred new asset file creation: Mystery_Box_Mat
+[2023.01.22-15.32.46:713][571]LogContentBrowser: Creating deferred item: Mystery_Box_Mat
+[2023.01.22-15.32.46:720][572]LogContentBrowser: Renaming the item being created (Deferred Item: Mystery_Box_Mat).
+[2023.01.22-15.32.51:489][612]LogContentBrowser: Attempting asset rename: Mystery_Box_Mat -> Mystery_Box_Mat
+[2023.01.22-15.32.51:768][612]LogMaterial: Display: Missing cached shadermap for Mystery_Box_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7621D5C62E2875C4467561721E6E32838B2A195B), compiling. 
+[2023.01.22-15.32.51:914][612]LogContentBrowser: End creating deferred item Mystery_Box_Mat
+[2023.01.22-15.32.54:272][634]LogShaderCompilers: Display: ================================================
+[2023.01.22-15.32.54:272][634]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.22-15.32.54:272][634]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.01.22-15.32.54:272][634]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2023.01.22-15.32.54:272][634]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.22-15.32.54:272][634]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.22-15.32.54:272][634]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.01.22-15.32.54:272][634]LogShaderCompilers: Display: Jobs assigned 4, completed 2 (50.00%)
+[2023.01.22-15.32.54:272][634]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display: Time job spent in pending queue: average 1.10 s, longest 2.16 s
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display: Job execution time: average 2.14 s, max 2.14 s
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display: Job life time (pending + execution): average 2.19 s, max 2.19
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.19 s
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display: Average processing rate: 0.91 jobs/sec
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display: Effective parallelization: 0.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 50.00% of total time (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 50.00% of total time (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.01.22-15.32.54:282][634]LogShaderCompilers: Display: ================================================
+[2023.01.22-15.32.54:855][640]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/GD/Interactainable/Inventory/Mystery_Box_Mat.Mystery_Box_Mat
+[2023.01.22-15.32.54:915][640]LogMaterial: Display: Missing cached shadermap for Preview:Mystery_Box_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 058CF73A9776B11EE1F5DBF521B8E3B9AB3178EB), compiling. 
+[2023.01.22-15.32.54:967][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-15.32.55:173][640]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2023.01.22-15.32.55:238][640]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.01.22-15.32.55:674][640]LogMaterial: Display: Missing cached shadermap for Preview:Mystery_Box_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 57DF3790FDBD75B103C29E581B765A7A026289FD), compiling. 
+[2023.01.22-15.32.55:689][640]LogMaterial: Display: Missing cached shadermap for Preview:Mystery_Box_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: EE4FE098287440C6B3E5F4C670E2F0D1D0253E57), compiling. 
+[2023.01.22-15.32.55:728][640]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CA313380E9F4838EEED993058C9739AB06DF44D5), compiling. 
+[2023.01.22-15.32.55:884][640]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.22-15.32.55:884][640]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.01.22-15.32.55:884][640]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.22-15.32.55:884][640]MaterialEditorStats: Shader Count: 0
+[2023.01.22-15.32.55:894][640]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.01.22-15.32.56:257][642]MaterialEditorStats: Texture samplers: 3/16
+[2023.01.22-15.32.56:257][642]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.01.22-15.32.56:257][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.22-15.32.56:257][642]MaterialEditorStats: Shader Count: 4
+[2023.01.22-15.32.59:592][674]LogMaterialEditor: Saving and Compiling material Mystery_Box_Mat
+[2023.01.22-15.33.02:532][674]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.01.22-15.33.02:532][674]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049895s
+[2023.01.22-15.33.04:665][674]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004212s (2.179433s overbudget)
+[2023.01.22-15.33.04:995][674]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Mystery_Box_Mat
+[2023.01.22-15.33.04:995][674]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Mystery_Box_Mat83C118874E65BA70B5F721B425FCC178.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Mystery_Box_Mat.uasset'
+[2023.01.22-15.33.05:008][674]AssetCheck: New page: Asset Save: Mystery_Box_Mat
+[2023.01.22-15.33.05:008][674]LogContentValidation: Display: Validating Material /Game/GD/Interactainable/Inventory/Mystery_Box_Mat.Mystery_Box_Mat
+[2023.01.22-15.34.30:026][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2023.01.22-15.34.33:031][545]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.22-15.34.33:143][545]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-15.34.33:143][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-15.34.33:187][545]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/GD/Interactainable/Inventory/Mystery_Box_Mat.Mystery_Box_Mat
+	Asset Type: Material
+[2023.01.22-15.34.34:338][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.01.22-15.34.34:417][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.01.22-15.34.34:481][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.22-15.34.38:742][611]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.22-15.34.38:742][611]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.22-15.35.04:665][115]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.35.04:665][115]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.35.17:368][220]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.35.17:368][220]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.35.39:797][670]BlueprintLog: New page: Compile HUD
+[2023.01.22-15.35.39:804][670]LogBlueprint: Error: [AssetLog] E:\Users\pc\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] In use pin  Image  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.01.22-15.35.39:907][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.01.22-15.35.40:912][682]BlueprintLog: New page: Compile HUD
+[2023.01.22-15.35.40:919][682]LogBlueprint: Error: [AssetLog] E:\Users\pc\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] In use pin  Image  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.01.22-15.35.41:022][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.22-15.35.45:452][732]BlueprintLog: New page: Compile BP_Base_Parent_Inventory_Item
+[2023.01.22-15.35.45:658][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.01.22-15.35.48:596][766]BlueprintLog: New page: Compile HUD
+[2023.01.22-15.35.48:713][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.01.22-15.38.56:798][127]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UWidget::SetVisibility' [Élément introuvable.]
+[2023.01.22-15.39.17:947][452]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.39.17:947][452]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.39.57:721][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.01.22-15.39.57:984][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item
+[2023.01.22-15.39.57:984][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Base_Parent_Inventory_Item565A884946073666C378DFB4E546CAA4.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.uasset'
+[2023.01.22-15.39.57:988][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset" SILENT=true
+[2023.01.22-15.39.58:042][753]LogSavePackage: Moving output files for package: /Game/GD/Widget/HUD
+[2023.01.22-15.39.58:042][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUDDEEDB9FD406D8CF25419B8943192D237.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset'
+[2023.01.22-15.39.58:045][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Key_Image
+[2023.01.22-15.39.58:045][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Key_ImageB38768854635D1A9E8D5A28BBB96B119.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Key_Image.uasset'
+[2023.01.22-15.39.58:072][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Key_2
+[2023.01.22-15.39.58:072][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Key_22F1D837B4828BBFEA81F958EAFCD6645.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Key_2.uasset'
+[2023.01.22-15.39.58:093][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Mystery_Box
+[2023.01.22-15.39.58:093][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Mystery_BoxB5C7FDEB44D9C106A34ACEA76BFB44DB.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Mystery_Box.uasset'
+[2023.01.22-15.39.58:114][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Match
+[2023.01.22-15.39.58:115][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Match8795A07A4FBD1AE4FFE7928822B67078.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Match.uasset'
+[2023.01.22-15.39.58:121][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Poids_5kg
+[2023.01.22-15.39.58:121][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_5kg90D322AB411E52E059D8A79B37747BD3.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Poids_5kg.uasset'
+[2023.01.22-15.39.58:130][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Poids_3
+[2023.01.22-15.39.58:130][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_37EF705A44300E1C75209E3B3F4589B83.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Poids_3.uasset'
+[2023.01.22-15.39.58:141][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Poids_7kg
+[2023.01.22-15.39.58:141][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_7kg3273FF1748E77C55E114B1A73A03ADB0.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Poids_7kg.uasset'
+[2023.01.22-15.39.58:162][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Poids_1kg
+[2023.01.22-15.39.58:162][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_1kg7CA177044B332664408FA2BA25EC2D27.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Poids_1kg.uasset'
+[2023.01.22-15.39.58:178][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Image/Key_Image
+[2023.01.22-15.39.58:178][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Key_Image927604634A45ABBDE057D78D3E1C7FCC.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Image/Key_Image.uasset'
+[2023.01.22-15.39.58:217][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Image/Log_Buches_
+[2023.01.22-15.39.58:217][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Log_Buches_D8D7BF1D42FB2C41107B1698BBCFE2B1.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Image/Log_Buches_.uasset'
+[2023.01.22-15.39.58:238][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Image/Match
+[2023.01.22-15.39.58:238][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Match47E24C3545632CF011A765AF86ED36C4.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Image/Match.uasset'
+[2023.01.22-15.39.58:256][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Image/Mystery_Box
+[2023.01.22-15.39.58:256][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Mystery_Box859E16264CD539686D6282B749FB3F31.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Image/Mystery_Box.uasset'
+[2023.01.22-15.39.58:279][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Image/Poids_1kg
+[2023.01.22-15.39.58:279][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_1kg23F3946A432094539154D88DF608D47C.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Image/Poids_1kg.uasset'
+[2023.01.22-15.39.58:287][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Image/Poids_3
+[2023.01.22-15.39.58:287][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_37A9B7B0346464C91A19CAD92AB6087CD.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Image/Poids_3.uasset'
+[2023.01.22-15.39.58:293][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Image/Poids_5kg
+[2023.01.22-15.39.58:293][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_5kg7E5D7C1A460F4F84577CF8A7EC1F559C.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Image/Poids_5kg.uasset'
+[2023.01.22-15.39.58:308][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Image/Poids_7kg
+[2023.01.22-15.39.58:308][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Poids_7kg6D917AFC433611B02CBEDBB40D2B04C1.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Image/Poids_7kg.uasset'
+[2023.01.22-15.39.58:381][753]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/Image/Key_2
+[2023.01.22-15.39.58:381][753]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Key_2A43B4D414850EC3BCBC15C9E00A9FBA7.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/Image/Key_2.uasset'
+[2023.01.22-15.39.58:402][753]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Base_Parent_Inventory_Item.BP_Base_Parent_Inventory_Item
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Mystery_Box.Mystery_Box
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Key_2.Key_2
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Poids_5kg.Poids_5kg
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Image/Key_2.Key_2
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Poids_7kg.Poids_7kg
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Image/Poids_7kg.Poids_7kg
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Poids_3.Poids_3
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Poids_1kg.Poids_1kg
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Image/Poids_5kg.Poids_5kg
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Image/Poids_3.Poids_3
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Image/Poids_1kg.Poids_1kg
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Image/Mystery_Box.Mystery_Box
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Image/Match.Match
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Image/Log_Buches_.Log_Buches_
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Image/Key_Image.Key_Image
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Key_Image.Key_Image
+[2023.01.22-15.39.58:402][753]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/HUD.HUD
+[2023.01.22-15.39.58:403][753]LogContentValidation: Display: Validating Texture2D /Game/GD/Interactainable/Inventory/Match.Match
+[2023.01.22-15.43.18:931][311]LogEditorTransaction: Undo Create Pin Link
+[2023.01.22-15.43.19:666][326]LogEditorTransaction: Undo Create Pin Link
+[2023.01.22-15.43.21:774][350]LogEditorTransaction: Redo Create Pin Link
+[2023.01.22-15.43.22:161][353]LogEditorTransaction: Redo Create Pin Link
+[2023.01.22-15.44.01:568][126]LogEditorTransaction: Undo Move Node
+[2023.01.22-15.44.02:161][135]LogEditorTransaction: Undo Create Pin Link
+[2023.01.22-15.44.02:642][150]LogEditorTransaction: Undo Delete current selection
+[2023.01.22-15.44.03:103][155]LogEditorTransaction: Undo Align Middle
+[2023.01.22-15.44.03:656][161]LogEditorTransaction: Undo Move Node
+[2023.01.22-15.44.04:027][165]LogEditorTransaction: Undo Create Pin Link
+[2023.01.22-15.44.04:396][169]LogEditorTransaction: Undo Create Pin Link
+[2023.01.22-15.44.04:762][173]LogEditorTransaction: Undo Create Pin Link
+[2023.01.22-15.44.05:130][177]LogEditorTransaction: Undo Delete current selection
+[2023.01.22-15.44.05:408][180]LogEditorTransaction: Undo Move Nodes
+[2023.01.22-15.44.05:775][184]LogEditorTransaction: Undo Paste clipboard contents
+[2023.01.22-15.44.06:053][187]LogEditorTransaction: Undo Move Nodes
+[2023.01.22-15.44.08:194][210]LogEditorTransaction: Undo Delete current selection
+[2023.01.22-15.44.55:631][ 93]LogEditorTransaction: Undo Move Node
+[2023.01.22-15.44.58:106][131]LogEditorTransaction: Undo Move Node
+[2023.01.22-15.46.22:606][912]LogDerivedDataCache: C:/Users/pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.290 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.22-15.47.29:732][209]LogEditorTransaction: Undo Move Node
+[2023.01.22-15.47.30:928][240]LogEditorTransaction: Undo Create Reroute Node
+[2023.01.22-15.47.32:271][253]LogEditorTransaction: Undo Create Pin Link
+[2023.01.22-15.49.35:192][696]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.49.35:193][696]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.22-15.49.59:965][235]LogEditorTransaction: Undo Move Node
+[2023.01.22-15.50.01:378][265]LogEditorTransaction: Undo Create Pin Link
+[2023.01.22-15.50.03:123][280]LogEditorTransaction: Undo Add Node
+[2023.01.22-15.50.29:188][898]LogEditorTransaction: Undo Add Node
+[2023.01.22-15.50.32:401][971]LogEditorTransaction: Undo Add Node
+[2023.01.22-15.52.36:075][884]BlueprintLog: New page: Compile HUD
+[2023.01.22-15.52.36:262][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.01.22-15.53.45:688][924]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/ThirdPerson/Blueprints/NewBlueprint.NewBlueprint
+[2023.01.22-15.53.45:688][924]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-15.54.11:095][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.01.22-15.54.11:154][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset" SILENT=true
+[2023.01.22-15.54.11:211][360]LogSavePackage: Moving output files for package: /Game/GD/Widget/HUD
+[2023.01.22-15.54.11:211][360]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUDB99DA0364EE9632EBED70BA2C857F004.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset'
+[2023.01.22-15.54.11:226][360]AssetCheck: New page: Asset Save: HUD
+[2023.01.22-15.54.11:226][360]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/HUD.HUD
+[2023.01.22-15.54.15:083][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.22-15.54.15:451][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Cylinder008' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:451][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:537][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box005' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:537][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box006' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:538][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box008' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:538][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box011' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:539][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box012' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:539][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box013' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:539][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box023' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:540][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box025' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:540][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box029' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:541][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box030' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:541][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box037' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:542][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box039' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:542][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Cylinder009' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:542][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/PorteBlockout' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:543][392]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Poteau_NoUV__LP' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.22-15.54.15:618][392]LogMaterial: Display: Missing cached shadermap for M_Wood_Oak in PCD3D_SM5, Default, SM5 (DDC key hash: DF6B83F0E91DF51DA1069381921EFF4D97CD91E4), compiling. 
+[2023.01.22-15.54.15:619][392]LogMaterial: Warning: [AssetLog] E:\Users\pc\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Interactainable\Base\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.01.22-15.54.15:736][392]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GD/Maps/Blockout_Paris.Blockout_Paris
+[2023.01.22-15.54.15:736][392]Cmd: MAP LOAD FILE="../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Maps/Blockout_Paris.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.22-15.54.15:736][392]LightingResults: New page: Lighting Build
+[2023.01.22-15.54.15:765][392]LoadErrors: New page: Loading map: Blockout_Paris.umap
+[2023.01.22-15.54.15:767][392]LogWorld: UWorld::CleanupWorld for Project_Degree_Select_House, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-15.54.15:782][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-15.54.15:791][392]MapCheck: New page: Map Check
+[2023.01.22-15.54.15:791][392]LightingResults: New page: Lighting Build
+[2023.01.22-15.54.15:861][392]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.22-15.54.15:887][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.01.22-15.54.15:893][392]LogShaderCompilers: Display: ================================================
+[2023.01.22-15.54.15:893][392]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.22-15.54.15:893][392]LogShaderCompilers: Display: Total job queries 36, among them cache hits 10 (27.78%)
+[2023.01.22-15.54.15:893][392]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 13 distinct outputs (72.22%)
+[2023.01.22-15.54.15:893][392]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.22-15.54.15:893][392]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.22-15.54.15:893][392]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100.00%)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Average time worker was idle: 0.55 s
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Time job spent in pending queue: average 1.57 s, longest 4.26 s
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 2.14 s
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Job life time (pending + execution): average 2.45 s, max 4.87
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.59 s
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Average processing rate: 2.10 jobs/sec
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Effective parallelization: 1.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.77 sec, max 0.79 sec, min 0.75 sec)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.70 sec, max 0.79 sec, min 0.61 sec)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.15% of total time (compiled    2 times, average 0.77 sec, max 0.79 sec, min 0.75 sec)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.01% of total time (compiled    2 times, average 0.70 sec, max 0.79 sec, min 0.61 sec)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.27% of total time (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.10% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.07% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2023.01.22-15.54.15:894][392]LogShaderCompilers: Display: ================================================
+[2023.01.22-15.54.15:899][392]LogWorld: UWorld::CleanupWorld for Blockout_Paris, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-15.54.15:900][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-15.54.15:972][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.01.22-15.54.16:040][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.01.22-15.54.16:085][392]LogAudio: Display: Audio Device (ID: 1) registered with world 'Blockout_Paris'.
+[2023.01.22-15.54.16:085][392]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.22-15.54.16:085][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-15.54.16:086][392]LogAIModule: Creating AISystem for world Blockout_Paris
+[2023.01.22-15.54.16:156][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TA/Map/Sub_Lvl/Lvl_Manon) is flushing async loading
+[2023.01.22-15.54.16:156][392]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.01.22-15.54.16:167][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TA/Map/Sub_Lvl/Lvl_Vincent) is flushing async loading
+[2023.01.22-15.54.16:169][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TA/Map/Sub_Lvl/Lvl_Louise_F) is flushing async loading
+[2023.01.22-15.54.16:170][392]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TA/Map/Sub_Lvl/Lvl_Louise_L) is flushing async loading
+[2023.01.22-15.54.16:172][392]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.22-15.54.16:247][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.22-15.54.16:253][392]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.22-15.54.16:254][392]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,199ms to complete.
+[2023.01.22-15.54.16:254][392]LogFileHelpers: Loading map 'Blockout_Paris' took 0.518
+[2023.01.22-15.54.23:159][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.22-15.54.23:165][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.22-15.54.23:165][441]PIE: New page: PIE session: Blockout_Paris (22 janv. 2023 à 17:54:23)
+[2023.01.22-15.54.23:170][441]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.01.22-15.54.23:170][441]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.22-15.54.23:170][441]LogPlayLevel: Creating play world package: /Game/GD/Maps/UEDPIE_0_Blockout_Paris
+[2023.01.22-15.54.23:219][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049952s)
+[2023.01.22-15.54.23:219][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GD/Maps/Blockout_Paris.Blockout_Paris to /Game/GD/Maps/UEDPIE_0_Blockout_Paris.Blockout_Paris (0.050096s)
+[2023.01.22-15.54.23:220][441]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.22-15.54.23:220][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-15.54.23:220][441]LogAIModule: Creating AISystem for world Blockout_Paris
+[2023.01.22-15.54.23:220][441]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2023.01.22-15.54.23:291][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.01.22-15.54.23:293][441]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.22-15.54.23:293][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.22-15.54.23:293][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.22-15.54.23:293][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.22-15.54.23:293][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.22-15.54.23:293][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.22-15.54.23:293][441]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.22-15.54.23:293][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.22-15.54.23:293][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.22-15.54.23:293][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.22-15.54.23:293][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.22-15.54.23:293][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.22-15.54.23:295][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.22-15.54.23:311][441]LogAudioMixer: Display: Using Audio Hardware Device Casque (High Definition Audio Device)
+[2023.01.22-15.54.23:311][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.22-15.54.23:311][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.22-15.54.23:311][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.22-15.54.23:312][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.01.22-15.54.23:312][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.01.22-15.54.23:313][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.01.22-15.54.23:313][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.01.22-15.54.23:313][441]LogInit: FAudioDevice initialized.
+[2023.01.22-15.54.23:313][441]LogAudio: Display: Audio Device (ID: 2) registered with world 'Blockout_Paris'.
+[2023.01.22-15.54.23:330][441]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.22-15.54.23:424][441]LogWorld: Bringing World /Game/GD/Maps/UEDPIE_0_Blockout_Paris.Blockout_Paris up for play (max tick rate 0) at 2023.01.22-16.54.23
+[2023.01.22-15.54.23:425][441]LogWorld: Bringing up level for play took: 0.011393
+[2023.01.22-15.54.23:426][441]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.01.22-15.54.23:427][441]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.22-15.54.23:453][441]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.026 s
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: 
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: Ensure condition failed: Class.IsValid() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\UserInterface\InputSettings.cpp] [Line: 459]
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: Invalid PlayerInput class in Input Settings. Manual reset required.
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: Stack: 
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf5292073 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf4c4dcc2 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf4c65afc UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf4164e0d UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf41b4eee UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf3f14489 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8d89918 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8dbece6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8d8a3c2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8ddd4aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8de0cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8de05a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf877dcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf910aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c282f6 UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c40d9c UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c40e8a UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c43c4d UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c55564 UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c58736 UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffc7e1c7614 KERNEL32.DLL!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb026a1 ntdll.dll!UnknownFunction []
+[2023.01.22-15.54.23:453][441]LogOutputDevice: Error: 
+[2023.01.22-15.54.23:462][441]LogStats:                SubmitErrorReport -  0.000 s
+[2023.01.22-15.54.24:132][441]LogStats:                    SendNewReport -  0.671 s
+[2023.01.22-15.54.24:132][441]LogStats:             FDebug::EnsureFailed -  0.706 s
+[2023.01.22-15.54.24:132][441]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.22-15.54.24:156][441]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.024 s
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: 
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: Ensure condition failed: Class.IsValid() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\UserInterface\InputSettings.cpp] [Line: 466]
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: Invalid InputComponent class in Input Settings. Manual reset required.
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: Stack: 
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf5291cf3 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf4c67231 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf4c4dd84 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf4c65afc UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf4164e0d UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf41b4eee UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf3f14489 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8d89918 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8dbece6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8d8a3c2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.24:156][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8ddd4aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8de0cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf8de05a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf877dcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ffbf910aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c282f6 UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c40d9c UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c40e8a UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c43c4d UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c55564 UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ff743c58736 UnrealEditor.exe!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ffc7e1c7614 KERNEL32.DLL!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: [Callstack] 0x00007ffc7eb026a1 ntdll.dll!UnknownFunction []
+[2023.01.22-15.54.24:157][441]LogOutputDevice: Error: 
