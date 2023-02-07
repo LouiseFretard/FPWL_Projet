@@ -6879,3 +6879,13 @@ Script Stack (0 frames):
 [2023.02.07-18.31.56:123][731]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
 [2023.02.07-18.31.56:137][731]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2023.02.07-18.31.56:145][731]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-18.32.01:747][731]LogWorld: UWorld::CleanupWorld for Blockout_Paris, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-18.32.02:603][731]LogWorld: UWorld::CleanupWorld for Lvl_Vincent, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-18.32.02:603][731]LogWorld: UWorld::CleanupWorld for Lvl_Louise_F, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-18.32.02:603][731]LogWorld: UWorld::CleanupWorld for Lvl_Louise_L, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-18.32.02:603][731]LogWorld: UWorld::CleanupWorld for Lvl_Manon, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-18.32.16:307][731]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.02.07-18.32.39:090][731]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.07-18.32.39:877][731]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.07-18.33.04:326][731]LogExit: Editor shut down
+[2023.02.07-18.33.10:286][731]LogExit: Transaction tracking system shut down
