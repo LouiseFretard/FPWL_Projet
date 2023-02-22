@@ -4719,3 +4719,46 @@ External referencers of SoundWave /Game/GD/Sound/Environment_Noise/Door_Without_
 [2023.02.22-19.00.54:187][927]LogAudio: Display: Audio Device unregistered from world 'Blockout_Paris'.
 [2023.02.22-19.00.54:761][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
 [2023.02.22-19.00.54:767][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.22-19.00.59:708][927]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.22-19.01.01:511][927]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.22-19.01.01:798][927]LogExit: Preparing to exit.
+[2023.02.22-19.01.08:266][927]LogUObjectHash: Compacting FUObjectHashTables data took  59.79ms
+[2023.02.22-19.01.08:410][927]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.08:488][927]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.08:951][927]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.09:060][927]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.09:060][927]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.09:060][927]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.09:060][927]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.09:061][927]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.09:061][927]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.09:061][927]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.09:061][927]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.22-19.01.19:502][927]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:508][927]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:716][927]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:758][927]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:847][927]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:853][927]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:858][927]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:874][927]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:878][927]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:883][927]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:887][927]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:918][927]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:921][927]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.19:924][927]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.20:117][927]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.20:121][927]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.20:124][927]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.20:127][927]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.20:130][927]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.20:134][927]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.20:137][927]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.20:140][927]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.20:144][927]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.22:710][927]LogWorld: UWorld::CleanupWorld for Blockout_Paris, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.23:377][927]LogWorld: UWorld::CleanupWorld for Lvl_Louise_F, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.23:377][927]LogWorld: UWorld::CleanupWorld for Lvl_Manon, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.23:377][927]LogWorld: UWorld::CleanupWorld for Lvl_Louise_L, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.23:378][927]LogWorld: UWorld::CleanupWorld for Lvl_Vincent, bSessionEnded=true, bCleanupResources=true
