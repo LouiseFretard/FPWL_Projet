@@ -4689,3 +4689,4 @@ External referencers of SoundWave /Game/GD/Sound/Environment_Noise/Door_Without_
 [2023.02.22-18.54.53:358][747]LogSlate: Window 'Blockout_Paris' being destroyed
 [2023.02.22-18.54.54:269][747]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2023.02.22-18.54.54:299][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.22-18.57.55:342][747]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
