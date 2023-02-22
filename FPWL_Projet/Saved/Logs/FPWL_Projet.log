@@ -4768,3 +4768,4 @@ External referencers of SoundWave /Game/GD/Sound/Environment_Noise/Door_Without_
 [2023.02.22-19.01.45:970][927]LogExit: Editor shut down
 [2023.02.22-19.01.50:991][927]LogExit: Transaction tracking system shut down
 [2023.02.22-19.01.58:886][927]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2023.02.22-19.02.29:484][927]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
