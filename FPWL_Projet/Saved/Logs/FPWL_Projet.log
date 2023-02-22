@@ -4762,3 +4762,9 @@ External referencers of SoundWave /Game/GD/Sound/Environment_Noise/Door_Without_
 [2023.02.22-19.01.23:377][927]LogWorld: UWorld::CleanupWorld for Lvl_Manon, bSessionEnded=true, bCleanupResources=true
 [2023.02.22-19.01.23:377][927]LogWorld: UWorld::CleanupWorld for Lvl_Louise_L, bSessionEnded=true, bCleanupResources=true
 [2023.02.22-19.01.23:378][927]LogWorld: UWorld::CleanupWorld for Lvl_Vincent, bSessionEnded=true, bCleanupResources=true
+[2023.02.22-19.01.30:592][927]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.02.22-19.01.43:604][927]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.22-19.01.44:000][927]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.22-19.01.45:970][927]LogExit: Editor shut down
+[2023.02.22-19.01.50:991][927]LogExit: Transaction tracking system shut down
+[2023.02.22-19.01.58:886][927]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
