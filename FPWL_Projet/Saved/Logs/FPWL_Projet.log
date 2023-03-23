@@ -7026,3 +7026,396 @@ Script Stack (0 frames):
 [2023.03.23-17.13.38:091][217]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Blockout_Paris57D0CD5A43BBEB949ADFE4A011E211A8.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Maps/Blockout_Paris.umap'
 [2023.03.23-17.13.38:117][217]AssetCheck: New page: Asset Save: Blockout_Paris
 [2023.03.23-17.13.38:117][217]LogContentValidation: Display: Validating World /Game/GD/Maps/Blockout_Paris.Blockout_Paris
+[2023.03.23-17.17.43:888][339]BlueprintLog: New page: Compile BP_Spyglass_Child_Inventory
+[2023.03.23-17.17.44:029][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.03.23-17.17.48:294][373]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.23-17.17.48:304][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-17.17.48:304][373]PIE: New page: PIE session: Blockout_Paris (23 mars 2023 à 19:17:48)
+[2023.03.23-17.17.48:304][373]LogPlayLevel: Creating play world package: /Game/GD/Maps/UEDPIE_0_Blockout_Paris
+[2023.03.23-17.17.48:391][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087239s)
+[2023.03.23-17.17.48:392][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GD/Maps/Blockout_Paris.Blockout_Paris to /Game/GD/Maps/UEDPIE_0_Blockout_Paris.Blockout_Paris (0.087370s)
+[2023.03.23-17.17.48:392][373]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-17.17.48:392][373]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-17.17.48:392][373]LogAIModule: Creating AISystem for world Blockout_Paris
+[2023.03.23-17.17.48:392][373]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2023.03.23-17.17.48:573][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.03.23-17.17.48:575][373]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.03.23-17.17.48:575][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-17.17.48:575][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-17.17.48:575][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-17.17.48:575][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-17.17.48:575][373]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-17.17.48:575][373]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-17.17.48:575][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-17.17.48:575][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-17.17.48:575][373]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-17.17.48:575][373]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-17.17.48:575][373]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-17.17.48:578][373]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-17.17.48:591][373]LogAudioMixer: Display: Using Audio Hardware Device Casque (High Definition Audio Device)
+[2023.03.23-17.17.48:593][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-17.17.48:593][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-17.17.48:593][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-17.17.48:593][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.03.23-17.17.48:593][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.03.23-17.17.48:595][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.03.23-17.17.48:595][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.03.23-17.17.48:595][373]LogInit: FAudioDevice initialized.
+[2023.03.23-17.17.48:595][373]LogAudio: Display: Audio Device (ID: 30) registered with world 'Blockout_Paris'.
+[2023.03.23-17.17.48:607][373]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.23-17.17.48:630][373]LogWorld: Bringing World /Game/GD/Maps/UEDPIE_0_Blockout_Paris.Blockout_Paris up for play (max tick rate 0) at 2023.03.23-18.17.48
+[2023.03.23-17.17.48:632][373]PIE: Error: SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target
+[2023.03.23-17.17.48:634][373]LogWorld: Bringing up level for play took: 0.026485
+[2023.03.23-17.17.48:637][373]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.03.23-17.17.48:640][373]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.23-17.17.48:641][373]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.23-17.17.48:656][373]PIE: Server logged in
+[2023.03.23-17.17.48:658][373]PIE: Play in editor total start time 0,354 seconds.
+[2023.03.23-17.18.05:870][499]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-2.970215 Y=87.691383 R=0.000000
+[2023.03.23-17.18.06:361][503]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-2.970215 Y=87.691383 R=0.000000
+[2023.03.23-17.18.06:876][507]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.06:877][507]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.07:065][508]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.07:266][509]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.07:455][510]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.07:586][511]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.07:723][512]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.07:832][513]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.07:943][514]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.233310 Y=-0.979902 R=0.000000
+[2023.03.23-17.18.08:052][515]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.449542 Y=-1.934026 R=0.003699
+[2023.03.23-17.18.08:150][516]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.549642 Y=-2.384763 R=0.007079
+[2023.03.23-17.18.08:258][517]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.508975 Y=-2.927442 R=0.005385
+[2023.03.23-17.18.08:402][518]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.395336 Y=-4.533069 R=-0.000426
+[2023.03.23-17.18.08:545][519]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.368819 Y=-6.341810 R=-0.002529
+[2023.03.23-17.18.08:670][520]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.394791 Y=-7.805207 R=0.000358
+[2023.03.23-17.18.08:792][521]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.217777 Y=-9.502440 R=-0.023906
+[2023.03.23-17.18.08:912][522]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.297736 Y=-11.461731 R=-0.010522
+[2023.03.23-17.18.09:038][523]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.174292 Y=-13.464333 R=-0.035551
+[2023.03.23-17.18.09:165][524]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.187360 Y=-13.464342 R=-0.032423
+[2023.03.23-17.18.09:288][525]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.289545 Y=-13.464444 R=-0.007957
+[2023.03.23-17.18.09:416][526]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.474919 Y=-13.464740 R=0.036427
+[2023.03.23-17.18.09:549][527]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.500984 Y=-13.464793 R=0.042668
+[2023.03.23-17.18.09:651][528]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.159771 Y=-14.584362 R=-0.039028
+[2023.03.23-17.18.09:775][529]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.095043 Y=-14.584325 R=-0.055870
+[2023.03.23-17.18.09:920][530]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.135447 Y=-14.584346 R=-0.045357
+[2023.03.23-17.18.10:054][531]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.135447 Y=-14.599900 R=-0.045357
+[2023.03.23-17.18.10:189][532]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.466585 Y=-12.764981 R=0.040900
+[2023.03.23-17.18.10:356][533]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.128130 Y=-7.634930 R=0.190800
+[2023.03.23-17.18.10:461][534]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.317207 Y=-3.779238 R=0.216153
+[2023.03.23-17.18.10:577][535]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.644433 Y=-0.474162 R=0.237777
+[2023.03.23-17.18.10:704][536]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-2.066086 Y=3.633578 R=0.241268
+[2023.03.23-17.18.10:826][537]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-2.156693 Y=6.694695 R=0.235511
+[2023.03.23-17.18.10:945][538]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-2.443432 Y=8.950721 R=0.201823
+[2023.03.23-17.18.11:069][539]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-2.768719 Y=12.048453 R=0.150529
+[2023.03.23-17.18.11:179][540]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.034392 Y=12.051328 R=0.093744
+[2023.03.23-17.18.11:310][541]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.422807 Y=12.056006 R=0.010672
+[2023.03.23-17.18.11:436][542]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.555833 Y=12.057739 R=-0.017794
+[2023.03.23-17.18.11:572][543]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.623502 Y=12.058646 R=-0.032278
+[2023.03.23-17.18.11:694][544]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.610734 Y=14.695878 R=-0.029545
+[2023.03.23-17.18.11:812][545]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.610734 Y=14.695878 R=-0.029545
+[2023.03.23-17.18.11:939][546]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.520463 Y=14.694403 R=-0.005825
+[2023.03.23-17.18.12:055][547]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.505417 Y=14.694160 R=-0.001872
+[2023.03.23-17.18.12:178][548]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.505417 Y=14.694160 R=-0.001872
+[2023.03.23-17.18.12:294][549]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.505417 Y=14.678606 R=-0.001872
+[2023.03.23-17.18.12:425][550]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.505417 Y=14.678606 R=-0.001872
+[2023.03.23-17.18.12:540][551]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.505417 Y=14.678606 R=-0.001872
+[2023.03.23-17.18.12:650][552]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.505417 Y=14.678606 R=-0.001872
+[2023.03.23-17.18.12:768][553]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.505417 Y=14.694160 R=-0.001872
+[2023.03.23-17.18.12:877][554]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.490372 Y=14.693919 R=0.002081
+[2023.03.23-17.18.12:988][555]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.490372 Y=14.693919 R=0.002081
+[2023.03.23-17.18.13:095][556]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.475327 Y=14.724787 R=0.006033
+[2023.03.23-17.18.13:219][557]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-3.212017 Y=14.978663 R=0.075341
+[2023.03.23-17.18.13:336][558]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-2.768624 Y=14.904970 R=0.194107
+[2023.03.23-17.18.13:456][559]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-2.331442 Y=14.899789 R=0.310566
+[2023.03.23-17.18.13:591][560]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-2.030819 Y=14.974513 R=0.390604
+[2023.03.23-17.18.13:709][561]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.468087 Y=14.969916 R=0.541165
+[2023.03.23-17.18.13:851][562]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.034757 Y=14.951918 R=0.657048
+[2023.03.23-17.18.13:976][563]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.034757 Y=14.951918 R=0.657048
+[2023.03.23-17.18.14:130][564]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.989675 Y=14.951705 R=0.669089
+[2023.03.23-17.18.14:227][565]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.989675 Y=14.967259 R=0.669089
+[2023.03.23-17.18.14:381][566]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.959622 Y=14.967123 R=0.677125
+[2023.03.23-17.18.14:481][567]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.989018 Y=14.967257 R=0.669265
+[2023.03.23-17.18.14:647][568]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.927898 Y=14.966983 R=0.685607
+[2023.03.23-17.18.14:711][569]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.927898 Y=14.966983 R=0.685607
+[2023.03.23-17.18.14:830][570]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.927898 Y=14.982537 R=0.685607
+[2023.03.23-17.18.14:948][571]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.927898 Y=14.998092 R=0.685607
+[2023.03.23-17.18.15:055][572]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.897850 Y=14.997963 R=0.693658
+[2023.03.23-17.18.15:160][573]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.897850 Y=14.997963 R=0.693658
+[2023.03.23-17.18.15:274][574]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.882825 Y=14.997900 R=0.697684
+[2023.03.23-17.18.15:398][575]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.837753 Y=14.997719 R=0.709760
+[2023.03.23-17.18.15:518][576]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.702535 Y=14.997231 R=0.745989
+[2023.03.23-17.18.15:627][577]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.702535 Y=14.997231 R=0.745989
+[2023.03.23-17.18.15:733][578]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.687511 Y=14.997183 R=0.750014
+[2023.03.23-17.18.15:849][579]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.687511 Y=14.997183 R=0.750014
+[2023.03.23-17.18.15:961][580]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.687511 Y=14.997183 R=0.750014
+[2023.03.23-17.18.16:095][581]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.672487 Y=14.997135 R=0.754039
+[2023.03.23-17.18.16:207][582]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.672487 Y=14.997135 R=0.754039
+[2023.03.23-17.18.16:319][583]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.672487 Y=14.997135 R=0.754039
+[2023.03.23-17.18.16:436][584]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.687511 Y=14.981628 R=0.750014
+[2023.03.23-17.18.16:545][585]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.812318 Y=14.155191 R=0.716612
+[2023.03.23-17.18.16:664][586]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.767073 Y=12.459648 R=0.728024
+[2023.03.23-17.18.16:777][587]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.827824 Y=11.853230 R=0.714599
+[2023.03.23-17.18.16:914][588]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.802757 Y=9.880929 R=0.719861
+[2023.03.23-17.18.17:043][589]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.777995 Y=6.713979 R=0.724174
+[2023.03.23-17.18.17:151][590]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.701045 Y=3.317576 R=0.733233
+[2023.03.23-17.18.17:266][591]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.894503 Y=0.300247 R=0.722018
+[2023.03.23-17.18.17:402][592]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.032677 Y=-3.329978 R=0.721294
+[2023.03.23-17.18.17:521][593]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.232703 Y=-6.202097 R=0.732935
+[2023.03.23-17.18.17:656][594]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.076623 Y=-8.739901 R=0.715970
+[2023.03.23-17.18.17:769][595]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.089596 Y=-11.443890 R=0.717965
+[2023.03.23-17.18.17:898][596]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.023076 Y=-13.954833 R=0.704497
+[2023.03.23-17.18.18:025][597]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.035276 Y=-13.954887 R=0.707529
+[2023.03.23-17.18.18:153][598]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.903688 Y=-13.954334 R=0.674827
+[2023.03.23-17.18.18:279][599]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.708604 Y=-14.905130 R=0.626348
+[2023.03.23-17.18.18:410][600]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.695898 Y=-14.905089 R=0.622966
+[2023.03.23-17.18.18:524][601]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.882508 Y=-14.905773 R=0.672643
+[2023.03.23-17.18.18:648][602]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.933923 Y=-14.905990 R=0.686331
+[2023.03.23-17.18.18:775][603]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.850798 Y=-14.905645 R=0.664201
+[2023.03.23-17.18.18:885][604]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.961626 Y=-14.906112 R=0.693706
+[2023.03.23-17.18.19:006][605]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.006718 Y=-14.906318 R=0.705711
+[2023.03.23-17.18.19:125][606]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.066840 Y=-14.906608 R=0.721718
+[2023.03.23-17.18.19:250][607]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.066840 Y=-14.906608 R=0.721718
+[2023.03.23-17.18.19:375][608]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.066840 Y=-14.906608 R=0.721718
+[2023.03.23-17.18.19:493][609]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.066840 Y=-14.906608 R=0.721718
+[2023.03.23-17.18.19:609][610]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.157023 Y=-14.907074 R=0.745730
+[2023.03.23-17.18.19:731][611]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.187084 Y=-14.907238 R=0.753734
+[2023.03.23-17.18.19:838][612]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.213871 Y=-14.907388 R=0.760867
+[2023.03.23-17.18.19:948][613]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.175282 Y=-14.907173 R=0.750592
+[2023.03.23-17.18.20:070][614]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.175282 Y=-14.907173 R=0.750592
+[2023.03.23-17.18.20:186][615]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.190313 Y=-14.907256 R=0.754594
+[2023.03.23-17.18.20:297][616]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.115402 Y=-14.906855 R=0.734648
+[2023.03.23-17.18.20:412][617]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.992206 Y=-14.906251 R=0.701847
+[2023.03.23-17.18.20:526][618]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.917053 Y=-14.905917 R=0.681839
+[2023.03.23-17.18.20:641][619]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.917053 Y=-14.905917 R=0.681839
+[2023.03.23-17.18.20:767][620]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.917053 Y=-14.905917 R=0.681839
+[2023.03.23-17.18.20:889][621]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.917053 Y=-14.905917 R=0.681839
+[2023.03.23-17.18.21:043][622]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.917053 Y=-14.905917 R=0.681839
+[2023.03.23-17.18.21:149][623]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.917053 Y=-14.905917 R=0.681839
+[2023.03.23-17.18.21:256][624]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.172572 Y=-13.647284 R=0.749870
+[2023.03.23-17.18.21:366][625]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.481876 Y=-12.322813 R=0.824994
+[2023.03.23-17.18.21:470][626]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.555556 Y=-11.179404 R=0.841096
+[2023.03.23-17.18.21:582][627]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.398949 Y=-10.806124 R=0.810136
+[2023.03.23-17.18.21:712][628]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.385563 Y=-10.315457 R=0.807580
+[2023.03.23-17.18.21:841][629]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.360317 Y=-9.160624 R=0.802984
+[2023.03.23-17.18.21:962][630]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.157157 Y=-7.952634 R=0.770216
+[2023.03.23-17.18.22:087][631]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.181814 Y=-7.205809 R=0.773661
+[2023.03.23-17.18.22:227][632]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-1.029607 Y=-6.508080 R=0.754414
+[2023.03.23-17.18.22:352][633]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.767358 Y=-5.351262 R=0.724495
+[2023.03.23-17.18.22:479][634]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.647099 Y=-3.995634 R=0.713229
+[2023.03.23-17.18.22:656][635]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.553692 Y=-2.965582 R=0.706704
+[2023.03.23-17.18.22:775][636]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.553692 Y=-2.918920 R=0.706704
+[2023.03.23-17.18.22:899][637]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.553692 Y=-2.918920 R=0.706704
+[2023.03.23-17.18.23:025][638]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.553692 Y=-2.918920 R=0.706704
+[2023.03.23-17.18.23:156][639]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.553692 Y=-2.918920 R=0.706704
+[2023.03.23-17.18.23:284][640]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.553692 Y=-2.918920 R=0.706704
+[2023.03.23-17.18.23:428][641]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.305150 Y=-2.623299 R=0.694032
+[2023.03.23-17.18.23:527][642]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.101607 Y=-2.392528 R=0.675395
+[2023.03.23-17.18.23:636][643]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.559362 Y=-2.431909 R=0.656269
+[2023.03.23-17.18.23:749][644]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.900017 Y=-2.486647 R=0.641799
+[2023.03.23-17.18.23:856][645]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.23:969][646]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.24:102][647]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.24:242][648]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.24:366][649]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.24:474][650]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.24:589][651]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.24:709][652]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.24:816][653]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.24:920][654]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.25:037][655]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.25:146][656]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.25:253][657]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.25:361][658]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.25:472][659]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.25:588][660]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.25:702][661]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.25:810][662]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.25:919][663]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.26:021][664]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.26:127][665]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.26:240][666]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.26:335][667]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.26:449][668]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.26:560][669]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.26:674][670]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.26:785][671]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.26:899][672]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.27:001][673]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.27:106][674]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.27:217][675]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.27:326][676]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.27:434][677]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.27:566][678]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.27:688][679]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.27:786][680]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.27:892][681]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.28:002][682]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.977714 Y=-2.502257 R=0.638425
+[2023.03.23-17.18.28:130][683]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.28:272][684]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.28:460][685]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.18.28:600][686]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-2.600575 Y=87.940239 R=0.000000
+[2023.03.23-17.18.41:759][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-17.18.41:759][788]LogWorld: BeginTearingDown for /Game/GD/Maps/UEDPIE_0_Blockout_Paris
+[2023.03.23-17.18.41:759][788]LogWorld: UWorld::CleanupWorld for Blockout_Paris, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-17.18.41:766][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-17.18.41:993][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-17.18.42:000][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-17.18.42:046][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-17.18.42:049][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.03.23-17.18.42:051][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.03.23-17.18.42:054][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-17.18.42:065][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.03.23-17.18.42:310][789]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.03.23-17.18.48:572][832]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.23-17.18.48:580][832]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.23-17.18.48:580][832]LogPlayLevel: [PlayLevel] Compiling BP_Spyglass_Child_Inventory before play...
+[2023.03.23-17.18.48:730][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.23-17.18.48:732][832]LogPlayLevel: PlayLevel: Blueprint regeneration took 151 ms (1 blueprints)
+[2023.03.23-17.18.48:732][832]PIE: New page: PIE session: Blockout_Paris (23 mars 2023 à 19:18:48)
+[2023.03.23-17.18.48:732][832]LogPlayLevel: Creating play world package: /Game/GD/Maps/UEDPIE_0_Blockout_Paris
+[2023.03.23-17.18.48:813][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081561s)
+[2023.03.23-17.18.48:813][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GD/Maps/Blockout_Paris.Blockout_Paris to /Game/GD/Maps/UEDPIE_0_Blockout_Paris.Blockout_Paris (0.081650s)
+[2023.03.23-17.18.48:813][832]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-17.18.48:813][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-17.18.48:813][832]LogAIModule: Creating AISystem for world Blockout_Paris
+[2023.03.23-17.18.48:814][832]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2023.03.23-17.18.48:860][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.03.23-17.18.48:861][832]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.03.23-17.18.48:861][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-17.18.48:861][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-17.18.48:861][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-17.18.48:861][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-17.18.48:861][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-17.18.48:861][832]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-17.18.48:861][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-17.18.48:861][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-17.18.48:862][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-17.18.48:862][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-17.18.48:862][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-17.18.48:863][832]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-17.18.48:878][832]LogAudioMixer: Display: Using Audio Hardware Device Casque (High Definition Audio Device)
+[2023.03.23-17.18.48:878][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-17.18.48:878][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-17.18.48:878][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-17.18.48:878][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.03.23-17.18.48:878][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.03.23-17.18.48:880][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.03.23-17.18.48:880][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.03.23-17.18.48:880][832]LogInit: FAudioDevice initialized.
+[2023.03.23-17.18.48:880][832]LogAudio: Display: Audio Device (ID: 31) registered with world 'Blockout_Paris'.
+[2023.03.23-17.18.48:910][832]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.23-17.18.48:939][832]LogWorld: Bringing World /Game/GD/Maps/UEDPIE_0_Blockout_Paris.Blockout_Paris up for play (max tick rate 0) at 2023.03.23-18.18.48
+[2023.03.23-17.18.48:942][832]PIE: Error: SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target
+[2023.03.23-17.18.48:944][832]LogWorld: Bringing up level for play took: 0.033510
+[2023.03.23-17.18.48:945][832]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.03.23-17.18.48:948][832]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.23-17.18.48:948][832]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.23-17.18.48:964][832]PIE: Server logged in
+[2023.03.23-17.18.48:965][832]PIE: Play in editor total start time 0,385 seconds.
+[2023.03.23-17.19.02:487][932]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.378357 Y=26.316755 R=0.000000
+[2023.03.23-17.19.02:998][936]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.378357 Y=26.316755 R=0.000000
+[2023.03.23-17.19.03:385][939]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.000000 Y=-0.000000 R=0.000000
+[2023.03.23-17.19.03:386][939]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.03:547][940]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.03:708][941]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.03:881][942]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.04:045][943]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.04:177][944]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.04:293][945]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.04:418][946]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.04:550][947]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.04:658][948]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.04:796][949]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.04:900][950]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.05:007][951]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.05:121][952]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.05:239][953]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.05:352][954]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.05:455][955]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.05:577][956]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.05:684][957]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.05:798][958]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.05:906][959]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.06:014][960]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.06:122][961]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.06:225][962]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.06:339][963]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.06:484][964]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.06:637][965]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.06:790][966]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.06:959][967]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.092100 Y=26.211809 R=0.000000
+[2023.03.23-17.19.07:917][975]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.092100 Y=26.211809 R=0.059873
+[2023.03.23-17.19.08:377][979]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.092100 Y=26.211809 R=0.059873
+[2023.03.23-17.19.08:891][983]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.000000 Y=-0.000000 R=0.000000
+[2023.03.23-17.19.08:892][983]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.09:036][984]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.09:211][985]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.09:407][986]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.09:592][987]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.09:725][988]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.09:827][989]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.09:939][990]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.10:050][991]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.015554 Y=0.000000 R=0.000000
+[2023.03.23-17.19.10:158][992]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.015554 Y=0.000000 R=0.000000
+[2023.03.23-17.19.10:268][993]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.015554 Y=0.000000 R=0.000000
+[2023.03.23-17.19.10:373][994]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.015554 Y=0.000000 R=0.000000
+[2023.03.23-17.19.10:533][995]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.10:694][996]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.10:818][997]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.10:973][998]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.378357 Y=26.316755 R=0.000000
+[2023.03.23-17.19.15:833][ 40]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.378357 Y=26.316755 R=0.000000
+[2023.03.23-17.19.16:314][ 44]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.378357 Y=26.316755 R=0.000000
+[2023.03.23-17.19.16:821][ 48]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.000000 Y=-0.000000 R=0.000000
+[2023.03.23-17.19.16:821][ 48]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.17:009][ 49]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.17:185][ 50]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.17:357][ 51]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.17:503][ 52]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.17:616][ 53]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.17:729][ 54]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.17:838][ 55]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.17:955][ 56]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.18:079][ 57]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.18:249][ 58]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.18:394][ 59]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.18:561][ 60]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.18:712][ 61]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.378357 Y=26.316755 R=0.000000
+[2023.03.23-17.19.21:281][ 83]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.378357 Y=26.316755 R=0.000000
+[2023.03.23-17.19.21:734][ 87]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.378357 Y=26.316755 R=0.000000
+[2023.03.23-17.19.22:272][ 91]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=0.000000 Y=-0.000000 R=0.000000
+[2023.03.23-17.19.22:272][ 91]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.22:453][ 92]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.22:658][ 93]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.22:749][ 94]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.22:896][ 95]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.22:990][ 96]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.23:106][ 97]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.23:215][ 98]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.23:348][ 99]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.23:505][100]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.23:674][101]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.000000 Y=0.000000 R=0.000000
+[2023.03.23-17.19.23:814][102]LogBlueprintUserMessages: [BP_Spyglass_Child_Inventory_C_2] P=-0.378357 Y=26.316755 R=0.000000
+[2023.03.23-17.19.33:018][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-17.19.33:018][170]LogWorld: BeginTearingDown for /Game/GD/Maps/UEDPIE_0_Blockout_Paris
+[2023.03.23-17.19.33:019][170]LogWorld: UWorld::CleanupWorld for Blockout_Paris, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-17.19.33:026][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-17.19.33:261][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-17.19.33:268][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-17.19.33:315][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-17.19.33:319][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.03.23-17.19.33:320][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.03.23-17.19.33:334][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.03.23-17.19.33:598][171]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.03.23-17.19.39:678][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.03.23-17.19.39:990][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.23-17.19.40:206][210]LogSavePackage: Moving output files for package: /Game/GD/Maps/Blockout_Paris
+[2023.03.23-17.19.40:207][210]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Blockout_Paris9F016E174B3D5389A82D4F94B2CBC689.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Maps/Blockout_Paris.umap'
+[2023.03.23-17.19.40:220][210]LogFileHelpers: Saving map 'Blockout_Paris' took 0.276
+[2023.03.23-17.19.40:259][210]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Spyglass_Child_Inventory
+[2023.03.23-17.19.40:259][210]LogSavePackage: Moving '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Spyglass_Child_InventoryEBB94D334BE978F419E579B477588F36.tmp' to '../../../../../Users/pc/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Spyglass_Child_Inventory.uasset'
+[2023.03.23-17.19.40:276][210]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-17.19.40:276][210]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Spyglass_Child_Inventory.BP_Spyglass_Child_Inventory
+[2023.03.23-17.19.40:276][210]LogContentValidation: Display: Validating World /Game/GD/Maps/Blockout_Paris.Blockout_Paris
+[2023.03.23-17.19.40:661][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.23-17.19.40:949][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.23-17.19.41:239][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
