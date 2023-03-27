@@ -1,0 +1,1054 @@
+﻿Log file open, 03/27/23 20:48:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14644)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPWL_Projet
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\Git\FPWL_Projet\FPWL_Projet\FPWL_Projet.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2728] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 3900X 12-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="9a3ab80b419be02194974bbb0f963b66"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 6.203950
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-A590CDE640E39527C33A539ADCCD05B9
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 1.57 seconds
+LogConfig: Display: Loading Android ini files took 1.57 seconds
+LogConfig: Display: Loading HoloLens ini files took 1.58 seconds
+LogConfig: Display: Loading IOS ini files took 1.59 seconds
+LogConfig: Display: Loading TVOS ini files took 1.59 seconds
+LogConfig: Display: Loading Mac ini files took 1.60 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 1.61 seconds
+LogConfig: Display: Loading Linux ini files took 1.61 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2728] (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic game/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.03.27-18.48.58:419][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.03.27-18.48.58:419][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.03.27-18.48.58:419][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.03.27-18.48.58:419][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.03.27-18.48.58:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.03.27-18.48.58:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.03.27-18.48.58:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.03.27-18.48.58:432][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.03.27-18.48.58:474][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.03.27-18.48.58:474][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.03.27-18.48.58:474][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.03.27-18.48.58:474][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.03.27-18.48.58:474][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.03.27-18.48.58:474][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.03.27-18.48.58:474][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.03.27-18.48.58:474][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.03.27-18.48.58:485][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.03.27-18.48.58:485][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.03.27-18.48.58:485][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.03.27-18.48.58:682][  0]LogD3D12RHI: Aftermath initialized
+[2023.03.27-18.48.58:682][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.03.27-18.48.59:167][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.03.27-18.48.59:168][  0]LogD3D12RHI: Adapter has 8031MB of dedicated video memory, 0MB of dedicated system memory, and 16356MB of shared system memory, 2 output[s]
+[2023.03.27-18.48.59:177][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.03.27-18.48.59:177][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16356MB of shared system memory, 0 output[s]
+[2023.03.27-18.48.59:177][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.03.27-18.48.59:177][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.27-18.48.59:184][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.03.27-18.48.59:189][  0]LogHAL: Display: Platform has ~ 32 GB [34302971904 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.27-18.48.59:192][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.03.27-18.48.59:192][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.03.27-18.48.59:192][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.27-18.48.59:208][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.03.27-18.48.59:208][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Git/FPWL_Projet/FPWL_Projet/Saved/Config/WindowsEditor/Editor.ini]
+[2023.03.27-18.48.59:217][  0]LogInit: Computer: DESKTOP-PNP00D5
+[2023.03.27-18.48.59:217][  0]LogInit: User: Manon
+[2023.03.27-18.48.59:217][  0]LogInit: CPU Page size=4096, Cores=12
+[2023.03.27-18.48.59:217][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.27-18.48.59:217][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.03.27-18.48.59:217][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.03.27-18.48.59:217][  0]LogMemory: Process Physical Memory: 297.43 MB used, 309.16 MB peak
+[2023.03.27-18.48.59:217][  0]LogMemory: Process Virtual Memory: 274.39 MB used, 274.39 MB peak
+[2023.03.27-18.48.59:217][  0]LogMemory: Physical Memory: 8114.76 MB used,  24599.11 MB free, 32713.86 MB total
+[2023.03.27-18.48.59:217][  0]LogMemory: Virtual Memory: 10687.14 MB used,  26890.73 MB free, 37577.86 MB total
+[2023.03.27-18.48.59:217][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.03.27-18.48.59:250][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.27-18.48.59:541][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.03.27-18.48.59:601][  0]LogInit: Using OS detected language (fr-FR).
+[2023.03.27-18.48.59:601][  0]LogInit: Using OS detected locale (fr-FR).
+[2023.03.27-18.48.59:685][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so 'fr' will be used for the language.
+[2023.03.27-18.48.59:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2023.03.27-18.48.59:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2023.03.27-18.48.59:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2023.03.27-18.48.59:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2023.03.27-18.48.59:703][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2023.03.27-18.48.59:705][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2023.03.27-18.48.59:705][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2023.03.27-18.48.59:759][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.27-18.48.59:878][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.03.27-18.48.59:878][  0]LogWindowsTextInputMethodSystem:   - Français (France) - (Keyboard).
+[2023.03.27-18.48.59:878][  0]LogWindowsTextInputMethodSystem:   - Français (France) - Correction de l’entrée tactile (TSF IME).
+[2023.03.27-18.48.59:878][  0]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2023.03.27-18.49.00:271][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.27-18.49.00:271][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.27-18.49.02:466][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.03.27-18.49.02:481][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.03.27-18.49.02:481][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.03.27-18.49.02:624][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.03.27-18.49.02:697][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.03.27-18.49.02:705][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.03.27-18.49.02:720][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.03.27-18.49.02:772][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.03.27-18.49.02:772][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.03.27-18.49.02:963][  0]LogD3D12RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.27-18.49.02:963][  0]LogWindows: Attached monitors:
+[2023.03.27-18.49.02:963][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.03.27-18.49.02:963][  0]LogWindows:     resolution: 2560x1440, work area: (1920, -506) -> (4480, 884), device: '\\.\DISPLAY2'
+[2023.03.27-18.49.02:963][  0]LogWindows: Found 2 attached monitors.
+[2023.03.27-18.49.02:963][  0]LogWindows: EnumDisplayDevices:
+[2023.03.27-18.49.02:963][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.03.27-18.49.02:963][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.03.27-18.49.02:963][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.03.27-18.49.02:963][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.03.27-18.49.02:963][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.03.27-18.49.02:964][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2023.03.27-18.49.02:964][  0]LogD3D12RHI:   Driver Version: 531.18 (internal:31.0.15.3118, unified:531.18)
+[2023.03.27-18.49.02:964][  0]LogD3D12RHI:      Driver Date: 2-24-2023
+[2023.03.27-18.49.02:964][  0]LogRHI: Texture pool is 4575 MB (70% of 6536 MB)
+[2023.03.27-18.49.02:964][  0]LogD3D12RHI: Async texture creation enabled
+[2023.03.27-18.49.02:964][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.03.27-18.49.03:315][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.03.27-18.49.03:388][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Git/FPWL_Projet/FPWL_Projet/FPWL_Projet.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Git/FPWL_Projet/FPWL_Projet/Intermediate/TurnkeyReport_0.log" -log="D:/Git/FPWL_Projet/FPWL_Projet/Intermediate/TurnkeyLog_0.log" -project="D:/Git/FPWL_Projet/FPWL_Projet/FPWL_Projet.uproject"  -platform=all'
+[2023.03.27-18.49.03:388][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic game/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Git/FPWL_Projet/FPWL_Projet/FPWL_Projet.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Git/FPWL_Projet/FPWL_Projet/Intermediate/TurnkeyReport_0.log" -log="D:/Git/FPWL_Projet/FPWL_Projet/Intermediate/TurnkeyLog_0.log" -project="D:/Git/FPWL_Projet/FPWL_Projet/FPWL_Projet.uproject"  -platform=all" ]
+[2023.03.27-18.49.03:588][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.03.27-18.49.03:745][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.03.27-18.49.03:745][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.03.27-18.49.03:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.27-18.49.03:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.27-18.49.03:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.27-18.49.03:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.27-18.49.03:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.27-18.49.03:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.27-18.49.03:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.27-18.49.03:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.27-18.49.03:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.27-18.49.03:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.27-18.49.03:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.03.27-18.49.03:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.03.27-18.49.03:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.27-18.49.03:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.27-18.49.03:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.27-18.49.03:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.03.27-18.49.03:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.27-18.49.03:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.27-18.49.03:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.03.27-18.49.03:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.03.27-18.49.03:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.03.27-18.49.04:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.27-18.49.04:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.27-18.49.04:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.27-18.49.04:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.03.27-18.49.04:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.27-18.49.04:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.27-18.49.04:067][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.03.27-18.49.04:333][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.27-18.49.04:377][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.03.27-18.49.04:378][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.03.27-18.49.04:378][  0]LogTargetPlatformManager:   ADPCM
+[2023.03.27-18.49.04:378][  0]LogTargetPlatformManager:   PCM
+[2023.03.27-18.49.04:419][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.03.27-18.49.04:419][  0]LogTargetPlatformManager:   BINKA
+[2023.03.27-18.49.04:419][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.03.27-18.49.04:419][  0]LogTargetPlatformManager:   OGG
+[2023.03.27-18.49.04:419][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.03.27-18.49.04:419][  0]LogTargetPlatformManager:   OPUS
+[2023.03.27-18.49.05:778][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   SF_METAL
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.03.27-18.49.05:866][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.03.27-18.49.05:902][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.03.27-18.49.05:903][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.03.27-18.49.05:903][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.03.27-18.49.05:903][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.03.27-18.49.05:903][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.03.27-18.49.05:903][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.03.27-18.49.05:903][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.03.27-18.49.05:913][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.27-18.49.05:948][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Git/FPWL_Projet/FPWL_Projet/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.27-18.49.05:949][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../Git/FPWL_Projet/FPWL_Projet/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.27-18.49.05:950][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Git/FPWL_Projet/FPWL_Projet/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.27-18.49.05:950][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../Git/FPWL_Projet/FPWL_Projet/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.27-18.49.06:011][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Git/FPWL_Projet/FPWL_Projet/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.27-18.49.06:011][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.03.27-18.49.06:011][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Git/FPWL_Projet/FPWL_Projet/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.27-18.49.06:011][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.03.27-18.49.06:100][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2023.03.27-18.49.06:101][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.27-18.49.06:101][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.03.27-18.49.06:148][  0]LogDerivedDataCache: Speed tests for C:/Users/Manon/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2023.03.27-18.49.06:148][  0]LogDerivedDataCache: Display: Performance to C:/Users/Manon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.19ms. RandomReadSpeed=23.16MBs, RandomWriteSpeed=182.40MBs. Assigned SpeedClass 'Local'
+[2023.03.27-18.49.06:177][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Manon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.27-18.49.06:178][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.27-18.49.06:178][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.03.27-18.49.06:182][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.03.27-18.49.06:182][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.03.27-18.49.07:025][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../Git/FPWL_Projet/FPWL_Projet/Intermediate/Shaders/WorkingDirectory/8640/).
+[2023.03.27-18.49.07:026][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Manon/AppData/Local/Temp/UnrealShaderWorkingDir/836121F7438BF76DA085F4B0E444B253/'.
+[2023.03.27-18.49.07:026][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.27-18.49.07:026][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 12 workers.
+[2023.03.27-18.49.15:683][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.03.27-18.49.15:683][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.27-18.49.15:762][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.27-18.49.16:294][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
+[2023.03.27-18.49.16:372][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.03.27-18.49.24:660][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.03.27-18.49.25:632][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.03.27-18.49.25:935][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.27-18.49.25:935][  0]LogDeviceProfileManager: Active device profile: [0000053A3FC70540][0000053A37630000 50] WindowsEditor
+[2023.03.27-18.49.25:935][  0]LogDeviceProfileManager: Profiles: [0000053A3FC70000][0000053A16F15000 50] Windows, [0000053A3FC70540][0000053A37630000 50] WindowsEditor, [0000053A3FC72680][0000053A375FA000 50] WindowsServer, [0000053A3FC71340][0000053A3FC50000 50] WindowsClient, [0000053A3FC72840][0000053A3FC55000 50] IOS, [0000053A3FC70380][0000053A3FC57800 50] iPadAir2, [0000053A3FC75080][0000053A3FC5C800 50] IPadPro, [0000053A3FC75400][0000053A3FC5A000 50] iPadAir3, [0000053A3FC71F80][0000053A33352800 50] iPadAir4, [0000053A3FC739C0][0000053A3FC40000 50] iPadMini4, [0000053A3FC72D80][0000053A3FC45000 50] iPadMini5, [0000053A3FC71500][0000053A3FC47800 50] iPadMini6, [0000053A3FC78340][0000053A3FC52800 50] iPhone6S, [0000053A3FC786C0][0000053A3FC4C800 50] iPhone7, [0000053A3FC78A40][0000053A3FC4A000 50] iPodTouch7, [0000053A3FC70A80][0000053A3FC10000 50] iPhone6SPlus, [0000053A3FC77E00][0000053A3FC15000 50] iPhone7Plus, [0000053A3FC77FC0][0000053A3FC17800 50] iPhoneSE, [0000053A3FC78C00][0000053A3FC1A000 50] iPhone8, [0000053A3FC755C0][0000053A3FC1C800 50] iPhone8Plus, [0000053A3FC778C0][0000053A3FC42800 50] iPhoneX, [0000053A3FC708C0][0000053A3FC20000 50] iPhoneXS, [0000053A3FC71880][0000053A3FC25000 50] iPhoneXSMax, [0000053A3FC77C40][0000053A3FC27800 50] iPhoneXR, [0000053A3FC78180][0000053A3FC2A000 50] iPhone11, [0000053A3FC732C0][0000053A3FC2C800 50] iPhone11Pro, [0000053A3FC724C0][0000053A3FC12800 50] iPhone11ProMax, [0000053A3FC71A40][0000053A3FC80000 50] iPhoneSE2, [0000053A3FC76200][0000053A3FC85000 50] iPhone12Mini, [0000053A3FC72F40][0000053A3FC87800 50] iPhone12, [0000053A3FC73800][0000053A3FC8A000 50] iPhone12Pro, [0000053A3FC71180][0000053A3FC8C800 50] iPhone12ProMax, [0000053A3FC771C0][0000053A3FC22800 50] iPhone13Mini, [0000053A3FC70FC0][0000053A3FC90000 50] iPhone13, [0000053A3FC74D00][0000053A3FC95000 50] iPhone13Pro, [0000053A3FC73100][0000053A3FC97800 50] iPhone13ProMax, [0000053A3FC76C80][0000053A3FC9A000 50] iPadPro105, [0000053A3FC76740][0000053A3FC9C800 50] iPadPro129, [0000053A3FC74280][0000053A3FC82800 50] iPadPro97, [0000053A3FC74440][0000053A3FCA0000 50] iPadPro2_129, [0000053A3FC73480][0000053A3FCA5000 50] iPad5, [0000053A3FC75B00][0000053A3FCA7800 50] iPad6, [0000053A3FC70C40][0000053A3FCAA000 50] iPad7, [0000053A3FC70700][0000053A3FCAC800 50] iPad8, [0000053A3FC77380][0000053A3FC92800 50] iPad9, [0000053A3FC740C0][0000053A3FCB0000 50] iPadPro11, [0000053A3FC75940][0000053A3FCB5000 50] iPadPro2_11, [0000053A3FC71DC0][0000053A3FCB7800 50] iPadPro3_11, [0000053A3FC763C0][0000053A3FCBA000 50] iPadPro3_129, [0000053A3FC75E80][0000053A3FCBC800 50] iPadPro4_129, [0000053A3FC77000][0000053A3FCA2800 50] iPadPro5_129, [0000053A3FC78500][0000053A3FC00000 50] AppleTV, [0000053A3FC72A00][0000053A3FC05000 50] AppleTV4K, [0000053A3FC716C0][0000053A3FC07800 50] TVOS, [0000053A3FC7A640][0000053A3FC0C800 50] Mac, [0000053A3FC7A9C0][0000053A3FC0A000 50] MacEditor, [0000053A3FC7A100][0000053A3FCB2800 50] MacClient, [0000053A3FC7A480][0000053A3FCC0000 50] MacServer, [0000053A3FC7AF00][0000053A3FCC7800 50] Linux, [0000053A3FC7B280][0000053A3FCC5000 50] LinuxEditor, [0000053A3FC73B80][0000053A3FCCA000 50] LinuxArm64Editor, [0000053A3FC78F80][0000053A3FCCC800 50] LinuxArm64, [0000053A3FC78DC0][0000053A3FC02800 50] LinuxClient, [0000053A3FC72BC0][0000053A3FCF0000 50] LinuxArm64Client, [0000053A3FC7B0C0][0000053A3FCF5000 50] LinuxServer, [0000053A3FC7BB40][0000053A3FCF7800 50] LinuxArm64Server, [0000053A3FC79BC0][0000053A3FCFA000 50] Android, [0000053A3FC77540][0000053A3FCFC800 50] Android_Preview_OpenGL, [0000053A3FC74980][0000053A3FCC2800 50] Android_Preview_Vulkan, [0000053A3FC73640][0000053A3FD00000 50] Android_Low, [0000053A3FC73F00][0000053A3FD05000 50] Android_Mid, [0000053A3FC7AD40][0000053A3FD07800 50] Android_High, [0000053A3FC7B600][0000053A3FD0A000 50] Android_Default, [0000053A3FC79140][0000053A3FD0C800 50] Android_Adreno4xx, [0000053A3FC74600][0000053A3FCF2800 50] Android_Adreno5xx_Low, [0000053A3FC79840][0000053A3FD10000 50] Android_Adreno5xx, [0000053A3FC73D40][0000053A3FD15000 50] Android_Adreno6xx, [0000053A3FC79A00][0000053A3FD17800 50] Android_Adreno6xx_Vulkan, [0000053A3FC75CC0][0000053A3FD1A000 50] Android_Adreno7xx, [0000053A3FC7A2C0][0000053A3FD1C800 50] Android_Adreno7xx_Vulkan, [0000053A3FC747C0][0000053A3FD02800 50] Android_Mali_T6xx, [0000053A3FC76040][0000053A3FD20000 50] Android_Mali_T7xx, [0000053A3FC76E40][0000053A3FD25000 50] Android_Mali_T8xx, [0000053A3FC76900][0000053A3FD27800 50] Android_Mali_G71, [0000053A3FC77700][0000053A3FD2A000 50] Android_Mali_G72, [0000053A3FC794C0][0000053A3FD2C800 50] Android_Mali_G72_Vulkan, [0000053A3FC74EC0][0000053A3FD12800 50] Android_Mali_G76, [0000053A3FC79300][0000053A3FD30000 50] Android_Mali_G76_Vulkan, [0000053A3FC77A80][0000053A3FD35000 50] Android_Mali_G77, [0000053A3FC7C940][0000053A3FD37800 50] Android_Mali_G77_Vulkan, [0000053A3FC76580][0000053A3FD3A000 50] Android_Mali_G78, [0000053A3FC7C400][0000053A3FD3C800 50] Android_Mali_G78_Vulkan, [0000053A3FC71C00][0000053A3FD22800 50] Android_Mali_G710, [0000053A3FC7CB00][0000053A3FD40000 50] Android_Mali_G710_Vulkan, [0000053A3FC74B40][0000053A3FD45000 50] Android_Xclipse_920, [0000053A3FC7B440][0000053A3FD47800 50] Android_Xclipse_920_Vulkan, [0000053A3FC75780][0000053A3FD4A000 50] Android_Vulkan_SM5, [0000053A3FC7AB80][0000053A3FD4C800 50] Android_PowerVR_G6xxx, [0000053A3FC7D900][0000053A3FD32800 50] Android_PowerVR_GT7xxx, [0000053A3FC7CE80][0000053A3FD50000 50] Android_PowerVR_GE8xxx, [0000053A3FC76AC0][0000053A3FD55000 50] Android_PowerVR_GM9xxx, [0000053A3FC75240][0000053A3FD57800 50] Android_PowerVR_GM9xxx_Vulkan, [0000053A3FC7C780][0000053A3FD5A000 50] Android_TegraK1, [0000053A3FC7D3C0][0000053A3FD5C800 50] Android_Unknown_Vulkan, [0000053A3FC79680][0000053A3FD42800 50] Oculus_Quest, [0000053A3FC7B980][0000053A3FD60000 50] Oculus_Quest2, [0000053A3FC7E700][0000053A3FD65000 50] HoloLens, 
+[2023.03.27-18.49.25:935][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.03.27-18.49.31:077][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.03.27-18.49.31:847][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.03.27-18.49.31:847][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.03.27-18.49.31:847][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.03.27-18.49.31:847][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.03.27-18.49.31:847][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2023.03.27-18.49.37:364][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.27-18.49.37:364][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.27-18.49.37:364][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.27-18.49.37:364][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.27-18.49.37:393][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.27-18.49.39:078][  0]LogNetVersion: FPWL_Projet 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 708527282)
+[2023.03.27-18.49.45:061][  0]LogSlate: Border
+[2023.03.27-18.49.45:061][  0]LogSlate: BreadcrumbButton
+[2023.03.27-18.49.45:061][  0]LogSlate: Default
+[2023.03.27-18.49.45:061][  0]LogSlate: Icons.Save
+[2023.03.27-18.49.45:061][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.27-18.49.45:061][  0]LogSlate: ListView
+[2023.03.27-18.49.45:061][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.27-18.49.45:061][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.27-18.49.45:061][  0]LogSlate: TableView.DarkRow
+[2023.03.27-18.49.45:061][  0]LogSlate: TableView.Row
+[2023.03.27-18.49.45:061][  0]LogSlate: TreeView
+[2023.03.27-18.49.50:149][  0]SourceControl: Source control is disabled
+[2023.03.27-18.49.50:422][  0]SourceControl: Source control is disabled
+[2023.03.27-18.49.50:422][  0]SourceControl: Source control is disabled
+[2023.03.27-18.49.51:020][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.03.27-18.49.51:027][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.03.27-18.49.51:027][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.27-18.49.52:677][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 71F30CCB407C9DE5BCAC4EB05744811E | Instance: 385DF41943A16A6D6CCAEC83ECD0F2C8 (DESKTOP-PNP00D5-8640).
+[2023.03.27-18.49.54:048][  0]LogPython: Using Python 3.9.7
+[2023.03.27-18.49.56:013][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.27-18.49.56:044][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.27-18.50.00:785][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.27-18.50.01:693][  0]SourceControl: Source control is disabled
+[2023.03.27-18.50.01:754][  0]SourceControl: Source control is disabled
+[2023.03.27-18.50.01:849][  0]SourceControl: Source control is disabled
+[2023.03.27-18.50.02:046][  0]LogUProjectInfo: Found projects:
+[2023.03.27-18.50.02:115][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.27-18.50.02:374][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.27-18.50.02:374][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.27-18.50.03:533][  0]LogCollectionManager: Loaded 0 collections in 0.001042 seconds
+[2023.03.27-18.50.03:824][  0]LogFileCache: Scanning file cache for directory 'D:/Git/FPWL_Projet/FPWL_Projet/Saved/Collections/' took 0.00s
+[2023.03.27-18.50.03:824][  0]LogFileCache: Scanning file cache for directory 'D:/Git/FPWL_Projet/FPWL_Projet/Content/Developers/Manon/Collections/' took 0.01s
+[2023.03.27-18.50.03:824][  0]LogFileCache: Scanning file cache for directory 'D:/Git/FPWL_Projet/FPWL_Projet/Content/Collections/' took 0.00s
+[2023.03.27-18.50.05:280][  0]LogEngine: Initializing Engine...
+[2023.03.27-18.50.05:438][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.03.27-18.50.05:483][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.03.27-18.50.06:615][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.27-18.50.06:697][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.27-18.50.07:046][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.27-18.50.07:397][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.27-18.50.07:546][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.27-18.50.07:686][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.27-18.50.07:686][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.27-18.50.07:687][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.27-18.50.07:716][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.27-18.50.07:716][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.27-18.50.07:723][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.27-18.50.07:723][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.27-18.50.07:723][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.27-18.50.07:723][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.27-18.50.07:723][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.27-18.50.07:723][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.27-18.50.07:723][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.27-18.50.07:724][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.27-18.50.07:739][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.27-18.50.07:739][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.27-18.50.07:739][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.27-18.50.07:799][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.27-18.50.07:826][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.27-18.50.07:854][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.27-18.50.07:856][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.27-18.50.07:856][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.27-18.50.07:889][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.03.27-18.50.07:889][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.27-18.50.07:891][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.27-18.50.07:891][  0]LogInit: FAudioDevice initialized.
+[2023.03.27-18.50.07:897][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.03.27-18.50.07:897][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.27-18.50.07:903][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.27-18.50.07:903][  0]LogInit: Texture streaming: Enabled
+[2023.03.27-18.50.08:046][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2023.03.27-18.50.08:104][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.27-18.50.08:180][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.03.27-18.50.08:220][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.03.27-18.50.08:221][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.03.27-18.50.19:272][  0]LogLiveCoding: Display: First instance in process group "UE_FPWL_Projet_0xb805d314", spawning console
+[2023.03.27-18.50.19:272][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.27-18.50.19:272][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.27-18.50.19:337][  0]LogInit: Transaction tracking system initialized
+[2023.03.27-18.50.19:761][  0]BlueprintLog: New page: Editor Load
+[2023.03.27-18.50.20:878][  0]LocalizationService: Localization service is disabled
+[2023.03.27-18.50.21:088][  0]TimingProfiler: Initialize
+[2023.03.27-18.50.21:089][  0]TimingProfiler: OnSessionChanged
+[2023.03.27-18.50.21:113][  0]LoadingProfiler: Initialize
+[2023.03.27-18.50.21:113][  0]LoadingProfiler: OnSessionChanged
+[2023.03.27-18.50.21:117][  0]NetworkingProfiler: Initialize
+[2023.03.27-18.50.21:128][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.27-18.50.21:128][  0]MemoryProfiler: Initialize
+[2023.03.27-18.50.21:128][  0]MemoryProfiler: OnSessionChanged
+[2023.03.27-18.50.24:597][  0]LogFileCache: Scanning file cache for directory 'D:/Git/FPWL_Projet/FPWL_Projet/Content/' took 0.04s
+[2023.03.27-18.50.24:597][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.27-18.50.25:595][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.27-18.50.25:713][  0]SourceControl: Source control is disabled
+[2023.03.27-18.50.25:731][  0]LogUnrealEdMisc: Loading editor; pre map load, took 111.680
+[2023.03.27-18.50.25:795][  0]Cmd: MAP LOAD FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/GD/Maps/Blockout_Paris.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-18.50.25:802][  0]LightingResults: New page: Lighting Build
+[2023.03.27-18.50.25:898][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-18.50.25:956][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-18.50.25:985][  0]MapCheck: New page: Map Check
+[2023.03.27-18.50.25:985][  0]LightingResults: New page: Lighting Build
+[2023.03.27-18.50.26:314][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-18.50.26:472][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.27-18.50.27:837][  0]LogBlueprint: Warning: [AssetLog] D:\Git\FPWL_Projet\FPWL_Projet\Content\GD\Widget\Menu_Pause_Journal.uasset: [Compiler] On Clicked (Button)  does not have a valid matching component!
+[2023.03.27-18.50.28:555][  0]LogBlueprint: Warning: [AssetLog] D:\Git\FPWL_Projet\FPWL_Projet\Content\GD\Interactainable\Object_Interact_Not_Inspectable_Not_Need_Object\BP_Radio_Child_ININNO.uasset: [Compiler] Variable Spline Left is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.03.27-18.50.28:562][  0]LogBlueprint: Warning: [AssetLog] D:\Git\FPWL_Projet\FPWL_Projet\Content\GD\Interactainable\Object_Interact_Not_Inspectable_Not_Need_Object\BP_Radio_Child_ININNO.uasset: [Compiler] Variable Spline Left is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.03.27-18.50.29:033][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box006' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:033][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box008' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:033][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box011' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:034][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box013' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:034][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box023' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:035][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box025' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:035][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box029' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:036][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box030' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:036][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box037' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:037][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Box039' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:037][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Atelier_props_Cylinder009' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:038][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/PorteBlockout' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:038][  0]LogLinker: Warning: Asset '/Game/TA/BLOCKOUT/Poteau_NoUV__LP' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.03.27-18.50.29:396][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave S_Door_Without_Lock_Opening...
+[2023.03.27-18.50.29:396][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/GD/Sound/Environment_Noise/S_Door_Without_Lock_Opening.S_Door_Without_Lock_Opening will be modified from 40 to 40.
+[2023.03.27-18.50.29:402][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 158268 while cooking SoundWave /Game/GD/Sound/Environment_Noise/S_Door_Without_Lock_Opening.S_Door_Without_Lock_Opening.
+[2023.03.27-18.50.29:402][  0]LogAudio: Display: Chunk size for SoundWave /Game/GD/Sound/Environment_Noise/S_Door_Without_Lock_Opening.S_Door_Without_Lock_Opening: 262144
+[2023.03.27-18.50.29:437][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave S_Trying_To_Open_Locked_Door_6...
+[2023.03.27-18.50.29:438][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/GD/Sound/Environment_Noise/S_Trying_To_Open_Locked_Door_6.S_Trying_To_Open_Locked_Door_6 will be modified from 40 to 40.
+[2023.03.27-18.50.29:443][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 100672 while cooking SoundWave /Game/GD/Sound/Environment_Noise/S_Trying_To_Open_Locked_Door_6.S_Trying_To_Open_Locked_Door_6.
+[2023.03.27-18.50.29:443][  0]LogAudio: Display: Chunk size for SoundWave /Game/GD/Sound/Environment_Noise/S_Trying_To_Open_Locked_Door_6.S_Trying_To_Open_Locked_Door_6: 262144
+[2023.03.27-18.50.29:474][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave S_Open_Close_Drawer_3...
+[2023.03.27-18.50.29:474][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/GD/Sound/Environment_Noise/S_Open_Close_Drawer_3.S_Open_Close_Drawer_3 will be modified from 40 to 40.
+[2023.03.27-18.50.29:479][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 94976 while cooking SoundWave /Game/GD/Sound/Environment_Noise/S_Open_Close_Drawer_3.S_Open_Close_Drawer_3.
+[2023.03.27-18.50.29:479][  0]LogAudio: Display: Chunk size for SoundWave /Game/GD/Sound/Environment_Noise/S_Open_Close_Drawer_3.S_Open_Close_Drawer_3: 262144
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/GD/Interactainable/Inventory/Log_Buches_.Log_Buches_ (BGRA8, 907X463 X1X1) (Required Memory Estimate: 8.009739 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Lampe/Plafonnier/Plafonnier_LP_Lampe_Emissive.Plafonnier_LP_Lampe_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Poutre_Maison/Wood_height.Wood_height (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Telephone/Telephone_LP_Telephone_Normal.Telephone_LP_Telephone_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Fauteuil/Fauteuil_LP_Fauteuil_OcclusionRoughnessMetallic.Fauteuil_LP_Fauteuil_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Porte/Porte_LP_Porte_OcclusionRoughnessMetallic.Porte_LP_Porte_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Telephone/Telephone_LP_Telephone_BaseColor.Telephone_LP_Telephone_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Porte/Porte_LP_Porte_BaseColor.Porte_LP_Porte_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Fauteuil/Fauteuil_LP_Fauteuil_BaseColor.Fauteuil_LP_Fauteuil_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Fauteuil/Fauteuil_LP_Fauteuil_Normal.Fauteuil_LP_Fauteuil_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Porte/Porte_LP_Porte_Normal.Porte_LP_Porte_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:043][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Telephone/Telephone_LP_Telephone_OcclusionRoughnessMetallic.Telephone_LP_Telephone_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:366][  0]LogTexture: Display: Building textures: /Game/GD/Interactainable/Object_Interact_Not_Inspectable_Not_Need_Object/Oscilloscope.Oscilloscope (BGRA8, 233X216 X1X1) (Required Memory Estimate: 0.95993 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:366][  0]LogTexture: Display: Building textures: /Game/GD/Interactainable/Letter/Second_Photo_Jeanne.Second_Photo_Jeanne (BGRA8, 587X425 X1X1) (Required Memory Estimate: 4.758358 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:366][  0]LogMaterial: Display: Missing cached shadermap for Props_MANAGER in PCD3D_SM5, Default, SM5 (DDC key hash: 2D01ED6A2C5AFB701E5B2B26D9D8A866F9B25A83), compiling. 
+[2023.03.27-18.50.30:644][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisine_Placards/Cuisine_Pack_LP_Tirroir_Porte_Rideau_Normal.Cuisine_Pack_LP_Tirroir_Porte_Rideau_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:644][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisine_Placards/Cuisine_Pack_LP_Tirroir_Porte_Rideau_BaseColor.Cuisine_Pack_LP_Tirroir_Porte_Rideau_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:644][  0]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisine_Placards/Cuisine_Pack_LP_Tirroir_Porte_Rideau_OcclusionRoughnessMetallic.Cuisine_Pack_LP_Tirroir_Porte_Rideau_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.50.30:644][  0]LogMaterial: Display: Missing cached shadermap for Oscilloscope_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9CCC3A5AB2B2FA75E9C8997CB683E0A15E3EDC88), compiling. 
+[2023.03.27-18.50.30:667][  0]LogStaticMesh: Display: Building static mesh Porte_LP1...
+[2023.03.27-18.50.30:667][  0]LogStaticMesh: Display: Building static mesh Telephone_LP...
+[2023.03.27-18.50.30:667][  0]LogStaticMesh: Display: Building static mesh P1_UE_Tirroir2_LP...
+[2023.03.27-18.50.30:667][  0]LogMaterial: Display: Missing cached shadermap for M_Wood_Oak in PCD3D_SM5, Default, SM5 (DDC key hash: DF6B83F0E91DF51DA1069381921EFF4D97CD91E4), compiling. 
+[2023.03.27-18.50.30:667][  0]LogMaterial: Warning: [AssetLog] D:\Git\FPWL_Projet\FPWL_Projet\Content\GD\Interactainable\Base\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.27-18.50.30:708][  0]LogMaterial: Display: Missing cached shadermap for M_First_Photo in PCD3D_SM5, Default, SM5 (DDC key hash: 6C4FC6377A385ABE9134073797FB727962F60514), compiling. 
+[2023.03.27-18.50.30:740][  0]LogStaticMesh: Built static mesh [0.05s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/P1_UE_Tirroir2_LP.P1_UE_Tirroir2_LP
+[2023.03.27-18.50.30:740][  0]LogMaterial: Display: Missing cached shadermap for 01_-_Default in PCD3D_SM5, Default, SM5 (DDC key hash: 3506881CA0A27E7BF297AB25DBCEB1C8B38E943D), compiling. 
+[2023.03.27-18.50.30:769][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box012...
+[2023.03.27-18.50.30:769][  0]LogStaticMesh: Display: Building static mesh Shape_Cylinder...
+[2023.03.27-18.50.30:769][  0]LogStaticMesh: Display: Building static mesh Box_147FF3F2...
+[2023.03.27-18.50.30:769][  0]LogStaticMesh: Display: Building static mesh Box_3B59A1F7...
+[2023.03.27-18.50.30:769][  0]LogStaticMesh: Display: Building static mesh Box_7023BAB2...
+[2023.03.27-18.50.30:769][  0]LogStaticMesh: Display: Building static mesh Box_EEB8CCB0...
+[2023.03.27-18.50.30:769][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box006...
+[2023.03.27-18.50.30:769][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box005...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.00s] /Game/GD/Maps/_GENERATED/tbeguin/Box_3B59A1F7.Box_3B59A1F7
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.00s] /Game/GD/Maps/_GENERATED/tbeguin/Box_147FF3F2.Box_147FF3F2
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.00s] /Game/GD/Maps/_GENERATED/tbeguin/Box_EEB8CCB0.Box_EEB8CCB0
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/GD/Maps/_GENERATED/pc/Box_7023BAB2.Box_7023BAB2
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.13s] /Game/TA/Props/Assets/Appartement/Telephone_LP.Telephone_LP
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box006.Atelier_props_Box006
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/GD/Interactainable/Base/Shapes/Shape_Cylinder.Shape_Cylinder
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box005.Atelier_props_Box005
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box012.Atelier_props_Box012
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box008...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box011...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box023...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box013...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box025...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box029...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box037...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box030...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Box039...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Atelier_props_Cylinder009...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box011.Atelier_props_Box011
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box039.Atelier_props_Box039
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box008.Atelier_props_Box008
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box029.Atelier_props_Box029
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box013.Atelier_props_Box013
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Cylinder009.Atelier_props_Cylinder009
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box030.Atelier_props_Box030
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box037.Atelier_props_Box037
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh PorteBlockout...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Display: Building static mesh Poteau_NoUV__LP...
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/Atelier_props_Box025.Atelier_props_Box025
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.02s] /Game/TA/BLOCKOUT/Atelier_props_Box023.Atelier_props_Box023
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TA/BLOCKOUT/PorteBlockout.PorteBlockout
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.02s] /Game/TA/BLOCKOUT/Poteau_NoUV__LP.Poteau_NoUV__LP
+[2023.03.27-18.50.31:067][  0]LogStaticMesh: Built static mesh [0.42s] /Game/TA/Props/Assets/Appartement/Porte_LP1.Porte_LP1
+[2023.03.27-18.50.31:192][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Blockout_Paris'.
+[2023.03.27-18.50.31:192][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.27-18.50.31:192][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.27-18.50.31:193][  0]LogAIModule: Creating AISystem for world Blockout_Paris
+[2023.03.27-18.50.32:299][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2023.03.27-18.50.32:417][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.03.27-18.50.32:460][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-18.50.32:477][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 17,487ms to complete.
+[2023.03.27-18.50.32:487][  0]LogFileHelpers: Loading map 'Blockout_Paris' took 6.723
+[2023.03.27-18.50.33:605][  0]LogUnrealEdMisc: Total Editor Startup Time, took 119.538
+[2023.03.27-18.50.33:605][  0]LogShaderCompilers: Display: ================================================
+[2023.03.27-18.50.33:605][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.27-18.50.33:605][  0]LogShaderCompilers: Display: Total job queries 127, among them cache hits 0 (0.00%)
+[2023.03.27-18.50.33:605][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.27-18.50.33:605][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.27-18.50.33:605][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.27-18.50.33:605][  0]LogShaderCompilers: Display: Shaders Compiled: 127
+[2023.03.27-18.50.33:605][  0]LogShaderCompilers: Display: Jobs assigned 83, completed 0 (0.00%)
+[2023.03.27-18.50.33:636][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2023.03.27-18.50.33:636][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.27-18.50.33:636][  0]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 6.92 jobs/batch
+[2023.03.27-18.50.33:636][  0]LogShaderCompilers: Display: ================================================
+[2023.03.27-18.50.34:039][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.27-18.50.34:040][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.03.27-18.50.34:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-18.50.34:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-18.50.34:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-18.50.34:229][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-18.50.34:665][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic game/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.27-18.50.34:666][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.27-18.50.34:697][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic game/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.27-18.50.34:697][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.27-18.50.34:716][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic game/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.27-18.50.34:716][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.27-18.50.34:734][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic game/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.27-18.50.34:734][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.27-18.50.34:757][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic game/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.27-18.50.34:758][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.27-18.50.34:770][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic game/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.27-18.50.34:770][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.27-18.50.34:788][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic game/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.27-18.50.34:788][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.27-18.50.34:803][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic game/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.27-18.50.34:803][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.27-18.50.34:811][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic game/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.27-18.50.34:811][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.27-18.50.34:818][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic game/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.27-18.50.34:818][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.27-18.50.35:895][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-18.50.35:902][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-18.50.35:908][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-18.50.35:915][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.27-18.50.36:363][  0]LogSlate: Took 0.026233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.27-18.50.36:387][  0]LogSlate: Took 0.013879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.27-18.50.36:467][  0]LogSlate: Took 0.021384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.27-18.50.36:476][  0]LogSlate: Took 0.007196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.27-18.50.36:506][  0]LogSlate: Took 0.017952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.27-18.50.36:653][  0]LogViewport: Scene viewport resized to 1326x719, mode Windowed.
+[2023.03.27-18.50.38:570][  0]LogStall: Startup...
+[2023.03.27-18.50.38:572][  0]LogStall: Startup complete.
+[2023.03.27-18.50.38:702][  0]LogLoad: (Engine Initialization) Total time: 124.66 seconds
+[2023.03.27-18.50.38:702][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.27-18.50.38:989][  0]LogAssetRegistry: Asset discovery search completed in 82.6848 seconds
+[2023.03.27-18.50.39:012][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.03.27-18.50.39:095][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.27-18.50.40:531][  2]LogSlate: Took 0.000409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.27-18.50.40:852][  2]LogSlate: Took 0.015008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.27-18.51.08:118][639]LogDerivedDataCache: C:/Users/Manon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.967 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.27-18.51.13:741][117]LogViewport: Scene viewport resized to 1326x718, mode Windowed.
+[2023.03.27-18.51.13:831][119]LogViewport: Scene viewport resized to 1326x610, mode Windowed.
+[2023.03.27-18.51.13:886][121]LogViewport: Scene viewport resized to 1326x542, mode Windowed.
+[2023.03.27-18.51.13:933][123]LogViewport: Scene viewport resized to 1326x533, mode Windowed.
+[2023.03.27-18.51.18:208][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.03.27-18.51.18:297][484]LogLinker: Warning: [AssetLog] D:\Git\FPWL_Projet\FPWL_Projet\Content\TA\Map\Merged_Level.umap: Failed to load '/Game/TA/Map/Merged_Level_BuiltData': Can't find file.
+[2023.03.27-18.51.18:297][484]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TA/Map/Merged_Level_BuiltData'
+[2023.03.27-18.51.18:320][484]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TA/Map/Merged_Level.Merged_Level
+[2023.03.27-18.51.18:331][484]Cmd: MAP LOAD FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Merged_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-18.51.18:331][484]LightingResults: New page: Lighting Build
+[2023.03.27-18.51.18:331][484]LoadErrors: New page: Loading map: Merged_Level.umap
+[2023.03.27-18.51.18:400][484]LogWorld: UWorld::CleanupWorld for Blockout_Paris, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-18.51.18:400][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-18.51.18:416][484]MapCheck: New page: Map Check
+[2023.03.27-18.51.18:416][484]LightingResults: New page: Lighting Build
+[2023.03.27-18.51.18:421][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-18.51.18:475][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.27-18.51.18:481][484]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-18.51.18:481][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-18.51.18:486][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.27-18.51.18:492][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.27-18.51.18:494][484]LogAudio: Display: Audio Device (ID: 1) registered with world 'Merged_Level'.
+[2023.03.27-18.51.18:494][484]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.27-18.51.18:494][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.27-18.51.18:495][484]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.27-18.51.18:505][484]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TA/Map/Sub_Lvl_Paris/Louise_F) is flushing async loading
+[2023.03.27-18.51.18:506][484]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.03.27-18.51.18:538][484]LogStaticMesh: Display: Building static mesh P1_UE_Tirroir1_LP...
+[2023.03.27-18.51.18:538][484]LogStaticMesh: Display: Building static mesh P1_UE_Porte2_LP...
+[2023.03.27-18.51.18:538][484]LogStaticMesh: Display: Building static mesh P1_UE_Porte1_LP...
+[2023.03.27-18.51.18:538][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/P1_UE_Porte1_LP.P1_UE_Porte1_LP
+[2023.03.27-18.51.18:538][484]LogStaticMesh: Display: Building static mesh Coussin2_LP...
+[2023.03.27-18.51.18:538][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/P1_UE_Tirroir1_LP.P1_UE_Tirroir1_LP
+[2023.03.27-18.51.18:538][484]LogStaticMesh: Display: Building static mesh Coussin1_LP...
+[2023.03.27-18.51.18:538][484]LogStreaming: Error: Couldn't find file for package /Game/TA/Map/Sub_Lvl_Paris/Louise_F_BuiltData requested by async loading code. NameToLoad: /Game/TA/Map/Sub_Lvl_Paris/Louise_F_BuiltData
+[2023.03.27-18.51.18:854][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Coussin1_LP.Coussin1_LP
+[2023.03.27-18.51.18:854][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Coussin2_LP.Coussin2_LP
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Coussins/Coussin1/Coussin1_LP_Coussin_OcclusionRoughnessMetallic.Coussin1_LP_Coussin_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Coussins/Coussin1/Coussin1_LP_Coussin_Normal.Coussin1_LP_Coussin_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/buches_mat/buches_lp_vases_vase1_OcclusionRoughnessMetallic.buches_lp_vases_vase1_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/buches_mat/buches_lp_vases_vase1_Normal.buches_lp_vases_vase1_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/buches_mat/buches_lp_vases_vase1_BaseColor.buches_lp_vases_vase1_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Coussins/Coussin2/Coussin2_LP_Coussin2_OcclusionRoughnessMetallic.Coussin2_LP_Coussin2_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogStaticMesh: Built static mesh [0.10s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/P1_UE_Porte2_LP.P1_UE_Porte2_LP
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Coussins/Coussin1/Coussin1_LP_Coussin_BaseColor.Coussin1_LP_Coussin_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Lampe/Plafonnier/Plafonnier_LP_Lampe_OcclusionRoughnessMetallic.Plafonnier_LP_Lampe_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/seaucharbon_mat/sceaucharbon_lp_vases_vase1_OcclusionRoughnessMetallic.sceaucharbon_lp_vases_vase1_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Coussins/Coussin2/Coussin2_LP_Coussin2_BaseColor.Coussin2_LP_Coussin2_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Coussins/Coussin2/Coussin2V2/Coussin2_LP_Coussin2_BaseColor.Coussin2_LP_Coussin2_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Coussins/Coussin2/Coussin2_LP_Coussin2_Normal.Coussin2_LP_Coussin2_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:854][484]LogMaterial: Display: Missing cached shadermap for Color_MANAGER in PCD3D_SM5, Default, SM5 (DDC key hash: 4F8500E318F2C8236ED99571894A60035BBF55FB), compiling. 
+[2023.03.27-18.51.18:948][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisiniere/Test/Cuisiniere_LP_Cuisiniere_OcclusionRoughnessMetallic.Cuisiniere_LP_Cuisiniere_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:948][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/seaucharbon_mat/sceaucharbon_lp_vases_vase1_Normal.sceaucharbon_lp_vases_vase1_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:948][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisiniere/Test/Cuisiniere_LP_Cuisiniere_Normal.Cuisiniere_LP_Cuisiniere_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:948][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/seaucharbon_mat/sceaucharbon_lp_vases_vase1_BaseColor.sceaucharbon_lp_vases_vase1_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:948][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisiniere/Cuisiniere_LP_Cuisiniere_BaseColor.Cuisiniere_LP_Cuisiniere_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:948][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Lampe/Plafonnier/Plafonnier_LP_Lampe_BaseColor.Plafonnier_LP_Lampe_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.18:948][484]LogMaterial: Display: Missing cached shadermap for Sceau_Charbon in PCD3D_SM5, Default, SM5 (DDC key hash: 5865747DDEE5B287F543B2D1DD81F448554D6264), compiling. 
+[2023.03.27-18.51.19:058][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Lampe/Plafonnier/Plafonnier_LP_Lampe_Normal.Plafonnier_LP_Lampe_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.19:059][484]LogStaticMesh: Display: Building static mesh TasAssiette...
+[2023.03.27-18.51.19:059][484]LogStaticMesh: Display: Building static mesh TasBol...
+[2023.03.27-18.51.19:059][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisine_Placards/Cuisine_Pack_LP_Lavabo_Normal.Cuisine_Pack_LP_Lavabo_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.19:059][484]LogStaticMesh: Built static mesh [0.05s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/TasAssiette.TasAssiette
+[2023.03.27-18.51.19:059][484]LogMaterial: Display: Missing cached shadermap for Plafonnier_Salle in PCD3D_SM5, Default, SM5 (DDC key hash: 6F156DC98BF2A14748812D498A6613C656EE5447), compiling. 
+[2023.03.27-18.51.19:285][484]LogStaticMesh: Display: Building static mesh Evier_LP...
+[2023.03.27-18.51.19:285][484]LogStaticMesh: Built static mesh [0.11s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/TasBol.TasBol
+[2023.03.27-18.51.19:285][484]LogStaticMesh: Built static mesh [0.04s] /Game/TA/Props/Assets/Appartement/Evier_LP.Evier_LP
+[2023.03.27-18.51.19:285][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisine_Placards/Cuisine_Pack_LP_Lavabo_BaseColor.Cuisine_Pack_LP_Lavabo_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.19:285][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisine_Placards/Cuisine_Pack_LP_Lavabo_OcclusionRoughnessMetallic.Cuisine_Pack_LP_Lavabo_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.19:285][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/M1/Bottles/Bottle_Pack_Color.Bottle_Pack_Color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.19:372][484]LogStaticMesh: Display: Building static mesh pots_lp_pot2_lp...
+[2023.03.27-18.51.19:372][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/M1/Pot/pots_lp_DefaultMaterial_OcclusionRoughnessMetallic.pots_lp_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.19:372][484]LogStaticMesh: Display: Building static mesh pots_lp_pot1_lp...
+[2023.03.27-18.51.19:372][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/M1/pots_lp_pot2_lp.pots_lp_pot2_lp
+[2023.03.27-18.51.19:372][484]LogStaticMesh: Display: Building static mesh Tuyau_Cuisiniere_LP...
+[2023.03.27-18.51.19:384][484]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/GD/Maps/Sub_Lvl/GD) is flushing async loading
+[2023.03.27-18.51.19:385][484]LogStreaming: Error: Couldn't find file for package /Game/GD/Maps/Sub_Lvl/GD_BuiltData requested by async loading code. NameToLoad: /Game/GD/Maps/Sub_Lvl/GD_BuiltData
+[2023.03.27-18.51.19:391][484]LogStaticMesh: Display: Building static mesh Plafonnier_LP...
+[2023.03.27-18.51.19:394][484]LogStaticMesh: Display: Building static mesh PlacardMur_LP...
+[2023.03.27-18.51.19:452][484]LogStaticMesh: Built static mesh [0.04s] /Game/TA/Props/Assets/M1/pots_lp_pot1_lp.pots_lp_pot1_lp
+[2023.03.27-18.51.19:452][484]LogStaticMesh: Display: Building static mesh PlacardMur3_LP...
+[2023.03.27-18.51.19:452][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/Tuyau_Cuisiniere_LP.Tuyau_Cuisiniere_LP
+[2023.03.27-18.51.19:452][484]LogStaticMesh: Display: Building static mesh PlacardMur2_LP...
+[2023.03.27-18.51.19:452][484]LogStaticMesh: Built static mesh [0.05s] /Game/TA/Props/Assets/Appartement/Plafonnier_LP.Plafonnier_LP
+[2023.03.27-18.51.19:452][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/PlacardMur3_LP.PlacardMur3_LP
+[2023.03.27-18.51.19:452][484]LogStaticMesh: Display: Building static mesh PlacardAngle2_Static...
+[2023.03.27-18.51.19:452][484]LogStaticMesh: Display: Building static mesh PlacardAngle1_Static...
+[2023.03.27-18.51.19:453][484]LogStaticMesh: Built static mesh [0.06s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/PlacardMur_LP.PlacardMur_LP
+[2023.03.27-18.51.19:453][484]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TA/Map/Sub_Lvl_Paris/Louise_L) is flushing async loading
+[2023.03.27-18.51.19:455][484]LogStaticMesh: Built static mesh [0.04s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/PlacardMur2_LP.PlacardMur2_LP
+[2023.03.27-18.51.19:455][484]LogStreaming: Error: Couldn't find file for package /Game/TA/Map/Sub_Lvl_Paris/Louise_L_BuiltData requested by async loading code. NameToLoad: /Game/TA/Map/Sub_Lvl_Paris/Louise_L_BuiltData
+[2023.03.27-18.51.19:475][484]LogStaticMesh: Display: Building static mesh Placard2_Static...
+[2023.03.27-18.51.19:475][484]LogStaticMesh: Display: Building static mesh P1_UE_Main1_LP...
+[2023.03.27-18.51.19:475][484]LogStaticMesh: Display: Building static mesh Etagere_LP...
+[2023.03.27-18.51.19:475][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/PlacardAngle2_Static.PlacardAngle2_Static
+[2023.03.27-18.51.19:475][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/PlacardAngle1_Static.PlacardAngle1_Static
+[2023.03.27-18.51.19:475][484]LogMaterial: Display: Missing cached shadermap for Paintings_MANAGER in PCD3D_SM5, Default, SM5 (DDC key hash: 20232ABE3123D97DA07265907AC431292A764A87), compiling. 
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_louche_lp...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh Vases_LP_vase4_lp...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_fouet_lp...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/P1_UE_Main1_LP.P1_UE_Main1_LP
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/Etagere_LP.Etagere_LP
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_louche_lp.ustensiles_unreal_lp_louche_lp
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_spatule_lp...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_casserole_lp...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh Bol_LP...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vases/Vases_LP_vase4_lp.Vases_LP_vase4_lp
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Built static mesh [0.04s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/Placard2_Static.Placard2_Static
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_fouet_lp.ustensiles_unreal_lp_fouet_lp
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_spatule_lp.ustensiles_unreal_lp_spatule_lp
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/Bol_LP.Bol_LP
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_casserole_lp.ustensiles_unreal_lp_casserole_lp
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_passoire_lp...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_rouleau_lp...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh plate1_lp__1_...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh Assiette30cm_LP...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_marmite_S_Top_lp...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_marmite_S_lp...
+[2023.03.27-18.51.19:529][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_poele_lp...
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_rouleau_lp.ustensiles_unreal_lp_rouleau_lp
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_marmite_S_Top_lp.ustensiles_unreal_lp_marmite_S_Top_lp
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_marmite_L_top_lp...
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_marmite_L_lp...
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/Assiette30cm_LP.Assiette30cm_LP
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/plate1_lp__1_.plate1_lp__1_
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Display: Building static mesh Bottle1...
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_passoire_lp.ustensiles_unreal_lp_passoire_lp
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Display: Building static mesh Vases_LP_vase5_lp...
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Display: Building static mesh Bottle2...
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_poele_lp.ustensiles_unreal_lp_poele_lp
+[2023.03.27-18.51.19:548][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_marmite_S_lp.ustensiles_unreal_lp_marmite_S_lp
+[2023.03.27-18.51.19:548][484]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TA/Map/Sub_Lvl_Paris/Manon) is flushing async loading
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Bottle3...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_marmite_M_lp...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_marmite_L_lp.ustensiles_unreal_lp_marmite_L_lp
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Bouteille/Bottle1.Bottle1
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_marmite_L_top_lp.ustensiles_unreal_lp_marmite_L_top_lp
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Fat_Bottle2...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Cuisiniere_LP...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Vases_LP_vase6_lp...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Bouteille/Bottle2.Bottle2
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Bouteille/Bottle3.Bottle3
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Fat_Bottle1...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh ustensiles_unreal_lp_fourchette-grill_lp...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_marmite_M_lp.ustensiles_unreal_lp_marmite_M_lp
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh sceaucharbon_lp...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vases/Vases_LP_vase5_lp.Vases_LP_vase5_lp
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Bouteille/Fat_Bottle2.Fat_Bottle2
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Ampoule_LP...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Buche1_lp...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Buche2_lp...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Buche/Buche1_lp.Buche1_lp
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/ustensiles_unreal_lp_fourchette-grill_lp.ustensiles_unreal_lp_fourchette-grill_lp
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.00s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Buche/Buche2_lp.Buche2_lp
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Livre03_LP...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Livre04_LP...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Buche3_lp...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Bouteille/Fat_Bottle1.Fat_Bottle1
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vases/Vases_LP_vase6_lp.Vases_LP_vase6_lp
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Couverts_LP_couteau_lp...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Livre02_LP...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Livres/Livre03_LP.Livre03_LP
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Livre01_LP...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Couverts_LP_fourchette_lp...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Buche/Buche3_lp.Buche3_lp
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Display: Building static mesh Assiette23cm_LP...
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/Ampoule_LP.Ampoule_LP
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Livres/Livre01_LP.Livre01_LP
+[2023.03.27-18.51.19:610][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Livres/Livre02_LP.Livre02_LP
+[2023.03.27-18.51.19:611][484]LogStaticMesh: Display: Building static mesh Sol_Atelier...
+[2023.03.27-18.51.19:611][484]LogStaticMesh: Display: Building static mesh Encre_LP...
+[2023.03.27-18.51.19:611][484]LogStaticMesh: Display: Building static mesh Stairs_9E4849FD...
+[2023.03.27-18.51.19:611][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Livres/Livre04_LP.Livre04_LP
+[2023.03.27-18.51.19:611][484]LogStreaming: Error: Couldn't find file for package /Game/TA/Map/Sub_Lvl_Paris/Manon_BuiltData requested by async loading code. NameToLoad: /Game/TA/Map/Sub_Lvl_Paris/Manon_BuiltData
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh PlaintesSalon...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.00s] /Game/TA/Props/Walls_Grounds/Modelling_Walls/Appartement/Sol_Atelier.Sol_Atelier
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh Piece_Escalier...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.04s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/sceaucharbon_lp.sceaucharbon_lp
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/Couverts_LP_couteau_lp.Couverts_LP_couteau_lp
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.00s] /Game/TA/Props/Walls_Grounds/Modelling_Walls/Appartement/PlaintesSalon.PlaintesSalon
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Walls_Grounds/Modelling_Walls/Appartement/Stairs_9E4849FD.Stairs_9E4849FD
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh Boolean_2C6398E1...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh PlafondCuisine_LP...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh PlafondCouloir_LP...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh pots_lp_pot3_lp...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Walls_Grounds/Modelling_Walls/Appartement/Piece_Escalier.Piece_Escalier
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/Assiette23cm_LP.Assiette23cm_LP
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.00s] /Game/TA/Props/Walls_Grounds/Modelling_Walls/Appartement/Boolean_2C6398E1.Boolean_2C6398E1
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh PlaneOvale...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh VoletCuisineGauche_LP...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh Volets_LP...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.00s] /Game/TA/Props/Assets/M1/PlaneOvale.PlaneOvale
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh VoletCuisineDroit_LP...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/Couverts_LP_fourchette_lp.Couverts_LP_fourchette_lp
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Walls_Grounds/Couloir/PlafondCouloir_LP.PlafondCouloir_LP
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh Vases_LP_vase2_lp...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh Vases_LP_Vase1_lp...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh Lampe_LP...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vaisselle/Encre_LP.Encre_LP
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Display: Building static mesh Extrude_245F5C3A...
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.00s] /Game/TA/Materials/Props/Extrude_245F5C3A.Extrude_245F5C3A
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/M1/pots_lp_pot3_lp.pots_lp_pot3_lp
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vases/Vases_LP_Vase1_lp.Vases_LP_Vase1_lp
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.10s] /Game/TA/Props/Assets/Appartement/Cuisiniere_LP.Cuisiniere_LP
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Assets/Appartement/VoletCuisineGauche_LP.VoletCuisineGauche_LP
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.02s] /Game/TA/Props/Assets/Appartement/Petits_Assets/Vases/Vases_LP_vase2_lp.Vases_LP_vase2_lp
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.04s] /Game/TA/Props/Assets/Appartement/VoletCuisineDroit_LP.VoletCuisineDroit_LP
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.04s] /Game/TA/Props/Assets/Appartement/Lampe_LP.Lampe_LP
+[2023.03.27-18.51.19:708][484]LogStaticMesh: Built static mesh [0.07s] /Game/TA/Props/Assets/Appartement/Volets_LP.Volets_LP
+[2023.03.27-18.51.19:708][484]LogMaterial: Display: Missing cached shadermap for Glass_MANAGER in PCD3D_SM5, Default, SM5 (DDC key hash: C894F451F11217423417FEEB952DEE15E22383C4), compiling. 
+[2023.03.27-18.51.20:194][484]LogStaticMesh: Built static mesh [0.10s] /Game/TA/Props/Walls_Grounds/Cuisine/PlafondCuisine_LP.PlafondCuisine_LP
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/M1/Pot/pots_lp_DefaultMaterial_Normal.pots_lp_DefaultMaterial_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/M1/Pot/pots_lp_DefaultMaterial_BaseColor.pots_lp_DefaultMaterial_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisiniere/Tuyau/Tuyau_Cuisiniere_LP_Tuyau_Normal.Tuyau_Cuisiniere_LP_Tuyau_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisiniere/Tuyau/Tuyau_Cuisiniere_LP_Tuyau_OcclusionRoughnessMetallic.Tuyau_Cuisiniere_LP_Tuyau_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Cuisiniere/Tuyau/Tuyau_Cuisiniere_LP_Tuyau_BaseColor.Tuyau_Cuisiniere_LP_Tuyau_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Placard_Mur/Placard_LP_Main_Normal.Placard_LP_Main_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Placard_Mur/Placard_LP_Main_OcclusionRoughnessMetallic.Placard_LP_Main_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Placard_Mur/V2/PlacardMur2_LP_Main_OcclusionRoughnessMetallic.PlacardMur2_LP_Main_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Placard_Mur/Placard_LP_Main_BaseColor.Placard_LP_Main_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogStaticMesh: Display: Building static mesh SalleMangerMurs...
+[2023.03.27-18.51.20:194][484]LogStaticMesh: Display: Building static mesh CuisineSol...
+[2023.03.27-18.51.20:194][484]LogStaticMesh: Built static mesh [0.00s] /Game/TA/Props/Walls_Grounds/Cuisine/CuisineSol.CuisineSol
+[2023.03.27-18.51.20:194][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Walls_Grounds/Salle_a_manger/SalleMangerMurs.SalleMangerMurs
+[2023.03.27-18.51.20:194][484]LogStaticMesh: Display: Building static mesh CuisineMurs...
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Placard_Mur/V2/PlacardMur2_LP_Main_BaseColor.PlacardMur2_LP_Main_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Walls_Grounds/Cuisine/CuisineMurs.CuisineMurs
+[2023.03.27-18.51.20:194][484]LogTexture: Display: Building textures: /Game/TA/Materials/Props/Textures/Placard_Mur/V2/PlacardMur2_LP_Main_Normal.PlacardMur2_LP_Main_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.27-18.51.20:194][484]LogStaticMesh: Display: Building static mesh Fauteuil_LP...
+[2023.03.27-18.51.20:194][484]LogMaterial: Display: Missing cached shadermap for Emissive_MANAGER in PCD3D_SM5, Default, SM5 (DDC key hash: 750773434B5B7A98AA3BF9FE0A10620599C0BDFE), compiling. 
