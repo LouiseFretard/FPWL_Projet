@@ -1009,3 +1009,226 @@ Script Stack (0 frames):
 [2023.03.28-10.41.08:404][596]LogContentValidation: Display: Validating StaticMesh /Game/TA/Props/Walls_Grounds/Salon/MurSalon.MurSalon
 [2023.03.28-10.41.08:405][596]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Light_Paris.Light_Paris
 [2023.03.28-10.41.08:405][596]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon
+[2023.03.28-10.41.33:125][466]LogViewport: Scene viewport resized to 1353x546, mode Windowed.
+[2023.03.28-10.41.33:173][468]LogViewport: Scene viewport resized to 1353x580, mode Windowed.
+[2023.03.28-10.41.33:218][470]LogViewport: Scene viewport resized to 1353x622, mode Windowed.
+[2023.03.28-10.41.33:266][472]LogViewport: Scene viewport resized to 1353x664, mode Windowed.
+[2023.03.28-10.41.33:313][474]LogViewport: Scene viewport resized to 1353x692, mode Windowed.
+[2023.03.28-10.41.33:359][476]LogViewport: Scene viewport resized to 1353x708, mode Windowed.
+[2023.03.28-10.41.33:405][478]LogViewport: Scene viewport resized to 1353x718, mode Windowed.
+[2023.03.28-10.50.18:097][882]LogViewport: Scene viewport resized to 1353x712, mode Windowed.
+[2023.03.28-10.50.18:145][884]LogViewport: Scene viewport resized to 1353x686, mode Windowed.
+[2023.03.28-10.50.18:191][886]LogViewport: Scene viewport resized to 1353x657, mode Windowed.
+[2023.03.28-10.50.18:236][888]LogViewport: Scene viewport resized to 1353x644, mode Windowed.
+[2023.03.28-10.50.18:403][905]LogViewport: Scene viewport resized to 1353x640, mode Windowed.
+[2023.03.28-10.50.18:454][907]LogViewport: Scene viewport resized to 1353x628, mode Windowed.
+[2023.03.28-10.50.18:498][909]LogViewport: Scene viewport resized to 1353x607, mode Windowed.
+[2023.03.28-10.50.18:543][911]LogViewport: Scene viewport resized to 1353x590, mode Windowed.
+[2023.03.28-10.50.25:283][548]LogEditorFactories: Performing atomic reimport of [E:/LISAA/Année 3/FROM PARIS WITH LOVE/M3/Props/Appartement/MurSalon.fbx]
+[2023.03.28-10.50.25:288][548]LogFbx: Loading FBX Scene from E:/LISAA/Année 3/FROM PARIS WITH LOVE/M3/Props/Appartement/MurSalon.fbx
+[2023.03.28-10.50.25:296][548]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.28-10.50.25:334][548]LogFbx: Display: Triangulating static mesh MurSalon01
+[2023.03.28-10.50.25:368][548]LogFbx: Display: Triangulating static mesh MurSalon02
+[2023.03.28-10.50.25:403][548]LogFbx: Display: Triangulating static mesh MurSalon03
+[2023.03.28-10.50.25:445][548]LogFbx: Display: Triangulating static mesh MurSalon05
+[2023.03.28-10.50.25:479][548]LogFbx: Display: Triangulating static mesh MurSalon04
+[2023.03.28-10.50.25:507][548]LogFbx: Display: Triangulating static mesh MurSalon06
+[2023.03.28-10.50.25:536][548]LogFbx: Display: Triangulating static mesh MurSalon07
+[2023.03.28-10.50.25:576][548]LogFbx: Display: Triangulating static mesh MurSalon08
+[2023.03.28-10.50.25:613][548]LogFbx: Display: Triangulating static mesh MurSalon10
+[2023.03.28-10.50.25:640][548]LogFbx: Display: Triangulating static mesh Plane003
+[2023.03.28-10.50.25:673][548]LogFbx: Display: Triangulating static mesh MurSalon12
+[2023.03.28-10.50.25:709][548]LogFbx: Display: Triangulating static mesh MurSalon13
+[2023.03.28-10.50.25:743][548]LogFbx: Display: Triangulating static mesh MurSalon11
+[2023.03.28-10.50.25:751][548]LogStaticMesh: Display: Building static mesh MurSalon...
+[2023.03.28-10.50.25:783][548]LogStaticMesh: Built static mesh [0.03s] /Game/TA/Props/Walls_Grounds/Salon/MurSalon.MurSalon
+[2023.03.28-10.50.25:794][548]LogEditorFactories: -- imported successfully
+[2023.03.28-10.50.25:795][548]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.28-10.50.26:015][548]LogStaticMesh: Display: Building static mesh MurSalon...
+[2023.03.28-10.50.26:015][548]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Walls_Grounds/Salon/MurSalon.MurSalon
+[2023.03.28-10.50.31:218][  7]LogViewport: Scene viewport resized to 1353x594, mode Windowed.
+[2023.03.28-10.50.31:268][  9]LogViewport: Scene viewport resized to 1353x639, mode Windowed.
+[2023.03.28-10.50.31:315][ 11]LogViewport: Scene viewport resized to 1353x682, mode Windowed.
+[2023.03.28-10.50.31:363][ 13]LogViewport: Scene viewport resized to 1353x701, mode Windowed.
+[2023.03.28-10.50.31:409][ 15]LogViewport: Scene viewport resized to 1353x702, mode Windowed.
+[2023.03.28-10.51.08:362][257]LogViewport: Scene viewport resized to 1353x704, mode Windowed.
+[2023.03.28-10.51.08:413][259]LogViewport: Scene viewport resized to 1353x721, mode Windowed.
+[2023.03.28-10.51.08:459][261]LogViewport: Scene viewport resized to 1353x731, mode Windowed.
+[2023.03.28-10.51.08:538][267]LogViewport: Scene viewport resized to 1353x734, mode Windowed.
+[2023.03.28-10.51.25:932][136]Cmd: TRANSACTION UNDO
+[2023.03.28-10.51.25:932][136]LogEditorTransaction: Undo Move Elements
+[2023.03.28-10.51.31:976][681]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.28-10.51.34:385][890]LogTexture: Display: Building textures: /Game/TA/Materials/Paintings_Lettres/Textures/Paintings/image00005.image00005 (BGRA8, 1125X908 X1X1) (Required Memory Estimate: 19.483566 MB), EncodeSpeed: Fast
+[2023.03.28-10.51.39:173][423]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.28-10.51.39:858][493]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.28-10.51.42:059][704]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-10.51.42:068][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-10.51.42:068][704]PIE: New page: PIE session: Merged_Level (28 mars 2023 à 14:51:42)
+[2023.03.28-10.51.42:068][704]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-10.51.42:070][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001243s)
+[2023.03.28-10.51.42:070][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001311s)
+[2023.03.28-10.51.42:070][704]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-10.51.42:070][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-10.51.42:070][704]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-10.51.42:070][704]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2023.03.28-10.51.42:076][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.28-10.51.42:078][704]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.28-10.51.42:078][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-10.51.42:078][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-10.51.42:078][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-10.51.42:078][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-10.51.42:078][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-10.51.42:078][704]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-10.51.42:078][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-10.51.42:078][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-10.51.42:078][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-10.51.42:078][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-10.51.42:078][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-10.51.42:080][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-10.51.42:096][704]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-10.51.42:096][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-10.51.42:096][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-10.51.42:096][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-10.51.42:097][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.03.28-10.51.42:097][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.03.28-10.51.42:098][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.03.28-10.51.42:099][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.03.28-10.51.42:099][704]LogInit: FAudioDevice initialized.
+[2023.03.28-10.51.42:099][704]LogAudio: Display: Audio Device (ID: 3) registered with world 'Merged_Level'.
+[2023.03.28-10.51.42:112][704]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-10.51.42:192][704]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-12.51.42
+[2023.03.28-10.51.42:192][704]LogWorld: Bringing up level for play took: 0.000678
+[2023.03.28-10.51.42:194][704]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.03.28-10.51.42:194][704]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-10.51.42:197][704]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_0] 1
+[2023.03.28-10.51.42:198][704]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-10.51.42:200][704]PIE: Server logged in
+[2023.03.28-10.51.42:201][704]PIE: Play in editor total start time 0,133 seconds.
+[2023.03.28-10.51.47:908][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-10.51.47:908][362]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-10.51.47:912][362]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-10.51.47:912][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-10.51.47:923][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-10.51.47:927][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-10.51.47:934][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-10.51.47:934][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.28-10.51.47:935][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.28-10.51.47:938][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-10.51.47:945][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-10.51.47:989][363]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.03.28-10.51.47:995][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.28-10.51.49:083][491]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.28-10.51.57:823][334]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TA/Props/Walls_Grounds/Salon/MurSalon.MurSalon
+[2023.03.28-10.51.57:856][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-10.51.57:887][334]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2023.03.28-10.51.58:143][334]LogViewport: Scene viewport resized to 882x484, mode Windowed.
+[2023.03.28-10.52.28:466][271]LogViewport: Scene viewport resized to 1353x732, mode Windowed.
+[2023.03.28-10.52.28:529][273]LogViewport: Scene viewport resized to 1353x710, mode Windowed.
+[2023.03.28-10.52.28:592][275]LogViewport: Scene viewport resized to 1353x691, mode Windowed.
+[2023.03.28-10.52.28:652][277]LogViewport: Scene viewport resized to 1353x680, mode Windowed.
+[2023.03.28-10.52.28:715][279]LogViewport: Scene viewport resized to 1353x666, mode Windowed.
+[2023.03.28-10.52.28:779][281]LogViewport: Scene viewport resized to 1353x650, mode Windowed.
+[2023.03.28-10.52.28:841][283]LogViewport: Scene viewport resized to 1353x643, mode Windowed.
+[2023.03.28-10.54.21:710][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-10.54.21:793][ 87]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TA/Map/Sub_Lvl_Paris/Manon_Auto1
+[2023.03.28-10.54.21:794][ 87]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Manon_Auto148A4C4464FD5DCF0C5DDDEA2056BCED3.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Sub_Lvl_Paris/Manon_Auto1.umap'
+[2023.03.28-10.54.21:818][ 87]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_Auto1
+[2023.03.28-10.54.21:818][ 87]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris_Auto1E1A777BA448A1E05351298BFB47FD468.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_Auto1.umap'
+[2023.03.28-10.54.21:823][ 87]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TA/Map/Merged_Level' took 0.120
+[2023.03.28-10.54.21:823][ 87]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.120
+[2023.03.28-10.54.21:823][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TA/Props/Walls_Grounds/Salon/MurSalon] ([1] browsable assets)...
+[2023.03.28-10.54.21:840][ 87]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TA/Props/Walls_Grounds/Salon/MurSalon.MurSalon]
+[2023.03.28-10.54.21:840][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/TA/Props/Walls_Grounds/Salon/MurSalon]
+[2023.03.28-10.54.21:842][ 87]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TA/Props/Walls_Grounds/Salon/MurSalon_Auto1
+[2023.03.28-10.54.21:842][ 87]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/MurSalon_Auto17B481938482E79D367663E8976D980A7.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Props/Walls_Grounds/Salon/MurSalon_Auto1.uasset'
+[2023.03.28-10.54.21:843][ 87]LogFileHelpers: Auto-saving content packages took 0.020
+[2023.03.28-10.56.06:894][256]LogEditorTransaction: Undo Translate Collision
+[2023.03.28-10.57.41:272][194]Cmd: MODE ROTGRID=0
+[2023.03.28-10.57.58:059][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Props/Walls_Grounds/Salon/MurSalon" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Walls_Grounds/Salon/MurSalon.uasset" SILENT=true
+[2023.03.28-10.57.58:062][248]LogSavePackage: Moving output files for package: /Game/TA/Props/Walls_Grounds/Salon/MurSalon
+[2023.03.28-10.57.58:062][248]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/MurSalon260EBC554B44AF64A066F7AE516CB466.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Walls_Grounds/Salon/MurSalon.uasset'
+[2023.03.28-10.57.58:074][248]AssetCheck: New page: Asset Save: MurSalon
+[2023.03.28-10.57.58:074][248]LogContentValidation: Display: Validating StaticMesh /Game/TA/Props/Walls_Grounds/Salon/MurSalon.MurSalon
+[2023.03.28-10.58.00:764][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Props/Walls_Grounds/Salon/MurSalon" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Walls_Grounds/Salon/MurSalon.uasset" SILENT=true
+[2023.03.28-10.58.00:766][417]LogSavePackage: Moving output files for package: /Game/TA/Props/Walls_Grounds/Salon/MurSalon
+[2023.03.28-10.58.00:767][417]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/MurSalon786655534798391874AC13A047B89821.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Walls_Grounds/Salon/MurSalon.uasset'
+[2023.03.28-10.58.00:793][417]AssetCheck: New page: Asset Save: MurSalon
+[2023.03.28-10.58.00:793][417]LogContentValidation: Display: Validating StaticMesh /Game/TA/Props/Walls_Grounds/Salon/MurSalon.MurSalon
+[2023.03.28-10.58.01:651][474]LogSlate: Window 'MurSalon' being destroyed
+[2023.03.28-10.58.01:668][474]LogSlate: Window 'MurSalon' being destroyed
+[2023.03.28-10.58.01:698][474]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-10.58.01:698][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-10.58.07:316][ 22]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-10.58.07:326][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-10.58.07:326][ 22]PIE: New page: PIE session: Merged_Level (28 mars 2023 à 14:58:07)
+[2023.03.28-10.58.07:347][ 22]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-10.58.07:348][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001204s)
+[2023.03.28-10.58.07:348][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001290s)
+[2023.03.28-10.58.07:348][ 22]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-10.58.07:348][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-10.58.07:349][ 22]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-10.58.07:349][ 22]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2023.03.28-10.58.07:356][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.28-10.58.07:359][ 22]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.28-10.58.07:359][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-10.58.07:359][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-10.58.07:359][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-10.58.07:359][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-10.58.07:359][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-10.58.07:359][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-10.58.07:359][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-10.58.07:359][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-10.58.07:359][ 22]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-10.58.07:359][ 22]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-10.58.07:359][ 22]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-10.58.07:361][ 22]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-10.58.07:378][ 22]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-10.58.07:378][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-10.58.07:378][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-10.58.07:378][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-10.58.07:379][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.03.28-10.58.07:379][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.03.28-10.58.07:380][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.03.28-10.58.07:380][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.03.28-10.58.07:380][ 22]LogInit: FAudioDevice initialized.
+[2023.03.28-10.58.07:380][ 22]LogAudio: Display: Audio Device (ID: 4) registered with world 'Merged_Level'.
+[2023.03.28-10.58.07:389][ 22]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-10.58.07:466][ 22]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-12.58.07
+[2023.03.28-10.58.07:467][ 22]LogWorld: Bringing up level for play took: 0.000716
+[2023.03.28-10.58.07:469][ 22]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.03.28-10.58.07:469][ 22]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-10.58.07:471][ 22]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_0] 1
+[2023.03.28-10.58.07:473][ 22]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-10.58.07:475][ 22]PIE: Server logged in
+[2023.03.28-10.58.07:476][ 22]PIE: Play in editor total start time 0,151 seconds.
+[2023.03.28-10.58.17:728][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-10.58.17:728][ 72]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-10.58.17:732][ 72]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-10.58.17:732][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-10.58.17:741][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-10.58.17:744][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-10.58.17:750][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-10.58.17:753][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.28-10.58.17:754][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.28-10.58.17:757][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-10.58.17:764][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.28-10.58.17:804][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.03.28-10.58.17:810][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-10.58.56:443][404]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.28-10.59.10:859][921]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.28-10.59.27:865][883]Cmd: TRANSACTION UNDO
+[2023.03.28-10.59.27:865][883]LogEditorTransaction: Undo Move Elements
+[2023.03.28-11.01.31:348][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.03.28-11.01.32:042][ 69]LogSlate: Window 'Save Content' being destroyed
+[2023.03.28-11.01.32:080][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.28-11.01.32:084][ 69]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris
+[2023.03.28-11.01.32:085][ 69]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris7018DE1F4EED09F31BD0E98F87DF4D49.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris.umap'
+[2023.03.28-11.01.32:090][ 69]LogFileHelpers: Saving map 'Light_Paris' took 0.016
+[2023.03.28-11.01.32:091][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Manon" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Manon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.28-11.01.32:096][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.28-11.01.32:159][ 69]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Manon
+[2023.03.28-11.01.32:159][ 69]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Manon8C561970406A2B6071A09E9D10BADF76.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Manon.umap'
+[2023.03.28-11.01.32:166][ 69]LogFileHelpers: Saving map 'Manon' took 0.075
+[2023.03.28-11.01.32:175][ 69]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.28-11.01.32:175][ 69]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Light_Paris.Light_Paris
+[2023.03.28-11.01.32:175][ 69]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon
