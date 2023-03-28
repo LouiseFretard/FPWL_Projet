@@ -3992,3 +3992,1490 @@ Script Stack (0 frames):
 [2023.03.28-20.35.35:206][290]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GD/Maps/Sub_Lvl/GD_BuiltData.GD_BuiltData
 [2023.03.28-20.35.35:206][290]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TA/Map/Sub_Lvl_Paris/Manon_BuiltData.Manon_BuiltData
 [2023.03.28-20.35.35:206][290]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TA/Map/Merged_Level_BuiltData.Merged_Level_BuiltData
+[2023.03.28-20.45.34:396][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.28-20.45.34:407][491]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_Auto9
+[2023.03.28-20.45.34:407][491]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris_Auto9FE2B4F6941278318F3FA419D6EDFBF2F.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_Auto9.umap'
+[2023.03.28-20.45.34:412][491]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TA/Map/Merged_Level' took 0.032
+[2023.03.28-20.45.34:412][491]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2023.03.28-21.11.57:521][820]LogViewport: Scene viewport resized to 1295x608, mode Windowed.
+[2023.03.28-21.11.57:581][822]LogViewport: Scene viewport resized to 1295x584, mode Windowed.
+[2023.03.28-21.11.57:641][824]LogViewport: Scene viewport resized to 1295x567, mode Windowed.
+[2023.03.28-21.11.57:741][826]LogViewport: Scene viewport resized to 1295x565, mode Windowed.
+[2023.03.28-21.11.59:365][959]LogViewport: Scene viewport resized to 1308x565, mode Windowed.
+[2023.03.28-21.11.59:425][961]LogViewport: Scene viewport resized to 1402x565, mode Windowed.
+[2023.03.28-21.12.25:002][885]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\LISAA\Année 3\FROM PARIS WITH LOVE\M3\Props\Appartement\MurSalleManger.fbx)
+[2023.03.28-21.12.25:009][885]LogFbx: Loading FBX Scene from E:\LISAA\Année 3\FROM PARIS WITH LOVE\M3\Props\Appartement\MurSalleManger.fbx
+[2023.03.28-21.12.25:016][885]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.28-21.12.26:653][885]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.28-21.12.26:670][885]LogFbx: Display: Triangulating static mesh MurSalleManger12
+[2023.03.28-21.12.26:670][885]LogFbx: Display: Triangulating static mesh MurSalleManger11
+[2023.03.28-21.12.26:670][885]LogFbx: Display: Triangulating static mesh MurSalleManger07
+[2023.03.28-21.12.26:670][885]LogFbx: Display: Triangulating static mesh MurSalleManger04
+[2023.03.28-21.12.26:671][885]LogFbx: Display: Triangulating static mesh MurSalleManger01
+[2023.03.28-21.12.26:671][885]LogFbx: Display: Triangulating static mesh MurSalleManger03
+[2023.03.28-21.12.26:671][885]LogFbx: Display: Triangulating static mesh MurSalleManger10
+[2023.03.28-21.12.26:671][885]LogFbx: Display: Triangulating static mesh MurSalleManger08
+[2023.03.28-21.12.26:671][885]LogFbx: Display: Triangulating static mesh MurSalleManger041
+[2023.03.28-21.12.26:671][885]LogFbx: Display: Triangulating static mesh MurSalleManger06
+[2023.03.28-21.12.26:672][885]LogFbx: Display: Triangulating static mesh MurSalleManger09
+[2023.03.28-21.12.26:672][885]LogFbx: Display: Triangulating static mesh MurSalleManger05
+[2023.03.28-21.12.26:673][885]LogFbx: Display: Triangulating static mesh MurSalleManger02
+[2023.03.28-21.12.26:673][885]LogStaticMesh: Display: Building static mesh MurSalleManger...
+[2023.03.28-21.12.26:678][885]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger
+[2023.03.28-21.12.26:690][885]FBXImport: FBX File Loading: Found name clash, node 'MurSalleManger04' was renamed to 'MurSalleManger041' 
+[2023.03.28-21.12.26:690][885]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.28-21.12.26:899][885]LogStaticMesh: Display: Building static mesh MurSalleManger...
+[2023.03.28-21.12.26:915][885]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger
+[2023.03.28-21.12.28:223][957]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.12.28:243][957]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.12.29:678][ 51]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger
+[2023.03.28-21.12.29:713][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.12.29:954][ 51]LogViewport: Scene viewport resized to 1036x530, mode Windowed.
+[2023.03.28-21.12.41:859][614]LogSavePackage: Moving output files for package: /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger
+[2023.03.28-21.12.41:859][614]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/MurSalleManger4816AA2C40EBE1E788A36698238DB870.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.uasset'
+[2023.03.28-21.12.41:880][614]AssetCheck: New page: Asset Save: MurSalleManger
+[2023.03.28-21.12.41:880][614]LogContentValidation: Display: Validating StaticMesh /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger
+[2023.03.28-21.12.42:697][657]LogSlate: Window 'MurSalleManger' being destroyed
+[2023.03.28-21.12.42:718][657]LogSlate: Window 'MurSalleManger' being destroyed
+[2023.03.28-21.12.42:777][657]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.12.42:777][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.13.47:776][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger
+[2023.03.28-21.13.47:776][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger
+[2023.03.28-21.13.47:777][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger as actor: StaticMeshActor /Game/TA/Map/Sub_Lvl_Paris/Light_Paris.Light_Paris:PersistentLevel.StaticMeshActor_4
+[2023.03.28-21.13.48:451][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger
+[2023.03.28-21.13.48:451][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger
+[2023.03.28-21.13.48:452][ 89]LogActorFactory: Actor Factory spawned StaticMesh /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger as actor: StaticMeshActor /Game/TA/Map/Sub_Lvl_Paris/Light_Paris.Light_Paris:PersistentLevel.StaticMeshActor_6
+[2023.03.28-21.15.10:996][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.28-21.15.10:996][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.28-21.15.12:079][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.03.28-21.15.13:555][782]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.28-21.15.13:602][782]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TA/Props/Walls_Grounds/Salle_a_manger/SalleMangerMurs.SalleMangerMurs
+	Asset Type: StaticMesh
+[2023.03.28-21.15.13:932][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.03.28-21.15.13:950][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.03.28-21.15.13:968][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.28-21.15.27:600][369]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TA/Props/Walls_Grounds/Modelling_Walls/Appartement/Boolean_51FFD8CA.Boolean_51FFD8CA
+[2023.03.28-21.15.27:624][369]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.15.27:882][369]LogViewport: Scene viewport resized to 1036x530, mode Windowed.
+[2023.03.28-21.15.40:428][669]LogSlate: Window 'Boolean_51FFD8CA' being destroyed
+[2023.03.28-21.15.40:433][669]LogSlate: Window 'Boolean_51FFD8CA' being destroyed
+[2023.03.28-21.15.40:487][669]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.15.40:487][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.15.45:733][272]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.28-21.15.45:733][272]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.28-21.15.46:103][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.03.28-21.15.46:762][310]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.28-21.15.46:773][310]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TA/Props/Walls_Grounds/Modelling_Walls/Appartement/Boolean_9B5DB4B7.Boolean_9B5DB4B7
+	Asset Type: StaticMesh
+[2023.03.28-21.15.47:089][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.03.28-21.15.47:107][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.03.28-21.15.47:124][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.28-21.15.49:428][570]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TA/Props/Walls_Grounds/Modelling_Walls/Appartement/Boolean_255E5D9D.Boolean_255E5D9D
+[2023.03.28-21.15.49:458][570]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.15.49:718][570]LogViewport: Scene viewport resized to 1036x530, mode Windowed.
+[2023.03.28-21.15.52:990][904]LogSlate: Window 'Boolean_255E5D9D' being destroyed
+[2023.03.28-21.15.52:996][904]LogSlate: Window 'Boolean_255E5D9D' being destroyed
+[2023.03.28-21.15.53:057][904]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.15.53:057][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.15.54:832][ 91]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.28-21.15.54:832][ 91]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.28-21.15.55:406][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.03.28-21.15.56:415][153]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.28-21.15.56:461][153]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TA/Props/Walls_Grounds/Modelling_Walls/Appartement/Boolean_255E5D9D.Boolean_255E5D9D
+	Asset Type: StaticMesh
+[2023.03.28-21.15.56:777][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.28-21.15.56:795][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.28-21.15.56:813][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.28-21.17.07:357][723]Cmd: MODE ROTGRID=0
+[2023.03.28-21.17.09:488][971]Cmd: MODE GRID=1
+[2023.03.28-21.18.30:661][172]Cmd: EDIT COPY
+[2023.03.28-21.18.30:890][190]Cmd: EDIT PASTE
+[2023.03.28-21.18.36:471][620]Cmd: EDIT COPY
+[2023.03.28-21.18.36:637][629]Cmd: EDIT PASTE
+[2023.03.28-21.18.38:908][799]Cmd: EDIT COPY
+[2023.03.28-21.18.39:071][812]Cmd: EDIT PASTE
+[2023.03.28-21.18.45:189][276]Cmd: DELETE
+[2023.03.28-21.18.45:189][276]Cmd: ACTOR DELETE
+[2023.03.28-21.18.45:266][276]LogEditorActor: Deleted Actor: RectLight
+[2023.03.28-21.18.45:285][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.03.28-21.18.45:293][276]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2023.03.28-21.18.50:893][676]Cmd: EDIT COPY
+[2023.03.28-21.18.51:080][691]Cmd: EDIT PASTE
+[2023.03.28-21.19.06:779][406]Cmd: EDIT COPY
+[2023.03.28-21.19.06:981][416]Cmd: EDIT PASTE
+[2023.03.28-21.19.58:674][756]Cmd: EDIT COPY
+[2023.03.28-21.19.59:100][771]Cmd: EDIT PASTE
+[2023.03.28-21.20.04:301][ 55]Cmd: EDIT COPY
+[2023.03.28-21.20.04:523][ 63]Cmd: EDIT PASTE
+[2023.03.28-21.20.18:704][844]Cmd: EDIT COPY
+[2023.03.28-21.20.18:838][848]Cmd: EDIT PASTE
+[2023.03.28-21.20.21:267][983]Cmd: TRANSACTION UNDO
+[2023.03.28-21.20.21:267][983]LogEditorTransaction: Undo Paste
+[2023.03.28-21.20.23:265][ 71]Cmd: EDIT COPY
+[2023.03.28-21.20.23:532][ 83]Cmd: EDIT PASTE
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: ================================================
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 1.05 s
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 1.07
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.07 s
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Average processing rate: 3.76 jobs/sec
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 54.29% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.71% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-21.20.36:494][838]LogShaderCompilers: Display: ================================================
+[2023.03.28-21.20.37:363][838]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.20.37:388][838]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.20.37:413][838]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.20.37:438][838]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.20.37:463][838]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.20.37:489][838]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.20.37:514][838]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.20.37:540][838]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.20.37:564][838]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.20.39:108][896]MapCheck: New page: Map Check
+[2023.03.28-21.20.39:124][896]LightingResults: New page: Lighting Build - 29 mars 2023 à 01:20:39
+[2023.03.28-21.20.39:130][896]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.28-21.20.39:134][896]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.28-21.20.39:135][896]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.28-21.20.39:135][896]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.28-21.20.39:135][896]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13220
+[2023.03.28-21.20.43:713][896]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.03.28-21.20.43:714][896]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.28-21.20.43:714][896]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.28-21.20.43:714][896]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.28-21.20.43:714][896]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.28-21.20.43:714][896]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.28-21.20.43:829][896]LogEditorBuildUtils: Build time 0:04
+[2023.03.28-21.20.44:131][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.28-21.20.57:725][433]LightingResults: Warning: PlafondCuisine_LP Object has overlapping UVs.
+[2023.03.28-21.20.57:725][433]LightingResults: PlafondCuisine_LP Lightmap UV are overlapping by 12.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.21.04:171][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.03.28-21.21.04:264][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TA/Map/Sub_Lvl_Paris/Manon_Auto0
+[2023.03.28-21.21.04:264][644]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Manon_Auto01CA73A974652C49BBF1634AE3B9CB87F.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Sub_Lvl_Paris/Manon_Auto0.umap'
+[2023.03.28-21.21.04:289][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_Auto0
+[2023.03.28-21.21.04:289][644]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris_Auto0240E38C94B4D75226BEBE48B638ACE7C.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_Auto0.umap'
+[2023.03.28-21.21.04:296][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TA/Map/Merged_Level' took 0.156
+[2023.03.28-21.21.04:296][644]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.156
+[2023.03.28-21.21.05:354][678]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-21.21.05:354][678]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.21.06:166][705]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-21.21.06:166][705]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.21.26:631][462]Job is a success!
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport:          1: 40.0% covering 6.2% of volume
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport:          Merged_Level 			 5 bricks 	 50.0% (Persistent Level)
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport:          Manon 			 4 bricks 	 40.0%
+[2023.03.28-21.21.26:807][463]LogVolumetricLightmapImport:          Light_Paris 			 1 bricks 	 10.0%
+[2023.03.28-21.21.30:240][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.30:920][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.31:498][463]Lightmass on DESKTOP-PNP00D5: 46.7 sec total, 509 ms importing, 322 ms setup, 8.08 sec photons, 37.8 sec processing, 0 us extra exporting [605/605 mappings]. Threads: 14:30 min total, 5:09 min processing.
+[2023.03.28-21.21.31:508][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:508][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:508][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:508][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:509][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:509][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:509][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:509][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:509][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:509][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:509][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:509][463]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.21.31:558][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.28-21.21.31:567][463]LogStaticLightingSystem: Illumination: 52.3 sec (3.95 sec encoding lightmaps, 9 us encoding shadowmaps)
+[2023.03.28-21.21.31:567][463]LogStaticLightingSystem: Lightmap texture memory:  128.1 MB (128.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.03.28-21.21.31:567][463]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.03.28-21.21.31:627][463]DumpUnbuiltLightIteractions
+[2023.03.28-21.21.31:627][463]Lights with unbuilt interactions: 0
+[2023.03.28-21.21.31:627][463]
+[2023.03.28-21.21.31:627][463]Primitives with unbuilt interactions: 0
+[2023.03.28-21.21.31:983][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.32:010][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.32:036][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.32:063][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.32:090][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.32:117][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.32:143][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.32:170][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.32:197][463]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.21.32:419][464]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.28-21.21.32:419][464]MapCheck: New page: Merged_Level - 29 mars 2023 à 01:21:32
+[2023.03.28-21.21.32:420][464]MapCheck: Warning: StaticMeshActor_19 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.21.32:420][464]MapCheck: Warning: StaticMeshActor_200 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.21.32:421][464]MapCheck: Warning: StaticMeshActor_3 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.21.32:421][464]MapCheck: Warning: StaticMeshActor_13 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.21.32:421][464]MapCheck: Warning: StaticMeshActor_27 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.21.32:423][464]MapCheck: Warning: StaticMeshActor_196 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.21.32:423][464]MapCheck: Warning: StaticMeshActor_109 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.21.32:424][464]MapCheck: Warning: StaticMeshActor_1 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.21.32:424][464]MapCheck: Warning: StaticMeshActor_16 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.21.32:424][464]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 5,113ms to complete.
+[2023.03.28-21.21.34:952][713]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.21.34:957][713]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.22.56:594][463]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.03.28-21.22.56:620][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.03.28-21.22.57:909][463]LogSlate: Window 'Save Content' being destroyed
+[2023.03.28-21.22.57:964][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.28-21.22.57:976][463]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris
+[2023.03.28-21.22.57:976][463]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_ParisE79C661B4430BC01D18A98B040F50991.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris.umap'
+[2023.03.28-21.22.57:982][463]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.22.57:982][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset" SILENT=true
+[2023.03.28-21.22.59:939][463]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.22.59:940][463]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris_BuiltDataD3A0F2F44DDDD0D6504650B525052C44.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset'
+[2023.03.28-21.22.59:941][463]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.22.59:941][463]LogFileHelpers: Saving map 'Light_Paris' took 1.994
+[2023.03.28-21.22.59:941][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset" SILENT=true
+[2023.03.28-21.23.01:897][463]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.23.01:898][463]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris_BuiltData5DB962CA4BAE446C060CC49009F70F20.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset'
+[2023.03.28-21.23.01:903][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Manon" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Manon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.28-21.23.01:920][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.28-21.23.01:982][463]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Manon
+[2023.03.28-21.23.01:983][463]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Manon38F82AD546A143C6B3A418945C13EA01.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Manon.umap'
+[2023.03.28-21.23.01:988][463]LogFileHelpers: No new changes to save!
+[2023.03.28-21.23.01:988][463]LogFileHelpers: Saving map 'Manon' took 0.086
+[2023.03.28-21.23.02:007][464]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.28-21.23.02:007][464]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon
+[2023.03.28-21.23.02:007][464]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Light_Paris.Light_Paris
+[2023.03.28-21.23.02:007][464]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData
+[2023.03.28-21.23.37:284][146]LogDerivedDataCache: C:/Users/Manon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.199 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.28-21.25.38:451][191]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GD/Interactainable/Inventory/BP_Briquet.BP_Briquet
+[2023.03.28-21.25.38:451][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.25.39:964][264]LogViewport: Scene viewport resized to 841x364, mode Windowed.
+[2023.03.28-21.25.43:771][592]LogViewport: Scene viewport resized to 1141x640, mode Windowed.
+[2023.03.28-21.26.24:907][ 75]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.26.24:937][ 75]LogBlueprint: Error: [AssetLog] D:\Git\FPWL_Projet\FPWL_Projet\Content\GD\Interactainable\Inventory\BP_Briquet.uasset: [Compiler] This blueprint (self) is not a LightComponent, therefore ' Target ' must have a connection.
+[2023.03.28-21.26.25:059][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.28-21.26.39:701][207]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.26.39:768][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.28-21.26.41:764][397]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.03.28-21.26.41:802][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.03.28-21.26.43:042][397]LogSlate: Window 'Save Content' being destroyed
+[2023.03.28-21.26.43:047][397]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2023.03.28-21.26.43:047][397]PIE: Warning: PIE failed because map save was canceled
+[2023.03.28-21.26.44:363][548]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.26.44:368][548]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.26.47:905][946]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-PNP00D5
+[2023.03.28-21.26.48:575][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.26.48:575][ 22]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:26:48)
+[2023.03.28-21.26.48:607][ 22]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.26.48:609][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001272s)
+[2023.03.28-21.26.48:609][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001353s)
+[2023.03.28-21.26.48:609][ 22]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.26.48:609][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.26.48:609][ 22]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.26.48:623][ 22]LogPlayLevel: PIE: World Init took: (0.014349s)
+[2023.03.28-21.26.48:649][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.28-21.26.48:650][ 22]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.28-21.26.48:651][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.26.48:651][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.26.48:651][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.26.48:651][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.26.48:651][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.26.48:651][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.26.48:651][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.26.48:651][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.26.48:651][ 22]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.26.48:651][ 22]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.26.48:651][ 22]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.26.48:653][ 22]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.26.48:670][ 22]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.26.48:670][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.26.48:670][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.26.48:670][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.26.48:671][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.03.28-21.26.48:671][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.03.28-21.26.48:672][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.03.28-21.26.48:672][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.03.28-21.26.48:672][ 22]LogInit: FAudioDevice initialized.
+[2023.03.28-21.26.48:672][ 22]LogAudio: Display: Audio Device (ID: 5) registered with world 'Merged_Level'.
+[2023.03.28-21.26.48:686][ 22]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.26.48:779][ 22]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.26.48
+[2023.03.28-21.26.48:780][ 22]LogWorld: Bringing up level for play took: 0.000697
+[2023.03.28-21.26.48:781][ 22]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.03.28-21.26.48:782][ 22]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.26.48:782][ 22]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.26.48:784][ 22]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.26.48:784][ 22]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.26.48:784][ 22]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.26.48:786][ 22]PIE: Server logged in
+[2023.03.28-21.26.48:787][ 22]PIE: Play in editor total start time 0,212 seconds.
+[2023.03.28-21.27.14:788][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.27.14:788][128]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.27.14:792][128]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.27.14:792][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.27.14:806][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.27.14:812][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.27.14:840][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.27.14:840][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.28-21.27.14:841][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.28-21.27.14:844][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.27.14:852][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.28-21.27.14:907][129]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.03.28-21.27.14:933][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.28-21.27.26:551][ 62]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.27.26:658][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.03.28-21.27.28:862][258]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.27.28:870][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.27.28:871][258]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:27:28)
+[2023.03.28-21.27.28:908][258]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.27.28:909][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001329s)
+[2023.03.28-21.27.28:909][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001408s)
+[2023.03.28-21.27.28:909][258]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.27.28:909][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.27.28:910][258]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.27.28:924][258]LogPlayLevel: PIE: World Init took: (0.014590s)
+[2023.03.28-21.27.28:952][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.28-21.27.28:955][258]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.28-21.27.28:955][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.27.28:955][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.27.28:955][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.27.28:955][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.27.28:955][258]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.27.28:955][258]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.27.28:955][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.27.28:955][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.27.28:956][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.27.28:956][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.27.28:956][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.27.28:957][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.27.28:974][258]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.27.28:974][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.27.28:974][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.27.28:974][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.27.28:975][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.03.28-21.27.28:975][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.03.28-21.27.28:976][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.03.28-21.27.28:976][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.03.28-21.27.28:976][258]LogInit: FAudioDevice initialized.
+[2023.03.28-21.27.28:976][258]LogAudio: Display: Audio Device (ID: 6) registered with world 'Merged_Level'.
+[2023.03.28-21.27.28:991][258]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.27.29:084][258]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.27.29
+[2023.03.28-21.27.29:084][258]LogWorld: Bringing up level for play took: 0.000692
+[2023.03.28-21.27.29:086][258]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.03.28-21.27.29:086][258]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.27.29:086][258]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.27.29:088][258]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.27.29:089][258]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.27.29:089][258]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.27.29:091][258]PIE: Server logged in
+[2023.03.28-21.27.29:091][258]PIE: Play in editor total start time 0,221 seconds.
+[2023.03.28-21.27.39:468][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.27.39:468][492]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.27.39:473][492]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.27.39:473][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.27.39:486][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.27.39:492][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.27.39:520][492]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.27.39:521][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.28-21.27.39:522][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.28-21.27.39:524][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.27.39:533][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.03.28-21.27.39:590][493]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.03.28-21.27.39:615][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.03.28-21.27.54:795][763]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.27.54:884][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.28-21.27.56:918][945]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.27.56:927][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.27.56:927][945]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:27:56)
+[2023.03.28-21.27.56:958][945]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.27.56:959][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001285s)
+[2023.03.28-21.27.56:959][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001373s)
+[2023.03.28-21.27.56:959][945]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.27.56:959][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.27.56:960][945]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.27.56:974][945]LogPlayLevel: PIE: World Init took: (0.015174s)
+[2023.03.28-21.27.57:002][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.03.28-21.27.57:004][945]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.28-21.27.57:004][945]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.27.57:004][945]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.27.57:004][945]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.27.57:004][945]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.27.57:004][945]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.27.57:004][945]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.27.57:004][945]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.27.57:004][945]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.27.57:005][945]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.27.57:005][945]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.27.57:005][945]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.27.57:007][945]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.27.57:023][945]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.27.57:023][945]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.27.57:023][945]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.27.57:023][945]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.27.57:024][945]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.03.28-21.27.57:024][945]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.03.28-21.27.57:025][945]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.03.28-21.27.57:025][945]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.03.28-21.27.57:025][945]LogInit: FAudioDevice initialized.
+[2023.03.28-21.27.57:025][945]LogAudio: Display: Audio Device (ID: 7) registered with world 'Merged_Level'.
+[2023.03.28-21.27.57:035][945]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.27.57:127][945]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.27.57
+[2023.03.28-21.27.57:127][945]LogWorld: Bringing up level for play took: 0.000735
+[2023.03.28-21.27.57:129][945]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.03.28-21.27.57:130][945]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.27.57:130][945]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.27.57:131][945]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.27.57:132][945]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.27.57:132][945]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.27.57:134][945]PIE: Server logged in
+[2023.03.28-21.27.57:135][945]PIE: Play in editor total start time 0,208 seconds.
+[2023.03.28-21.28.02:438][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.28.02:438][573]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.28.02:443][573]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.28.02:443][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.28.02:452][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.28.02:458][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.28.02:484][573]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.28.02:486][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.03.28-21.28.02:487][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.03.28-21.28.02:490][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.28.02:498][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.03.28-21.28.02:554][574]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.03.28-21.28.02:580][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.03.28-21.28.05:035][850]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.28.05:044][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.28.05:044][850]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:28:05)
+[2023.03.28-21.28.05:087][850]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.28.05:089][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001254s)
+[2023.03.28-21.28.05:089][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001344s)
+[2023.03.28-21.28.05:089][850]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.28.05:089][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.28.05:089][850]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.28.05:103][850]LogPlayLevel: PIE: World Init took: (0.014799s)
+[2023.03.28-21.28.05:129][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.03.28-21.28.05:131][850]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.28-21.28.05:131][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.28.05:131][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.28.05:131][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.28.05:131][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.28.05:131][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.28.05:131][850]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.28.05:131][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.28.05:131][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.28.05:131][850]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.28.05:131][850]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.28.05:131][850]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.28.05:133][850]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.28.05:149][850]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.28.05:149][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.28.05:149][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.28.05:149][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.28.05:150][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.03.28-21.28.05:150][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.03.28-21.28.05:151][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.03.28-21.28.05:151][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.03.28-21.28.05:151][850]LogInit: FAudioDevice initialized.
+[2023.03.28-21.28.05:151][850]LogAudio: Display: Audio Device (ID: 8) registered with world 'Merged_Level'.
+[2023.03.28-21.28.05:163][850]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.28.05:271][850]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.28.05
+[2023.03.28-21.28.05:272][850]LogWorld: Bringing up level for play took: 0.000731
+[2023.03.28-21.28.05:274][850]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.03.28-21.28.05:274][850]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.28.05:274][850]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.28.05:276][850]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.28.05:277][850]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.28.05:277][850]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.28.05:278][850]PIE: Server logged in
+[2023.03.28-21.28.05:279][850]PIE: Play in editor total start time 0,235 seconds.
+[2023.03.28-21.28.10:958][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.28.10:958][512]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.28.10:964][512]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.28.10:964][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.28.10:988][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.28.10:994][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.28.11:021][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.28.11:022][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.03.28-21.28.11:023][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.03.28-21.28.11:034][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.03.28-21.28.11:090][513]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.03.28-21.28.11:115][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.03.28-21.28.17:863][ 86]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.28.17:933][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.03.28-21.28.19:498][233]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.28.19:507][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.28.19:507][233]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:28:19)
+[2023.03.28-21.28.19:528][233]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.28.19:529][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001350s)
+[2023.03.28-21.28.19:529][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001441s)
+[2023.03.28-21.28.19:529][233]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.28.19:529][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.28.19:530][233]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.28.19:544][233]LogPlayLevel: PIE: World Init took: (0.014736s)
+[2023.03.28-21.28.19:572][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.03.28-21.28.19:575][233]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.28-21.28.19:575][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.28.19:575][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.28.19:575][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.28.19:575][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.28.19:575][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.28.19:575][233]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.28.19:575][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.28.19:575][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.28.19:575][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.28.19:575][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.28.19:575][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.28.19:577][233]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.28.19:593][233]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.28.19:593][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.28.19:593][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.28.19:593][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.28.19:594][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.03.28-21.28.19:594][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.03.28-21.28.19:595][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.03.28-21.28.19:595][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.03.28-21.28.19:595][233]LogInit: FAudioDevice initialized.
+[2023.03.28-21.28.19:595][233]LogAudio: Display: Audio Device (ID: 9) registered with world 'Merged_Level'.
+[2023.03.28-21.28.19:608][233]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.28.19:697][233]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.28.19
+[2023.03.28-21.28.19:697][233]LogWorld: Bringing up level for play took: 0.000691
+[2023.03.28-21.28.19:699][233]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.03.28-21.28.19:699][233]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.28.19:700][233]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.28.19:701][233]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.28.19:702][233]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.28.19:702][233]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.28.19:704][233]PIE: Server logged in
+[2023.03.28-21.28.19:704][233]PIE: Play in editor total start time 0,197 seconds.
+[2023.03.28-21.28.25:648][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.28.25:648][938]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.28.25:656][938]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.28.25:656][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.28.25:716][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.28.25:722][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.28.25:748][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.28.25:750][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.03.28-21.28.25:751][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.03.28-21.28.25:754][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.28.25:762][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.03.28-21.28.25:831][939]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.03.28-21.28.25:859][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.03.28-21.28.39:315][818]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.28.39:381][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.03.28-21.28.41:292][991]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.28.41:301][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.28.41:301][991]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:28:41)
+[2023.03.28-21.28.41:327][991]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.28.41:329][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001247s)
+[2023.03.28-21.28.41:329][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001332s)
+[2023.03.28-21.28.41:329][991]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.28.41:329][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.28.41:329][991]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.28.41:343][991]LogPlayLevel: PIE: World Init took: (0.014385s)
+[2023.03.28-21.28.41:370][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.03.28-21.28.41:373][991]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.28-21.28.41:373][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.28.41:373][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.28.41:373][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.28.41:373][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.28.41:373][991]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.28.41:373][991]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.28.41:373][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.28.41:373][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.28.41:374][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.28.41:374][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.28.41:374][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.28.41:376][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.28.41:392][991]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.28.41:392][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.28.41:392][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.28.41:392][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.28.41:393][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.03.28-21.28.41:393][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.03.28-21.28.41:394][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.03.28-21.28.41:394][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.03.28-21.28.41:394][991]LogInit: FAudioDevice initialized.
+[2023.03.28-21.28.41:394][991]LogAudio: Display: Audio Device (ID: 10) registered with world 'Merged_Level'.
+[2023.03.28-21.28.41:408][991]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.28.41:500][991]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.28.41
+[2023.03.28-21.28.41:501][991]LogWorld: Bringing up level for play took: 0.000700
+[2023.03.28-21.28.41:503][991]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.03.28-21.28.41:503][991]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.28.41:503][991]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.28.41:505][991]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.28.41:505][991]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.28.41:505][991]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.28.41:507][991]PIE: Server logged in
+[2023.03.28-21.28.41:508][991]PIE: Play in editor total start time 0,207 seconds.
+[2023.03.28-21.28.46:298][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.28.46:298][555]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.28.46:303][555]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.28.46:303][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.28.46:314][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.28.46:320][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.28.46:346][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.28.46:347][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.28-21.28.46:349][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.28-21.28.46:351][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.28.46:359][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.03.28-21.28.46:415][556]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.03.28-21.28.46:440][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.03.28-21.28.52:842][100]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.28.52:926][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.03.28-21.28.54:408][231]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.28.54:416][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.28.54:416][231]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:28:54)
+[2023.03.28-21.28.54:447][231]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.28.54:449][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001252s)
+[2023.03.28-21.28.54:449][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001370s)
+[2023.03.28-21.28.54:449][231]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.28.54:449][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.28.54:449][231]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.28.54:464][231]LogPlayLevel: PIE: World Init took: (0.014780s)
+[2023.03.28-21.28.54:492][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.03.28-21.28.54:496][231]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.28-21.28.54:496][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.28.54:496][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.28.54:496][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.28.54:496][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.28.54:496][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.28.54:496][231]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.28.54:496][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.28.54:496][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.28.54:497][231]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.28.54:497][231]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.28.54:497][231]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.28.54:498][231]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.28.54:515][231]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.28.54:515][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.28.54:515][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.28.54:515][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.28.54:516][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.03.28-21.28.54:516][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.03.28-21.28.54:517][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.03.28-21.28.54:517][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.03.28-21.28.54:517][231]LogInit: FAudioDevice initialized.
+[2023.03.28-21.28.54:517][231]LogAudio: Display: Audio Device (ID: 11) registered with world 'Merged_Level'.
+[2023.03.28-21.28.54:532][231]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.28.54:624][231]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.28.54
+[2023.03.28-21.28.54:624][231]LogWorld: Bringing up level for play took: 0.000723
+[2023.03.28-21.28.54:626][231]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.03.28-21.28.54:626][231]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.28.54:626][231]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.28.54:629][231]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.28.54:629][231]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.28.54:629][231]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.28.54:631][231]PIE: Server logged in
+[2023.03.28-21.28.54:632][231]PIE: Play in editor total start time 0,216 seconds.
+[2023.03.28-21.29.29:198][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.29.29:198][365]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.29.29:203][365]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.29.29:203][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.29.29:213][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.29.29:219][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.29.29:245][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.29.29:247][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.03.28-21.29.29:248][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.03.28-21.29.29:251][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.29.29:259][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.03.28-21.29.29:315][366]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.03.28-21.29.29:341][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.03.28-21.29.45:451][714]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.29.45:522][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.03.28-21.29.47:461][884]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.29.47:470][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.29.47:470][884]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:29:47)
+[2023.03.28-21.29.47:507][884]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.29.47:509][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001387s)
+[2023.03.28-21.29.47:509][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001470s)
+[2023.03.28-21.29.47:509][884]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.29.47:509][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.29.47:509][884]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.29.47:523][884]LogPlayLevel: PIE: World Init took: (0.014677s)
+[2023.03.28-21.29.47:552][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.03.28-21.29.47:555][884]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.03.28-21.29.47:555][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.29.47:555][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.29.47:555][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.29.47:555][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.29.47:555][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.29.47:555][884]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.29.47:555][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.29.47:555][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.29.47:555][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.29.47:555][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.29.47:555][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.29.47:557][884]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.29.47:574][884]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.29.47:574][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.29.47:574][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.29.47:574][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.29.47:575][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.03.28-21.29.47:575][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.03.28-21.29.47:576][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.03.28-21.29.47:576][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.03.28-21.29.47:576][884]LogInit: FAudioDevice initialized.
+[2023.03.28-21.29.47:576][884]LogAudio: Display: Audio Device (ID: 12) registered with world 'Merged_Level'.
+[2023.03.28-21.29.47:585][884]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.29.47:675][884]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.29.47
+[2023.03.28-21.29.47:675][884]LogWorld: Bringing up level for play took: 0.000682
+[2023.03.28-21.29.47:677][884]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.03.28-21.29.47:677][884]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.29.47:677][884]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.29.47:679][884]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.29.47:680][884]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.29.47:680][884]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.29.47:682][884]PIE: Server logged in
+[2023.03.28-21.29.47:682][884]PIE: Play in editor total start time 0,213 seconds.
+[2023.03.28-21.30.09:888][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.30.09:888][539]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.30.09:896][539]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.30.09:896][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.30.09:956][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.30.09:962][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.30.09:988][539]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.30.09:990][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.03.28-21.30.09:991][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.03.28-21.30.09:993][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.30.10:001][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.03.28-21.30.10:056][540]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.03.28-21.30.10:081][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.03.28-21.30.20:157][380]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.28-21.30.21:204][455]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.30.21:282][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.03.28-21.30.22:995][620]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.30.23:004][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.30.23:004][620]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:30:23)
+[2023.03.28-21.30.23:028][620]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.30.23:029][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001272s)
+[2023.03.28-21.30.23:029][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001367s)
+[2023.03.28-21.30.23:029][620]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.30.23:029][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.30.23:029][620]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.30.23:044][620]LogPlayLevel: PIE: World Init took: (0.015326s)
+[2023.03.28-21.30.23:072][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.28-21.30.23:076][620]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.03.28-21.30.23:076][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.30.23:076][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.30.23:076][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.30.23:076][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.30.23:076][620]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.30.23:076][620]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.30.23:076][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.30.23:076][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.30.23:076][620]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.30.23:076][620]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.30.23:076][620]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.30.23:078][620]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.30.23:095][620]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.30.23:095][620]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.30.23:095][620]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.30.23:095][620]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.30.23:096][620]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.03.28-21.30.23:096][620]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.03.28-21.30.23:097][620]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.03.28-21.30.23:097][620]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.03.28-21.30.23:097][620]LogInit: FAudioDevice initialized.
+[2023.03.28-21.30.23:097][620]LogAudio: Display: Audio Device (ID: 13) registered with world 'Merged_Level'.
+[2023.03.28-21.30.23:107][620]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.30.23:200][620]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.30.23
+[2023.03.28-21.30.23:200][620]LogWorld: Bringing up level for play took: 0.000723
+[2023.03.28-21.30.23:202][620]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.03.28-21.30.23:203][620]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.30.23:203][620]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.30.23:205][620]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.30.23:205][620]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.30.23:205][620]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.30.23:207][620]PIE: Server logged in
+[2023.03.28-21.30.23:208][620]PIE: Play in editor total start time 0,204 seconds.
+[2023.03.28-21.30.40:458][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.30.40:458][679]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.30.40:463][679]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.30.40:463][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.30.40:476][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.30.40:482][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.30.40:508][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.30.40:509][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.03.28-21.30.40:511][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.03.28-21.30.40:513][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.30.40:521][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.28-21.30.40:577][680]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.03.28-21.30.40:602][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.03.28-21.30.47:998][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.28-21.30.48:011][458]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris
+[2023.03.28-21.30.48:011][458]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_ParisA8FFB0F349019C9AF7C780BBE47B06AA.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris.umap'
+[2023.03.28-21.30.48:018][458]LogFileHelpers: No new changes to save!
+[2023.03.28-21.30.48:282][458]AssetCheck: New page: Asset Save: Light_Paris
+[2023.03.28-21.30.48:282][458]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Light_Paris.Light_Paris
+[2023.03.28-21.30.49:947][653]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.30.49:956][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.30.49:956][653]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:30:49)
+[2023.03.28-21.30.49:988][653]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.30.49:989][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001218s)
+[2023.03.28-21.30.49:989][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001295s)
+[2023.03.28-21.30.49:989][653]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.30.49:989][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.30.49:989][653]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.30.50:004][653]LogPlayLevel: PIE: World Init took: (0.014711s)
+[2023.03.28-21.30.50:030][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.03.28-21.30.50:032][653]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.03.28-21.30.50:032][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.30.50:032][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.30.50:032][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.30.50:032][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.30.50:032][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.30.50:032][653]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.30.50:032][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.30.50:032][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.30.50:032][653]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.30.50:032][653]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.30.50:032][653]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.30.50:034][653]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.30.50:051][653]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.30.50:051][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.30.50:051][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.30.50:051][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.30.50:052][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.03.28-21.30.50:052][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.03.28-21.30.50:053][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.03.28-21.30.50:053][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.03.28-21.30.50:053][653]LogInit: FAudioDevice initialized.
+[2023.03.28-21.30.50:053][653]LogAudio: Display: Audio Device (ID: 14) registered with world 'Merged_Level'.
+[2023.03.28-21.30.50:067][653]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.30.50:149][653]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.30.50
+[2023.03.28-21.30.50:149][653]LogWorld: Bringing up level for play took: 0.000706
+[2023.03.28-21.30.50:151][653]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.03.28-21.30.50:151][653]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.30.50:151][653]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.30.50:153][653]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.30.50:154][653]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.30.50:154][653]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.30.50:155][653]PIE: Server logged in
+[2023.03.28-21.30.50:156][653]PIE: Play in editor total start time 0,2 seconds.
+[2023.03.28-21.31.08:288][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.31.08:288][821]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.31.08:292][821]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.31.08:292][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.31.08:304][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.31.08:310][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.31.08:338][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.31.08:338][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.03.28-21.31.08:339][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.03.28-21.31.08:349][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.28-21.31.08:399][822]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.03.28-21.31.08:427][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.03.28-21.31.13:036][326]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TA/Props/Assets/Appartement/LampeMurale_BP.LampeMurale_BP
+[2023.03.28-21.31.13:036][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.31.14:465][411]LogViewport: Scene viewport resized to 1141x638, mode Windowed.
+[2023.03.28-21.31.17:260][638]BlueprintLog: New page: Compile LampeMurale_BP
+[2023.03.28-21.31.17:327][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.03.28-21.31.17:952][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Props/Assets/Appartement/LampeMurale_BP" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Assets/Appartement/LampeMurale_BP.uasset" SILENT=true
+[2023.03.28-21.31.17:956][676]LogSavePackage: Moving output files for package: /Game/TA/Props/Assets/Appartement/LampeMurale_BP
+[2023.03.28-21.31.17:956][676]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/LampeMurale_BPA2D88DFC40A15971AF9D18A82EF260C2.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Assets/Appartement/LampeMurale_BP.uasset'
+[2023.03.28-21.31.17:972][676]AssetCheck: New page: Asset Save: LampeMurale_BP
+[2023.03.28-21.31.17:973][676]LogContentValidation: Display: Validating Blueprint /Game/TA/Props/Assets/Appartement/LampeMurale_BP.LampeMurale_BP
+[2023.03.28-21.31.23:743][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TA/Props/Assets/Appartement/LampePied_BP.LampePied_BP
+[2023.03.28-21.31.23:743][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.31.25:142][369]LogViewport: Scene viewport resized to 1141x638, mode Windowed.
+[2023.03.28-21.31.29:112][694]BlueprintLog: New page: Compile LampePied_BP
+[2023.03.28-21.31.29:174][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.03.28-21.31.31:483][924]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.31.31:492][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.31.31:492][924]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:31:31)
+[2023.03.28-21.31.31:492][924]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.31.31:493][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001127s)
+[2023.03.28-21.31.31:493][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001181s)
+[2023.03.28-21.31.31:493][924]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.31.31:493][924]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.31.31:493][924]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.31.31:507][924]LogPlayLevel: PIE: World Init took: (0.014813s)
+[2023.03.28-21.31.31:545][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.28-21.31.31:547][924]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.03.28-21.31.31:547][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.31.31:547][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.31.31:547][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.31.31:547][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.31.31:547][924]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.31.31:547][924]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.31.31:547][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.31.31:547][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.31.31:548][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.31.31:548][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.31.31:548][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.31.31:549][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.31.31:566][924]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.31.31:566][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.31.31:566][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.31.31:566][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.31.31:567][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.03.28-21.31.31:567][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.03.28-21.31.31:568][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.03.28-21.31.31:568][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.03.28-21.31.31:568][924]LogInit: FAudioDevice initialized.
+[2023.03.28-21.31.31:568][924]LogAudio: Display: Audio Device (ID: 15) registered with world 'Merged_Level'.
+[2023.03.28-21.31.31:583][924]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.31.31:664][924]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.31.31
+[2023.03.28-21.31.31:665][924]LogWorld: Bringing up level for play took: 0.000787
+[2023.03.28-21.31.31:667][924]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.03.28-21.31.31:667][924]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.31.31:667][924]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.31.31:669][924]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.31.31:670][924]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.31.31:670][924]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.31.31:671][924]PIE: Server logged in
+[2023.03.28-21.31.31:672][924]PIE: Play in editor total start time 0,181 seconds.
+[2023.03.28-21.31.55:598][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.31.55:598][783]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.31.55:603][783]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.31.55:603][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.31.55:614][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.31.55:620][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.31.55:659][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.31.55:659][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.03.28-21.31.55:661][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.03.28-21.31.55:663][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.31.55:671][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.28-21.31.55:714][784]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.03.28-21.31.55:748][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.03.28-21.31.59:896][248]LogViewport: Scene viewport resized to 1141x640, mode Windowed.
+[2023.03.28-21.32.12:166][230]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.32.12:247][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.28-21.32.14:537][430]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.32.14:545][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.32.14:546][430]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:32:14)
+[2023.03.28-21.32.14:578][430]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.32.14:579][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001308s)
+[2023.03.28-21.32.14:579][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001399s)
+[2023.03.28-21.32.14:579][430]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.32.14:579][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.32.14:579][430]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.32.14:594][430]LogPlayLevel: PIE: World Init took: (0.014898s)
+[2023.03.28-21.32.14:631][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.03.28-21.32.14:633][430]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.03.28-21.32.14:633][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.32.14:633][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.32.14:633][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.32.14:633][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.32.14:633][430]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.32.14:633][430]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.32.14:633][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.32.14:633][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.32.14:633][430]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.32.14:633][430]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.32.14:633][430]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.32.14:635][430]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.32.14:652][430]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.32.14:652][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.32.14:652][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.32.14:652][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.32.14:652][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.03.28-21.32.14:652][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.03.28-21.32.14:653][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.03.28-21.32.14:653][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.03.28-21.32.14:654][430]LogInit: FAudioDevice initialized.
+[2023.03.28-21.32.14:654][430]LogAudio: Display: Audio Device (ID: 16) registered with world 'Merged_Level'.
+[2023.03.28-21.32.14:664][430]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.32.14:745][430]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.32.14
+[2023.03.28-21.32.14:745][430]LogWorld: Bringing up level for play took: 0.000682
+[2023.03.28-21.32.14:747][430]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.03.28-21.32.14:747][430]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.32.14:748][430]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.32.14:749][430]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.32.14:750][430]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.32.14:750][430]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.32.14:752][430]PIE: Server logged in
+[2023.03.28-21.32.14:752][430]PIE: Play in editor total start time 0,207 seconds.
+[2023.03.28-21.32.38:378][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.32.38:378][256]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.32.38:381][256]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.32.38:381][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.32.38:391][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.32.38:397][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.32.38:430][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.32.38:432][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.03.28-21.32.38:434][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.03.28-21.32.38:445][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.28-21.32.38:488][257]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.03.28-21.32.38:523][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.28-21.32.53:673][933]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.03.28-21.32.53:673][933]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.03.28-21.32.53:673][933]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon:PersistentLevel.DirectionalLight_0
+[2023.03.28-21.32.53:673][933]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon:PersistentLevel.DirectionalLight_0
+[2023.03.28-21.32.54:162][985]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.03.28-21.32.54:162][985]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.03.28-21.32.54:163][985]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon:PersistentLevel.DirectionalLight_1
+[2023.03.28-21.32.54:164][985]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon:PersistentLevel.DirectionalLight_1
+[2023.03.28-21.33.23:627][458]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.03.28-21.33.23:627][458]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.03.28-21.33.23:628][458]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon:PersistentLevel.SkyAtmosphere_0
+[2023.03.28-21.33.23:628][458]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon:PersistentLevel.SkyAtmosphere_0
+[2023.03.28-21.33.24:138][513]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.03.28-21.33.24:138][513]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.03.28-21.33.24:139][513]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon:PersistentLevel.SkyAtmosphere_1
+[2023.03.28-21.33.24:139][513]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon:PersistentLevel.SkyAtmosphere_1
+[2023.03.28-21.33.29:533][125]Cmd: TRANSACTION UNDO
+[2023.03.28-21.33.29:533][125]LogEditorTransaction: Undo Create Actors
+[2023.03.28-21.33.29:978][141]Cmd: TRANSACTION UNDO
+[2023.03.28-21.33.29:978][141]LogEditorTransaction: Undo Rotate Elements
+[2023.03.28-21.33.30:584][207]Cmd: TRANSACTION UNDO
+[2023.03.28-21.33.30:584][207]LogEditorTransaction: Undo Rotate Elements
+[2023.03.28-21.33.30:986][253]Cmd: TRANSACTION UNDO
+[2023.03.28-21.33.30:986][253]LogEditorTransaction: Undo Rotate Elements
+[2023.03.28-21.33.31:593][325]Cmd: TRANSACTION UNDO
+[2023.03.28-21.33.31:593][325]LogEditorTransaction: Undo Create Actors
+[2023.03.28-21.33.51:707][211]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.33.51:790][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.28-21.33.53:622][381]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.33.53:631][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.33.53:631][381]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:33:53)
+[2023.03.28-21.33.53:631][381]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.33.53:633][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001246s)
+[2023.03.28-21.33.53:633][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001319s)
+[2023.03.28-21.33.53:633][381]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.33.53:633][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.33.53:633][381]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.33.53:647][381]LogPlayLevel: PIE: World Init took: (0.014743s)
+[2023.03.28-21.33.53:685][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.28-21.33.53:687][381]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.03.28-21.33.53:687][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.33.53:687][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.33.53:687][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.33.53:687][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.33.53:687][381]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.33.53:687][381]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.33.53:687][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.33.53:687][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.33.53:687][381]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.33.53:687][381]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.33.53:687][381]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.33.53:689][381]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.33.53:706][381]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.33.53:706][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.33.53:706][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.33.53:706][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.33.53:707][381]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.03.28-21.33.53:707][381]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.03.28-21.33.53:708][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.03.28-21.33.53:708][381]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.03.28-21.33.53:708][381]LogInit: FAudioDevice initialized.
+[2023.03.28-21.33.53:708][381]LogAudio: Display: Audio Device (ID: 17) registered with world 'Merged_Level'.
+[2023.03.28-21.33.53:720][381]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.33.53:801][381]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.33.53
+[2023.03.28-21.33.53:801][381]LogWorld: Bringing up level for play took: 0.000695
+[2023.03.28-21.33.53:803][381]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.03.28-21.33.53:803][381]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.33.53:803][381]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.33.53:805][381]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.33.53:806][381]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.33.53:806][381]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.33.53:808][381]PIE: Server logged in
+[2023.03.28-21.33.53:808][381]PIE: Play in editor total start time 0,177 seconds.
+[2023.03.28-21.34.11:508][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.34.11:508][495]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.34.11:512][495]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.34.11:512][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.34.11:522][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.34.11:528][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.34.11:565][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.34.11:566][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.03.28-21.34.11:568][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.03.28-21.34.11:570][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.34.11:578][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.03.28-21.34.11:620][496]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.03.28-21.34.11:654][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.03.28-21.34.25:486][673]BlueprintLog: New page: Compile BP_Briquet
+[2023.03.28-21.34.25:570][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.03.28-21.34.28:387][935]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.34.28:395][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.34.28:395][935]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:34:28)
+[2023.03.28-21.34.28:427][935]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.34.28:428][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001252s)
+[2023.03.28-21.34.28:428][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001338s)
+[2023.03.28-21.34.28:428][935]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.34.28:429][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.34.28:429][935]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.34.28:444][935]LogPlayLevel: PIE: World Init took: (0.015450s)
+[2023.03.28-21.34.28:481][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.03.28-21.34.28:483][935]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.03.28-21.34.28:483][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.34.28:483][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.34.28:483][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.34.28:483][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.34.28:483][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.34.28:483][935]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.34.28:483][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.34.28:483][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.34.28:484][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.34.28:484][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.34.28:484][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.34.28:486][935]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.34.28:502][935]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.34.28:502][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.34.28:502][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.34.28:502][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.34.28:503][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.03.28-21.34.28:503][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.03.28-21.34.28:504][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.03.28-21.34.28:504][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.03.28-21.34.28:504][935]LogInit: FAudioDevice initialized.
+[2023.03.28-21.34.28:504][935]LogAudio: Display: Audio Device (ID: 18) registered with world 'Merged_Level'.
+[2023.03.28-21.34.28:519][935]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.34.28:602][935]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.34.28
+[2023.03.28-21.34.28:602][935]LogWorld: Bringing up level for play took: 0.000651
+[2023.03.28-21.34.28:604][935]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.03.28-21.34.28:604][935]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.34.28:604][935]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.34.28:606][935]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.34.28:607][935]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.34.28:607][935]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.34.28:608][935]PIE: Server logged in
+[2023.03.28-21.34.28:609][935]PIE: Play in editor total start time 0,214 seconds.
+[2023.03.28-21.36.04:768][453]LogBlueprintUserMessages: [Menu_Minigame_Elctricity_C_0] 4
+[2023.03.28-21.36.05:926][592]LogBlueprintUserMessages: [Menu_Minigame_Elctricity_C_0] 4
+[2023.03.28-21.36.11:176][222]LogBlueprintUserMessages: [Menu_Minigame_Elctricity_C_0] 1
+[2023.03.28-21.36.12:409][370]LogBlueprintUserMessages: [Menu_Minigame_Elctricity_C_0] 2
+[2023.03.28-21.36.14:385][607]LogBlueprintUserMessages: [Menu_Minigame_Elctricity_C_0] 5
+[2023.03.28-21.36.14:877][666]LogBlueprintUserMessages: [BP_Eletric_Meter_Child_INI_C_0] GG wp
+[2023.03.28-21.36.37:418][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.36.37:418][361]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.36.37:422][361]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.36.37:422][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.36.37:435][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.36.37:441][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.36.37:476][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.36.37:477][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.03.28-21.36.37:479][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.03.28-21.36.37:481][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.36.37:488][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.03.28-21.36.37:530][362]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.03.28-21.36.37:565][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.03.28-21.36.44:512][101]Cmd: EDIT COPY
+[2023.03.28-21.36.46:408][326]Cmd: EDIT CUT
+[2023.03.28-21.36.46:419][326]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-21.36.46:453][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.03.28-21.36.46:456][326]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2023.03.28-21.36.48:892][572]Cmd: EDIT PASTE
+[2023.03.28-21.37.24:653][411]BlueprintLog: New page: Compile LampeMurale_BP
+[2023.03.28-21.37.24:732][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.03.28-21.37.27:097][586]BlueprintLog: New page: Compile LampePied_BP
+[2023.03.28-21.37.27:157][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.03.28-21.37.28:797][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Interactainable/Inventory/BP_Briquet" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Briquet.uasset" SILENT=true
+[2023.03.28-21.37.28:809][710]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Inventory/BP_Briquet
+[2023.03.28-21.37.28:810][710]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/BP_BriquetCBB42FBC452B7CBD03809CA62756565B.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Inventory/BP_Briquet.uasset'
+[2023.03.28-21.37.28:822][710]AssetCheck: New page: Asset Save: BP_Briquet
+[2023.03.28-21.37.28:822][710]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Briquet.BP_Briquet
+[2023.03.28-21.37.29:810][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Props/Assets/Appartement/LampeMurale_BP" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Assets/Appartement/LampeMurale_BP.uasset" SILENT=true
+[2023.03.28-21.37.29:814][782]LogSavePackage: Moving output files for package: /Game/TA/Props/Assets/Appartement/LampeMurale_BP
+[2023.03.28-21.37.29:814][782]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/LampeMurale_BP745015EB43CA666BE8B562AF2D67386B.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Assets/Appartement/LampeMurale_BP.uasset'
+[2023.03.28-21.37.29:826][782]AssetCheck: New page: Asset Save: LampeMurale_BP
+[2023.03.28-21.37.29:826][782]LogContentValidation: Display: Validating Blueprint /Game/TA/Props/Assets/Appartement/LampeMurale_BP.LampeMurale_BP
+[2023.03.28-21.37.30:678][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Props/Assets/Appartement/LampePied_BP" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Assets/Appartement/LampePied_BP.uasset" SILENT=true
+[2023.03.28-21.37.30:682][838]LogSavePackage: Moving output files for package: /Game/TA/Props/Assets/Appartement/LampePied_BP
+[2023.03.28-21.37.30:683][838]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/LampePied_BPF96F518A447E673F56CBD589A71117BA.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Assets/Appartement/LampePied_BP.uasset'
+[2023.03.28-21.37.30:695][838]AssetCheck: New page: Asset Save: LampePied_BP
+[2023.03.28-21.37.30:695][838]LogContentValidation: Display: Validating Blueprint /Game/TA/Props/Assets/Appartement/LampePied_BP.LampePied_BP
+[2023.03.28-21.37.31:893][937]LogSlate: Window 'LampePied_BP' being destroyed
+[2023.03.28-21.37.31:898][937]LogSlate: Window 'LampePied_BP' being destroyed
+[2023.03.28-21.37.31:911][937]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.37.31:911][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.37.31:976][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.28-21.37.31:976][937]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.37.31:976][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.37.32:036][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.28-21.37.32:036][937]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.37.32:036][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.37.48:646][341]LogSlate: Window 'Message' being destroyed
+[2023.03.28-21.37.48:651][341]Message dialog closed, result: Ok, title: Message, text: bForceNoPrecomputedLighting is now enabled, build lighting once to propagate the change (will remove existing precomputed lighting data).
+[2023.03.28-21.37.49:892][472]MapCheck: New page: Map Check
+[2023.03.28-21.37.49:902][472]LightingResults: New page: Lighting Build - 29 mars 2023 à 01:37:49
+[2023.03.28-21.37.49:902][472]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.03.28-21.37.49:928][472]LogEditorBuildUtils: Build time 0:00
+[2023.03.28-21.37.53:933][663]Cmd: EDIT COPY
+[2023.03.28-21.37.54:132][674]Cmd: EDIT PASTE
+[2023.03.28-21.38.11:908][635]Cmd: EDIT COPY
+[2023.03.28-21.38.12:134][646]Cmd: EDIT PASTE
+[2023.03.28-21.38.18:230][979]Cmd: EDIT COPY
+[2023.03.28-21.38.18:438][988]Cmd: EDIT PASTE
+[2023.03.28-21.38.34:924][979]Cmd: EDIT COPY
+[2023.03.28-21.38.35:125][990]Cmd: EDIT PASTE
+[2023.03.28-21.38.40:149][250]Cmd: EDIT COPY
+[2023.03.28-21.38.40:314][255]Cmd: EDIT PASTE
+[2023.03.28-21.38.44:322][457]Cmd: EDIT COPY
+[2023.03.28-21.38.44:547][466]Cmd: EDIT PASTE
+[2023.03.28-21.39.25:024][437]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.28-21.39.54:929][933]Cmd: DELETE
+[2023.03.28-21.39.54:929][933]Cmd: ACTOR DELETE
+[2023.03.28-21.39.54:940][933]LogEditorActor: Deleted Actor: PointLight
+[2023.03.28-21.39.54:993][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.03.28-21.39.55:005][933]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2023.03.28-21.40.01:128][226]Cmd: EDIT COPY
+[2023.03.28-21.40.01:309][235]Cmd: EDIT PASTE
+[2023.03.28-21.40.09:751][613]Cmd: EDIT COPY
+[2023.03.28-21.40.09:958][622]Cmd: EDIT PASTE
+[2023.03.28-21.40.14:990][887]Cmd: EDIT COPY
+[2023.03.28-21.40.15:211][901]Cmd: EDIT PASTE
+[2023.03.28-21.40.20:623][159]Cmd: EDIT COPY
+[2023.03.28-21.40.20:785][163]Cmd: EDIT PASTE
+[2023.03.28-21.40.24:580][318]Cmd: EDIT COPY
+[2023.03.28-21.40.24:752][322]Cmd: EDIT PASTE
+[2023.03.28-21.40.30:307][588]Cmd: EDIT COPY
+[2023.03.28-21.40.30:508][594]Cmd: EDIT PASTE
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: ================================================
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 1.05 s
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 1.07
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.07 s
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Average processing rate: 3.76 jobs/sec
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 54.29% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.71% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-21.40.41:520][184]LogShaderCompilers: Display: ================================================
+[2023.03.28-21.40.43:360][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:386][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:412][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:437][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:463][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:489][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:515][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:542][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:568][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:594][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:620][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:647][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:673][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:699][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.43:725][184]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.40.45:563][236]MapCheck: New page: Map Check
+[2023.03.28-21.40.45:577][236]LightingResults: New page: Lighting Build - 29 mars 2023 à 01:40:45
+[2023.03.28-21.40.45:585][236]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.28-21.40.45:589][236]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.28-21.40.45:589][236]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.28-21.40.45:590][236]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.28-21.40.45:590][236]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13220
+[2023.03.28-21.40.50:148][236]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.03.28-21.40.50:149][236]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.28-21.40.50:149][236]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.28-21.40.50:149][236]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.28-21.40.50:149][236]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.28-21.40.50:149][236]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.28-21.40.50:251][236]LogEditorBuildUtils: Build time 0:04
+[2023.03.28-21.40.50:304][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.03.28-21.41.04:901][425]LightingResults: Warning: PlafondCuisine_LP Object has overlapping UVs.
+[2023.03.28-21.41.04:901][425]LightingResults: PlafondCuisine_LP Lightmap UV are overlapping by 12.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.41.14:382][699]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-21.41.14:382][699]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.41.15:767][739]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-21.41.15:767][739]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.41.44:331][630]Job is a success!
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport:          1: 40.0% covering 6.2% of volume
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport:          Merged_Level 			 5 bricks 	 50.0% (Persistent Level)
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport:          Manon 			 4 bricks 	 40.0%
+[2023.03.28-21.41.44:523][631]LogVolumetricLightmapImport:          Light_Paris 			 1 bricks 	 10.0%
+[2023.03.28-21.41.48:081][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.48:775][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.49:367][631]Lightmass on DESKTOP-PNP00D5: 58.4 sec total, 486 ms importing, 379 ms setup, 8.35 sec photons, 49.2 sec processing, 0 us extra exporting [605/605 mappings]. Threads: 18:52 min total, 6:38 min processing.
+[2023.03.28-21.41.49:376][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:376][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:376][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:376][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:376][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:376][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:376][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:376][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:376][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:377][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:377][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:377][631]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.41.49:451][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.03.28-21.41.49:470][631]LogStaticLightingSystem: Illumination: 1:03 min (4.08 sec encoding lightmaps, 10 us encoding shadowmaps)
+[2023.03.28-21.41.49:470][631]LogStaticLightingSystem: Lightmap texture memory:  128.1 MB (128.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.03.28-21.41.49:470][631]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.03.28-21.41.54:287][631]DumpUnbuiltLightIteractions
+[2023.03.28-21.41.54:287][631]Lights with unbuilt interactions: 0
+[2023.03.28-21.41.54:287][631]
+[2023.03.28-21.41.54:288][631]Primitives with unbuilt interactions: 0
+[2023.03.28-21.41.54:743][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.54:771][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.54:799][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.54:827][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.54:854][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.54:882][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.54:910][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.54:939][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.54:966][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.54:994][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.55:021][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.55:049][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.55:078][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.55:106][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.55:133][631]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.41.55:510][632]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.28-21.41.55:511][632]MapCheck: New page: Merged_Level - 29 mars 2023 à 01:41:55
+[2023.03.28-21.41.55:511][632]MapCheck: Warning: StaticMeshActor_19 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.41.55:512][632]MapCheck: Warning: StaticMeshActor_200 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.41.55:513][632]MapCheck: Warning: StaticMeshActor_3 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.41.55:513][632]MapCheck: Warning: StaticMeshActor_13 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.41.55:513][632]MapCheck: Warning: StaticMeshActor_27 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.41.55:515][632]MapCheck: Warning: StaticMeshActor_196 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.41.55:515][632]MapCheck: Warning: StaticMeshActor_109 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.41.55:515][632]MapCheck: Warning: StaticMeshActor_1 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.41.55:516][632]MapCheck: Warning: StaticMeshActor_16 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.41.55:516][632]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 5,308ms to complete.
+[2023.03.28-21.41.57:119][764]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.41.57:132][764]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.42.55:636][638]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/TA/Materials/Props/Appartement/Plancher_V2.Plancher_V2
+[2023.03.28-21.42.55:638][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.42.55:864][638]LogViewport: Scene viewport resized to 1327x902, mode Windowed.
+[2023.03.28-21.42.56:646][705]LogViewport: Scene viewport resized to 971x520, mode Windowed.
+[2023.03.28-21.43.02:235][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Materials/Props/Appartement/Plancher_V2" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Props/Appartement/Plancher_V2.uasset" SILENT=true
+[2023.03.28-21.43.02:255][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.03.28-21.43.02:279][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-21.43.02:282][153]LogSavePackage: Moving output files for package: /Game/TA/Materials/Props/Appartement/Plancher_V2
+[2023.03.28-21.43.02:282][153]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Plancher_V2C7CFF7A8483CE491A40D8AB5B2D42746.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Props/Appartement/Plancher_V2.uasset'
+[2023.03.28-21.43.02:297][153]AssetCheck: New page: Asset Save: Plancher_V2
+[2023.03.28-21.43.02:297][153]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/TA/Materials/Props/Appartement/Plancher_V2.Plancher_V2
+[2023.03.28-21.43.02:940][223]LogSlate: Window 'Plancher_V2' being destroyed
+[2023.03.28-21.43.02:945][223]LogSlate: Window 'Plancher_V2' being destroyed
+[2023.03.28-21.43.03:007][223]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.43.03:007][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.43.23:426][645]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.43.23:435][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.43.23:435][645]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:43:23)
+[2023.03.28-21.43.23:467][645]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.43.23:468][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001429s)
+[2023.03.28-21.43.23:468][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001524s)
+[2023.03.28-21.43.23:469][645]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.43.23:469][645]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.43.23:469][645]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.43.23:483][645]LogPlayLevel: PIE: World Init took: (0.014802s)
+[2023.03.28-21.43.23:506][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.28-21.43.23:509][645]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.03.28-21.43.23:509][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.43.23:509][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.43.23:509][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.43.23:509][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.43.23:509][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.43.23:509][645]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.43.23:509][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.43.23:509][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.43.23:510][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.43.23:510][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.43.23:510][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.43.23:511][645]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.43.23:528][645]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.43.23:529][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.43.23:529][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.43.23:529][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.43.23:529][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.03.28-21.43.23:529][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.03.28-21.43.23:530][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.03.28-21.43.23:530][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.03.28-21.43.23:530][645]LogInit: FAudioDevice initialized.
+[2023.03.28-21.43.23:530][645]LogAudio: Display: Audio Device (ID: 19) registered with world 'Merged_Level'.
+[2023.03.28-21.43.23:541][645]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.43.23:624][645]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.43.23
+[2023.03.28-21.43.23:625][645]LogWorld: Bringing up level for play took: 0.000714
+[2023.03.28-21.43.23:627][645]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.03.28-21.43.23:627][645]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.43.23:627][645]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.43.23:629][645]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.43.23:630][645]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.43.23:630][645]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.43.23:631][645]PIE: Server logged in
+[2023.03.28-21.43.23:632][645]PIE: Play in editor total start time 0,198 seconds.
+[2023.03.28-21.43.35:718][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.43.35:718][ 16]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.43.35:722][ 16]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.43.35:723][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.43.35:737][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.43.35:743][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.43.35:765][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.43.35:765][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.03.28-21.43.35:767][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.03.28-21.43.35:777][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.03.28-21.43.35:832][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.03.28-21.43.35:852][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.03.28-21.43.51:154][629]LogSlate: Window 'Message' being destroyed
+[2023.03.28-21.43.51:159][629]Message dialog closed, result: Ok, title: Message, text: bForceNoPrecomputedLighting is now enabled, build lighting once to propagate the change (will remove existing precomputed lighting data).
+[2023.03.28-21.43.52:286][756]MapCheck: New page: Map Check
+[2023.03.28-21.43.52:299][756]LightingResults: New page: Lighting Build - 29 mars 2023 à 01:43:52
+[2023.03.28-21.43.52:300][756]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.03.28-21.43.52:328][756]LogEditorBuildUtils: Build time 0:00
+[2023.03.28-21.44.43:864][ 77]Cmd: EDIT COPY
+[2023.03.28-21.44.44:016][ 86]Cmd: EDIT PASTE
+[2023.03.28-21.45.15:377][695]Cmd: EDIT COPY
+[2023.03.28-21.45.17:433][804]Cmd: EDIT CUT
+[2023.03.28-21.45.17:444][804]LogEditorActor: Deleted Actor: RectLight
+[2023.03.28-21.45.17:445][804]LogEditorActor: Deleted Actor: RectLight
+[2023.03.28-21.45.17:446][804]LogEditorActor: Deleted Actor: RectLight
+[2023.03.28-21.45.17:446][804]LogEditorActor: Deleted Actor: RectLight
+[2023.03.28-21.45.17:447][804]LogEditorActor: Deleted Actor: RectLight
+[2023.03.28-21.45.17:447][804]LogEditorActor: Deleted Actor: RectLight
+[2023.03.28-21.45.17:448][804]LogEditorActor: Deleted Actor: RectLight
+[2023.03.28-21.45.17:495][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.03.28-21.45.17:507][804]LogEditorActor: Deleted 7 Actors (0.074 secs)
+[2023.03.28-21.45.21:121][ 31]Cmd: EDIT PASTE
+[2023.03.28-21.45.42:736][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.28-21.45.43:600][ 65]LogSlate: Window 'Save Content' being destroyed
+[2023.03.28-21.45.43:657][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.28-21.45.43:669][ 65]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris
+[2023.03.28-21.45.43:670][ 65]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris47CE57044E5E840F745A22AF2ACCC01C.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris.umap'
+[2023.03.28-21.45.43:675][ 65]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.45.43:675][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset" SILENT=true
+[2023.03.28-21.45.43:804][ 65]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.45.43:805][ 65]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris_BuiltData0A4BA63A4FDED18DA63F8FBABFA590FE.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset'
+[2023.03.28-21.45.43:808][ 65]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.45.43:808][ 65]LogFileHelpers: Saving map 'Light_Paris' took 0.172
+[2023.03.28-21.45.43:808][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset" SILENT=true
+[2023.03.28-21.45.43:939][ 65]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.45.43:940][ 65]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris_BuiltData170BB2834CE9B2233660AE9FC2ABFD70.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset'
+[2023.03.28-21.45.43:942][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Manon" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Manon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.28-21.45.43:962][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.03.28-21.45.44:027][ 65]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Manon
+[2023.03.28-21.45.44:027][ 65]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Manon6E71A4BC47DC5058E02D58A3A9BF6FE9.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Manon.umap'
+[2023.03.28-21.45.44:033][ 65]LogFileHelpers: No new changes to save!
+[2023.03.28-21.45.44:033][ 65]LogFileHelpers: Saving map 'Manon' took 0.092
+[2023.03.28-21.45.44:034][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Merged_Level" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Merged_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.28-21.45.44:053][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-21.45.44:057][ 65]LogSavePackage: Moving output files for package: /Game/TA/Map/Merged_Level
+[2023.03.28-21.45.44:057][ 65]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level650000A34240FC83EAAEAEAA133F4644.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Merged_Level.umap'
+[2023.03.28-21.45.44:070][ 65]LogFileHelpers: No new changes to save!
+[2023.03.28-21.45.44:070][ 65]LogFileHelpers: Saving map 'Merged_Level' took 0.037
+[2023.03.28-21.45.44:083][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.28-21.45.44:083][ 65]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon
+[2023.03.28-21.45.44:083][ 65]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Light_Paris.Light_Paris
+[2023.03.28-21.45.44:083][ 65]LogContentValidation: Display: Validating World /Game/TA/Map/Merged_Level.Merged_Level
+[2023.03.28-21.45.44:083][ 65]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData
