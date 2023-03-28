@@ -5058,3 +5058,18 @@ Script Stack (0 frames):
 [2023.03.28-17.29.20:483][431]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
 [2023.03.28-17.29.20:483][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.03.28-17.29.29:180][431]LogSlate: Window 'FPWL_Projet - Unreal Editor' being destroyed
+[2023.03.28-17.29.49:711][432]Cmd: QUIT_EDITOR
+[2023.03.28-17.29.49:762][432]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.28-17.29.49:762][432]Cmd: QUIT_EDITOR
+[2023.03.28-17.29.49:762][432]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor(); note: exit was already requested)
+[2023.03.28-17.29.50:131][432]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.28-17.29.50:504][432]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.03.28-17.29.50:519][432]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.03.28-17.29.57:119][432]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.28-17.29.57:119][432]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.28-17.29.57:119][432]LogAudio: Display: Audio Device unregistered from world 'Blockout_Paris'.
+[2023.03.28-17.29.57:136][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.28-17.29.57:141][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.28-17.30.01:852][432]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.28-17.30.03:129][432]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.03.28-17.30.03:444][432]LogExit: Preparing to exit.
