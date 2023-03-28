@@ -5479,3 +5479,1095 @@ Script Stack (0 frames):
 [2023.03.28-21.45.44:083][ 65]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Light_Paris.Light_Paris
 [2023.03.28-21.45.44:083][ 65]LogContentValidation: Display: Validating World /Game/TA/Map/Merged_Level.Merged_Level
 [2023.03.28-21.45.44:083][ 65]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: ================================================
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 1.05 s
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 1.07
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.07 s
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Average processing rate: 3.76 jobs/sec
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 54.29% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.71% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-21.46.08:960][290]LogShaderCompilers: Display: ================================================
+[2023.03.28-21.46.10:871][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.10:900][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.10:927][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.10:954][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.10:983][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.11:010][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.11:039][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.11:070][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.11:098][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.11:125][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.11:152][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.11:180][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.11:208][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.11:236][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.11:264][290]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.46.13:168][347]MapCheck: New page: Map Check
+[2023.03.28-21.46.13:187][347]LightingResults: New page: Lighting Build - 29 mars 2023 à 01:46:13
+[2023.03.28-21.46.13:193][347]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.28-21.46.13:198][347]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.28-21.46.13:198][347]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.28-21.46.13:198][347]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.28-21.46.13:198][347]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13220
+[2023.03.28-21.46.17:788][347]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.03.28-21.46.17:789][347]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.28-21.46.17:789][347]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.28-21.46.17:789][347]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.28-21.46.17:789][347]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.28-21.46.17:789][347]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.28-21.46.17:883][347]LogEditorBuildUtils: Build time 0:04
+[2023.03.28-21.46.18:248][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.28-21.46.33:624][898]LightingResults: Warning: PlafondCuisine_LP Object has overlapping UVs.
+[2023.03.28-21.46.33:624][898]LightingResults: PlafondCuisine_LP Lightmap UV are overlapping by 12.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.46.43:185][187]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-21.46.43:185][187]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.46.44:820][237]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-21.46.44:820][237]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.47.13:246][201]Job is a success!
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport:          1: 40.0% covering 6.2% of volume
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport:          Merged_Level 			 5 bricks 	 50.0% (Persistent Level)
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport:          Manon 			 4 bricks 	 40.0%
+[2023.03.28-21.47.13:435][202]LogVolumetricLightmapImport:          Light_Paris 			 1 bricks 	 10.0%
+[2023.03.28-21.47.16:983][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.17:669][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.18:246][202]Lightmass on DESKTOP-PNP00D5: 59.4 sec total, 532 ms importing, 417 ms setup, 8.87 sec photons, 49.5 sec processing, 0 us extra exporting [605/605 mappings]. Threads: 18:59 min total, 6:53 min processing.
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:256][202]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.47.18:309][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.28-21.47.18:317][202]LogStaticLightingSystem: Illumination: 1:05 min (4.04 sec encoding lightmaps, 11 us encoding shadowmaps)
+[2023.03.28-21.47.18:317][202]LogStaticLightingSystem: Lightmap texture memory:  128.1 MB (128.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.03.28-21.47.18:317][202]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.03.28-21.47.18:356][202]DumpUnbuiltLightIteractions
+[2023.03.28-21.47.18:356][202]Lights with unbuilt interactions: 0
+[2023.03.28-21.47.18:356][202]
+[2023.03.28-21.47.18:356][202]Primitives with unbuilt interactions: 0
+[2023.03.28-21.47.18:860][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.18:888][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.18:915][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.18:944][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.18:972][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.18:998][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.19:025][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.19:053][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.19:081][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.19:109][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.19:137][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.19:164][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.19:191][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.19:218][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.19:246][202]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.47.19:598][203]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.28-21.47.19:598][203]MapCheck: New page: Merged_Level - 29 mars 2023 à 01:47:19
+[2023.03.28-21.47.19:599][203]MapCheck: Warning: StaticMeshActor_19 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.47.19:600][203]MapCheck: Warning: StaticMeshActor_200 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.47.19:600][203]MapCheck: Warning: StaticMeshActor_3 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.47.19:600][203]MapCheck: Warning: StaticMeshActor_13 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.47.19:600][203]MapCheck: Warning: StaticMeshActor_27 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.47.19:602][203]MapCheck: Warning: StaticMeshActor_196 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.47.19:602][203]MapCheck: Warning: StaticMeshActor_109 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.47.19:603][203]MapCheck: Warning: StaticMeshActor_1 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.47.19:603][203]MapCheck: Warning: StaticMeshActor_16 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.47.19:603][203]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 5,173ms to complete.
+[2023.03.28-21.47.21:980][427]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.47.21:987][427]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.47.30:384][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.03.28-21.47.30:397][342]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris
+[2023.03.28-21.47.30:398][342]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris11085E9B446AB2F2C66498A614330851.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris.umap'
+[2023.03.28-21.47.30:403][342]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.47.30:403][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset" SILENT=true
+[2023.03.28-21.47.32:566][342]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.47.32:567][342]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris_BuiltDataA9411E9340A37ECCC1D5AE998237C522.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset'
+[2023.03.28-21.47.32:569][342]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-21.47.32:871][342]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.28-21.47.32:871][342]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Light_Paris.Light_Paris
+[2023.03.28-21.47.32:871][342]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData
+[2023.03.28-21.47.34:521][527]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.47.34:530][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.47.34:530][527]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:47:34)
+[2023.03.28-21.47.34:557][527]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.47.34:559][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001361s)
+[2023.03.28-21.47.34:559][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001491s)
+[2023.03.28-21.47.34:559][527]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.47.34:559][527]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.47.34:560][527]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.47.34:574][527]LogPlayLevel: PIE: World Init took: (0.015254s)
+[2023.03.28-21.47.34:594][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.03.28-21.47.34:596][527]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.03.28-21.47.34:596][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.47.34:597][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.47.34:597][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.47.34:597][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.47.34:597][527]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.47.34:597][527]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.47.34:597][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.47.34:597][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.47.34:597][527]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.47.34:597][527]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.47.34:597][527]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.47.34:599][527]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.47.34:616][527]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.47.34:617][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.47.34:617][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.47.34:617][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.47.34:617][527]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.03.28-21.47.34:617][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.03.28-21.47.34:618][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.03.28-21.47.34:618][527]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.03.28-21.47.34:618][527]LogInit: FAudioDevice initialized.
+[2023.03.28-21.47.34:618][527]LogAudio: Display: Audio Device (ID: 20) registered with world 'Merged_Level'.
+[2023.03.28-21.47.34:631][527]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.47.34:726][527]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.47.34
+[2023.03.28-21.47.34:726][527]LogWorld: Bringing up level for play took: 0.000817
+[2023.03.28-21.47.34:728][527]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2023.03.28-21.47.34:729][527]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.47.34:729][527]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.47.34:731][527]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.47.34:731][527]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.47.34:731][527]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.47.34:733][527]PIE: Server logged in
+[2023.03.28-21.47.34:734][527]PIE: Play in editor total start time 0,205 seconds.
+[2023.03.28-21.47.51:838][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.47.51:838][564]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.47.51:842][564]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.47.51:842][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.47.51:850][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.47.51:856][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.47.51:877][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.47.51:877][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.28-21.47.51:878][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.28-21.47.51:892][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.28-21.47.51:930][565]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.03.28-21.47.51:954][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.28-21.48.31:923][ 64]Cmd: TRANSACTION UNDO
+[2023.03.28-21.48.31:924][ 64]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: ================================================
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 1.05 s
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 1.07
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.07 s
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Average processing rate: 3.76 jobs/sec
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 54.29% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.71% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-21.49.14:118][843]LogShaderCompilers: Display: ================================================
+[2023.03.28-21.49.14:455][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:484][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:513][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:541][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:569][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:596][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:623][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:651][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:679][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:707][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:734][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:761][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:790][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:817][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.14:845][843]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.49.16:439][975]MapCheck: New page: Map Check
+[2023.03.28-21.49.16:448][975]LightingResults: New page: Lighting Build - 29 mars 2023 à 01:49:16
+[2023.03.28-21.49.16:455][975]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.28-21.49.16:458][975]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.28-21.49.16:458][975]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.28-21.49.16:459][975]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.28-21.49.16:459][975]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13220
+[2023.03.28-21.49.21:023][975]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.03.28-21.49.21:024][975]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.28-21.49.21:024][975]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.28-21.49.21:024][975]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.28-21.49.21:024][975]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.28-21.49.21:024][975]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.28-21.49.21:153][975]LogEditorBuildUtils: Build time 0:04
+[2023.03.28-21.49.21:221][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.03.28-21.49.31:684][831]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-21.49.31:684][831]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.49.34:086][ 23]LightingResults: Warning: PlafondCuisine_LP Object has overlapping UVs.
+[2023.03.28-21.49.34:086][ 23]LightingResults: PlafondCuisine_LP Lightmap UV are overlapping by 12.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.49.45:717][ 41]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-21.49.45:717][ 41]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-21.50.09:956][236]Job is a success!
+[2023.03.28-21.50.10:083][237]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.03.28-21.50.10:083][237]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.03.28-21.50.10:083][237]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.03.28-21.50.10:083][237]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.28-21.50.10:083][237]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2023.03.28-21.50.10:083][237]LogVolumetricLightmapImport:          1: 40.0% covering 6.2% of volume
+[2023.03.28-21.50.10:083][237]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2023.03.28-21.50.10:083][237]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.28-21.50.10:083][237]LogVolumetricLightmapImport:          Merged_Level 			 5 bricks 	 50.0% (Persistent Level)
+[2023.03.28-21.50.10:083][237]LogVolumetricLightmapImport:          Manon 			 5 bricks 	 50.0%
+[2023.03.28-21.50.13:569][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.14:277][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.14:876][237]Lightmass on DESKTOP-PNP00D5: 53.0 sec total, 494 ms importing, 333 ms setup, 6.71 sec photons, 45.5 sec processing, 0 us extra exporting [605/605 mappings]. Threads: 17:26 min total, 5:50 min processing.
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:876][237]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-21.50.14:946][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.28-21.50.14:961][237]LogStaticLightingSystem: Illumination: 58.4 sec (4.12 sec encoding lightmaps, 12 us encoding shadowmaps)
+[2023.03.28-21.50.14:961][237]LogStaticLightingSystem: Lightmap texture memory:  128.1 MB (128.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.03.28-21.50.14:961][237]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.03.28-21.50.15:019][237]DumpUnbuiltLightIteractions
+[2023.03.28-21.50.15:019][237]Lights with unbuilt interactions: 0
+[2023.03.28-21.50.15:019][237]
+[2023.03.28-21.50.15:019][237]Primitives with unbuilt interactions: 0
+[2023.03.28-21.50.15:451][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:485][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:518][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:548][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:578][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:609][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:638][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:665][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:694][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:722][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:752][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:782][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:811][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:841][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.15:870][237]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-21.50.16:249][238]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.28-21.50.16:249][238]MapCheck: New page: Merged_Level - 29 mars 2023 à 01:50:16
+[2023.03.28-21.50.16:250][238]MapCheck: Warning: StaticMeshActor_19 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.50.16:251][238]MapCheck: Warning: StaticMeshActor_200 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.50.16:252][238]MapCheck: Warning: StaticMeshActor_3 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.50.16:252][238]MapCheck: Warning: StaticMeshActor_13 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.50.16:252][238]MapCheck: Warning: StaticMeshActor_27 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.50.16:254][238]MapCheck: Warning: StaticMeshActor_196 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.50.16:254][238]MapCheck: Warning: StaticMeshActor_109 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.50.16:254][238]MapCheck: Warning: StaticMeshActor_1 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.50.16:255][238]MapCheck: Warning: StaticMeshActor_16 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-21.50.16:255][238]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 5,208ms to complete.
+[2023.03.28-21.50.19:915][626]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.50.19:920][626]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-21.50.25:525][272]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.50.25:534][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.50.25:535][272]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:50:25)
+[2023.03.28-21.50.25:568][272]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.50.25:569][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001420s)
+[2023.03.28-21.50.25:569][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001536s)
+[2023.03.28-21.50.25:569][272]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.50.25:569][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.50.25:570][272]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.50.25:585][272]LogPlayLevel: PIE: World Init took: (0.015634s)
+[2023.03.28-21.50.25:605][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.03.28-21.50.25:607][272]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.03.28-21.50.25:607][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.50.25:607][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.50.25:607][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.50.25:607][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.50.25:607][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.50.25:607][272]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.50.25:607][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.50.25:607][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.50.25:608][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.50.25:608][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.50.25:608][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.50.25:610][272]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.50.25:627][272]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.50.25:627][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.50.25:627][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.50.25:627][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.50.25:627][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.03.28-21.50.25:627][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.03.28-21.50.25:629][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.03.28-21.50.25:629][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.03.28-21.50.25:629][272]LogInit: FAudioDevice initialized.
+[2023.03.28-21.50.25:629][272]LogAudio: Display: Audio Device (ID: 21) registered with world 'Merged_Level'.
+[2023.03.28-21.50.25:641][272]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.50.25:748][272]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.50.25
+[2023.03.28-21.50.25:749][272]LogWorld: Bringing up level for play took: 0.000806
+[2023.03.28-21.50.25:750][272]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2023.03.28-21.50.25:751][272]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.50.25:751][272]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.50.25:753][272]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.50.25:754][272]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.50.25:754][272]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.50.25:755][272]PIE: Server logged in
+[2023.03.28-21.50.25:756][272]PIE: Play in editor total start time 0,221 seconds.
+[2023.03.28-21.50.58:767][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.50.58:767][175]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.50.58:773][175]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.50.58:773][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.50.58:796][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.50.58:802][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.50.58:821][175]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.50.58:824][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.03.28-21.50.58:825][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.03.28-21.50.58:828][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.50.58:838][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.03.28-21.50.58:887][176]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.03.28-21.50.58:908][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.03.28-21.51.10:879][528]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger
+[2023.03.28-21.51.10:909][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.51.11:162][528]LogViewport: Scene viewport resized to 1029x520, mode Windowed.
+[2023.03.28-21.52.19:758][113]LogEditorTransaction: Undo Rotate Collision
+[2023.03.28-21.52.20:481][144]Cmd: MODE ROTGRID=1
+[2023.03.28-21.52.30:750][946]Cmd: MODE ROTGRID=0
+[2023.03.28-21.52.34:027][210]Cmd: MODE ROTGRID=1
+[2023.03.28-21.52.52:424][704]Cmd: MODE ROTGRID=0
+[2023.03.28-21.53.00:322][281]Cmd: MODE ROTGRID=1
+[2023.03.28-21.53.19:171][852]Cmd: MODE ROTGRID=0
+[2023.03.28-21.53.37:792][371]Cmd: MODE ROTGRID=1
+[2023.03.28-21.53.49:339][300]Cmd: MODE ROTGRID=0
+[2023.03.28-21.55.54:869][389]LogEditorTransaction: Undo Rotate Collision
+[2023.03.28-21.55.55:766][433]Cmd: MODE ROTGRID=1
+[2023.03.28-21.55.59:477][712]Cmd: MODE ROTGRID=0
+[2023.03.28-21.56.18:296][195]LogSavePackage: Moving output files for package: /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger
+[2023.03.28-21.56.18:297][195]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/MurSalleManger18144A234B1BE20D70C8758814D93DF8.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.uasset'
+[2023.03.28-21.56.18:310][195]AssetCheck: New page: Asset Save: MurSalleManger
+[2023.03.28-21.56.18:311][195]LogContentValidation: Display: Validating StaticMesh /Game/TA/Props/Walls_Grounds/Salle_a_manger/MurSalleManger.MurSalleManger
+[2023.03.28-21.56.19:412][289]LogSlate: Window 'MurSalleManger' being destroyed
+[2023.03.28-21.56.19:417][289]LogSlate: Window 'MurSalleManger' being destroyed
+[2023.03.28-21.56.19:445][289]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.56.19:445][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.56.21:277][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.56.21:287][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.56.21:287][499]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:56:21)
+[2023.03.28-21.56.21:317][499]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.56.21:318][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001342s)
+[2023.03.28-21.56.21:318][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001435s)
+[2023.03.28-21.56.21:318][499]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.56.21:318][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.56.21:319][499]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.56.21:333][499]LogPlayLevel: PIE: World Init took: (0.015037s)
+[2023.03.28-21.56.21:356][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.03.28-21.56.21:368][499]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.03.28-21.56.21:368][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.56.21:369][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.56.21:369][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.56.21:369][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.56.21:369][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.56.21:369][499]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.56.21:369][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.56.21:369][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.56.21:369][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.56.21:369][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.56.21:369][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.56.21:371][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.56.21:388][499]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.56.21:388][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.56.21:388][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.56.21:388][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.56.21:389][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.03.28-21.56.21:389][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.03.28-21.56.21:390][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.03.28-21.56.21:390][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.03.28-21.56.21:390][499]LogInit: FAudioDevice initialized.
+[2023.03.28-21.56.21:390][499]LogAudio: Display: Audio Device (ID: 22) registered with world 'Merged_Level'.
+[2023.03.28-21.56.21:403][499]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.56.21:521][499]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.56.21
+[2023.03.28-21.56.21:522][499]LogWorld: Bringing up level for play took: 0.000766
+[2023.03.28-21.56.21:523][499]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2023.03.28-21.56.21:524][499]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.56.21:524][499]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.56.21:526][499]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.56.21:526][499]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.56.21:527][499]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.56.21:528][499]PIE: Server logged in
+[2023.03.28-21.56.21:529][499]PIE: Play in editor total start time 0,243 seconds.
+[2023.03.28-21.56.35:858][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.56.35:858][206]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.56.35:862][206]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.56.35:862][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.56.35:873][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.56.35:880][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.56.35:899][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.56.35:902][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.03.28-21.56.35:904][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.03.28-21.56.35:914][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.03.28-21.56.35:964][207]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.03.28-21.56.35:984][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.03.28-21.56.52:997][ 11]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TA/Props/Walls_Grounds/Cuisine/CuisinePlaintes.CuisinePlaintes
+[2023.03.28-21.56.53:030][ 11]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.56.53:283][ 11]LogViewport: Scene viewport resized to 1029x520, mode Windowed.
+[2023.03.28-21.57.02:850][520]LogSavePackage: Moving output files for package: /Game/TA/Props/Walls_Grounds/Cuisine/CuisinePlaintes
+[2023.03.28-21.57.02:850][520]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/CuisinePlaintes5DB6595249D5551E3B490DA7EF8383AF.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Walls_Grounds/Cuisine/CuisinePlaintes.uasset'
+[2023.03.28-21.57.02:867][520]AssetCheck: New page: Asset Save: CuisinePlaintes
+[2023.03.28-21.57.02:867][520]LogContentValidation: Display: Validating StaticMesh /Game/TA/Props/Walls_Grounds/Cuisine/CuisinePlaintes.CuisinePlaintes
+[2023.03.28-21.57.03:594][562]LogSlate: Window 'CuisinePlaintes' being destroyed
+[2023.03.28-21.57.03:613][562]LogSlate: Window 'CuisinePlaintes' being destroyed
+[2023.03.28-21.57.03:642][562]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.57.03:642][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.57.44:591][450]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-21.57.44:600][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-21.57.44:600][450]PIE: New page: PIE session: Merged_Level (29 mars 2023 à 01:57:44)
+[2023.03.28-21.57.44:627][450]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.57.44:628][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001379s)
+[2023.03.28-21.57.44:628][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001469s)
+[2023.03.28-21.57.44:628][450]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-21.57.44:628][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-21.57.44:629][450]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.28-21.57.44:644][450]LogPlayLevel: PIE: World Init took: (0.015325s)
+[2023.03.28-21.57.44:666][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.28-21.57.44:672][450]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.03.28-21.57.44:672][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-21.57.44:672][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-21.57.44:672][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-21.57.44:672][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-21.57.44:672][450]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-21.57.44:672][450]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-21.57.44:672][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-21.57.44:672][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-21.57.44:672][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-21.57.44:672][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-21.57.44:672][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-21.57.44:674][450]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-21.57.44:691][450]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.03.28-21.57.44:691][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-21.57.44:691][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-21.57.44:691][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-21.57.44:691][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.03.28-21.57.44:691][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.03.28-21.57.44:693][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.03.28-21.57.44:693][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.03.28-21.57.44:693][450]LogInit: FAudioDevice initialized.
+[2023.03.28-21.57.44:693][450]LogAudio: Display: Audio Device (ID: 23) registered with world 'Merged_Level'.
+[2023.03.28-21.57.44:706][450]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-21.57.44:802][450]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.28-23.57.44
+[2023.03.28-21.57.44:803][450]LogWorld: Bringing up level for play took: 0.000768
+[2023.03.28-21.57.44:804][450]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2023.03.28-21.57.44:805][450]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.28-21.57.44:805][450]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 1
+[2023.03.28-21.57.44:806][450]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.28-21.57.44:807][450]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.28-21.57.44:807][450]LogBlueprintUserMessages: [BP_Diplome_First_Person_Project_C_1] 2
+[2023.03.28-21.57.44:809][450]PIE: Server logged in
+[2023.03.28-21.57.44:809][450]PIE: Play in editor total start time 0,209 seconds.
+[2023.03.28-21.58.11:698][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.58.11:698][660]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.28-21.58.11:703][660]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-21.58.11:703][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.58.11:717][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-21.58.11:723][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-21.58.11:745][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-21.58.11:746][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.03.28-21.58.11:747][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.03.28-21.58.11:750][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-21.58.11:757][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.28-21.58.11:814][661]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.03.28-21.58.11:834][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.28-21.58.38:975][510]LogViewport: Scene viewport resized to 1402x572, mode Windowed.
+[2023.03.28-21.58.39:014][512]LogViewport: Scene viewport resized to 1402x593, mode Windowed.
+[2023.03.28-21.58.39:053][514]LogViewport: Scene viewport resized to 1402x616, mode Windowed.
+[2023.03.28-21.58.39:094][516]LogViewport: Scene viewport resized to 1402x634, mode Windowed.
+[2023.03.28-21.58.39:135][518]LogViewport: Scene viewport resized to 1402x660, mode Windowed.
+[2023.03.28-21.58.39:175][520]LogViewport: Scene viewport resized to 1402x676, mode Windowed.
+[2023.03.28-21.58.39:213][522]LogViewport: Scene viewport resized to 1402x684, mode Windowed.
+[2023.03.28-21.58.39:252][524]LogViewport: Scene viewport resized to 1402x691, mode Windowed.
+[2023.03.28-21.58.39:335][531]LogViewport: Scene viewport resized to 1402x693, mode Windowed.
+[2023.03.28-21.58.54:849][324]Cmd: EDIT COPY
+[2023.03.28-21.58.55:039][342]Cmd: EDIT PASTE
+[2023.03.28-21.59.08:087][758]Cmd: EDIT COPY
+[2023.03.28-21.59.08:246][777]Cmd: EDIT PASTE
+[2023.03.28-21.59.17:560][765]Cmd: EDIT COPY
+[2023.03.28-21.59.17:749][786]Cmd: EDIT PASTE
+[2023.03.28-21.59.35:057][556]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.28-21.59.44:156][510]Cmd: EDIT COPY
+[2023.03.28-21.59.44:357][534]Cmd: EDIT PASTE
+[2023.03.28-21.59.59:333][397]Cmd: EDIT COPY
+[2023.03.28-21.59.59:539][419]Cmd: EDIT PASTE
+[2023.03.28-22.00.06:216][121]Cmd: EDIT COPY
+[2023.03.28-22.00.06:403][133]Cmd: EDIT PASTE
+[2023.03.28-22.00.31:462][222]LogViewport: Scene viewport resized to 1402x692, mode Windowed.
+[2023.03.28-22.00.31:502][224]LogViewport: Scene viewport resized to 1402x677, mode Windowed.
+[2023.03.28-22.00.31:543][226]LogViewport: Scene viewport resized to 1402x654, mode Windowed.
+[2023.03.28-22.00.31:583][228]LogViewport: Scene viewport resized to 1402x630, mode Windowed.
+[2023.03.28-22.00.31:624][230]LogViewport: Scene viewport resized to 1402x611, mode Windowed.
+[2023.03.28-22.00.31:665][232]LogViewport: Scene viewport resized to 1402x598, mode Windowed.
+[2023.03.28-22.00.32:321][304]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TA/Props/Assets/Appartement/Placards_Cuisine/P1_UE_Porte1_LP.P1_UE_Porte1_LP
+[2023.03.28-22.00.32:357][304]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-22.00.32:627][304]LogViewport: Scene viewport resized to 1029x520, mode Windowed.
+[2023.03.28-22.00.46:040][712]LogStaticMesh: Display: Building static mesh P1_UE_Porte1_LP...
+[2023.03.28-22.00.46:040][712]LogStaticMesh: Built static mesh [0.01s] /Game/TA/Props/Assets/Appartement/Placards_Cuisine/P1_UE_Porte1_LP.P1_UE_Porte1_LP
+[2023.03.28-22.00.53:619][483]LogSavePackage: Moving output files for package: /Game/TA/Props/Assets/Appartement/Placards_Cuisine/P1_UE_Porte1_LP
+[2023.03.28-22.00.53:619][483]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/P1_UE_Porte1_LP74A333A340FE8BADF95FE3904B73C009.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Props/Assets/Appartement/Placards_Cuisine/P1_UE_Porte1_LP.uasset'
+[2023.03.28-22.00.53:633][483]AssetCheck: New page: Asset Save: P1_UE_Porte1_LP
+[2023.03.28-22.00.53:633][483]LogContentValidation: Display: Validating StaticMesh /Game/TA/Props/Assets/Appartement/Placards_Cuisine/P1_UE_Porte1_LP.P1_UE_Porte1_LP
+[2023.03.28-22.00.54:712][591]LogSlate: Window 'P1_UE_Porte1_LP' being destroyed
+[2023.03.28-22.00.54:717][591]LogSlate: Window 'P1_UE_Porte1_LP' being destroyed
+[2023.03.28-22.00.54:767][591]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-22.00.54:767][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-22.06.28:774][715]Cmd: TRANSACTION UNDO
+[2023.03.28-22.06.28:774][715]LogEditorTransaction: Undo Move Elements
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: ================================================
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 1.05 s
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 1.07
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.07 s
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Average processing rate: 3.76 jobs/sec
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 54.29% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.71% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-22.07.04:642][606]LogShaderCompilers: Display: ================================================
+[2023.03.28-22.07.05:365][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:394][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:423][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:451][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:480][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:507][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:534][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:562][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:590][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:616][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:644][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:671][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:698][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:726][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:755][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:782][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture0B4939CF4CE18BA7918DF6A5FA665D2E (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:814][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBE5CABC948F577AFF9DCF890BE08604A (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.05:845][606]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture71B6DC534C6B297BDF6501BF69A48411 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.07.09:032][869]MapCheck: New page: Map Check
+[2023.03.28-22.07.09:048][869]LightingResults: New page: Lighting Build - 29 mars 2023 à 02:07:09
+[2023.03.28-22.07.09:055][869]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.28-22.07.09:059][869]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.28-22.07.09:059][869]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.28-22.07.09:060][869]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.28-22.07.09:060][869]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13220
+[2023.03.28-22.07.13:597][869]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.03.28-22.07.13:599][869]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.28-22.07.13:599][869]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.28-22.07.13:599][869]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.28-22.07.13:599][869]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.28-22.07.13:599][869]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.28-22.07.13:725][869]LogEditorBuildUtils: Build time 0:04
+[2023.03.28-22.07.13:787][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.28-22.07.25:161][185]LightingResults: Warning: PlafondCuisine_LP Object has overlapping UVs.
+[2023.03.28-22.07.25:161][185]LightingResults: PlafondCuisine_LP Lightmap UV are overlapping by 12.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-22.07.27:777][362]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-22.07.27:777][362]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-22.07.32:521][684]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-22.07.32:521][684]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-22.07.48:384][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.03.28-22.07.48:386][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Merged_Level" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.28-22.07.48:389][778]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TA/Map/Merged_Level_Auto1
+[2023.03.28-22.07.48:397][778]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.07.48:898][778]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.07.49:399][778]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.07.49:900][778]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.07.50:400][778]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.07.50:901][778]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.07.51:401][778]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.07.51:902][778]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.07.52:403][778]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.07.52:903][778]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.07.53:414][778]LogFileManager: Error: Error moving file '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto16C955C39498C5BB3B73D30863C9583B4.tmp'.
+[2023.03.28-22.07.53:414][778]LogSavePackage: Warning: Failed to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to temp directory
+[2023.03.28-22.07.53:418][778]LogSavePackage: Error: Error saving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap'
+[2023.03.28-22.07.53:459][778]EditorErrors: New page: Save Output
+[2023.03.28-22.07.53:459][778]EditorErrors: Warning: Error saving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap'
+[2023.03.28-22.07.53:496][778]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' which belongs to world '/Game/TA/Map/Merged_Level'. Aborting autosave.
+[2023.03.28-22.08.05:397][635]Job is a success!
+[2023.03.28-22.08.05:531][636]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.03.28-22.08.05:531][636]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.03.28-22.08.05:531][636]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.03.28-22.08.05:531][636]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.28-22.08.05:531][636]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2023.03.28-22.08.05:531][636]LogVolumetricLightmapImport:          1: 40.0% covering 6.2% of volume
+[2023.03.28-22.08.05:531][636]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2023.03.28-22.08.05:531][636]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.28-22.08.05:531][636]LogVolumetricLightmapImport:          Merged_Level 			 5 bricks 	 50.0% (Persistent Level)
+[2023.03.28-22.08.05:531][636]LogVolumetricLightmapImport:          Manon 			 5 bricks 	 50.0%
+[2023.03.28-22.08.08:948][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.09:654][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:236][636]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.08.10:239][636]Lightmass on DESKTOP-PNP00D5: 55.8 sec total, 523 ms importing, 359 ms setup, 6.50 sec photons, 48.4 sec processing, 0 us extra exporting [605/605 mappings]. Threads: 18:34 min total, 5:38 min processing.
+[2023.03.28-22.08.10:320][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.28-22.08.10:333][636]LogStaticLightingSystem: Illumination: 1:01 min (4.04 sec encoding lightmaps, 10 us encoding shadowmaps)
+[2023.03.28-22.08.10:333][636]LogStaticLightingSystem: Lightmap texture memory:  128.1 MB (128.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.03.28-22.08.10:333][636]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.03.28-22.08.10:374][636]DumpUnbuiltLightIteractions
+[2023.03.28-22.08.10:374][636]Lights with unbuilt interactions: 0
+[2023.03.28-22.08.10:374][636]
+[2023.03.28-22.08.10:374][636]Primitives with unbuilt interactions: 0
+[2023.03.28-22.08.10:818][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.10:844][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.10:879][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.10:908][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.10:937][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.10:965][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.10:992][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:019][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:046][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:071][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:097][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:124][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:151][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:177][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:204][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:231][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture0B4939CF4CE18BA7918DF6A5FA665D2E (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:261][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBE5CABC948F577AFF9DCF890BE08604A (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:289][636]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture71B6DC534C6B297BDF6501BF69A48411 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.08.11:688][637]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.28-22.08.11:688][637]MapCheck: New page: Merged_Level - 29 mars 2023 à 02:08:11
+[2023.03.28-22.08.11:689][637]MapCheck: Warning: StaticMeshActor_19 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.08.11:690][637]MapCheck: Warning: StaticMeshActor_200 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.08.11:690][637]MapCheck: Warning: StaticMeshActor_3 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.08.11:690][637]MapCheck: Warning: StaticMeshActor_13 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.08.11:691][637]MapCheck: Warning: StaticMeshActor_27 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.08.11:692][637]MapCheck: Warning: StaticMeshActor_196 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.08.11:692][637]MapCheck: Warning: StaticMeshActor_109 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.08.11:693][637]MapCheck: Warning: StaticMeshActor_1 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.08.11:693][637]MapCheck: Warning: StaticMeshActor_16 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.08.11:693][637]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 4,996ms to complete.
+[2023.03.28-22.08.14:756][942]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-22.08.14:769][942]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-22.08.31:305][868]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/TA/Materials/Wall_Ground/Appartement/CuisineMurs.CuisineMurs
+[2023.03.28-22.08.31:306][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-22.08.31:530][868]LogViewport: Scene viewport resized to 971x520, mode Windowed.
+[2023.03.28-22.08.50:455][516]Cmd: TRANSACTION UNDO
+[2023.03.28-22.08.50:455][516]LogEditorTransaction: Undo Edit Rougnhness
+[2023.03.28-22.08.51:501][588]LogSlate: Window 'CuisineMurs' being destroyed
+[2023.03.28-22.08.51:506][588]LogSlate: Window 'CuisineMurs' being destroyed
+[2023.03.28-22.08.51:527][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.28-22.08.51:667][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-22.08.51:688][588]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-22.08.51:688][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-22.11.07:175][787]LogSlate: Window 'Message' being destroyed
+[2023.03.28-22.11.07:180][787]Message dialog closed, result: Ok, title: Message, text: bForceNoPrecomputedLighting is now enabled, build lighting once to propagate the change (will remove existing precomputed lighting data).
+[2023.03.28-22.11.08:452][930]MapCheck: New page: Map Check
+[2023.03.28-22.11.08:464][930]LightingResults: New page: Lighting Build - 29 mars 2023 à 02:11:08
+[2023.03.28-22.11.08:465][930]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.03.28-22.11.08:490][930]LogEditorBuildUtils: Build time 0:00
+[2023.03.28-22.11.22:742][622]Cmd: EDIT COPY
+[2023.03.28-22.11.22:975][634]Cmd: EDIT PASTE
+[2023.03.28-22.11.29:068][913]Cmd: TRANSACTION UNDO
+[2023.03.28-22.11.29:068][913]LogEditorTransaction: Undo Rotate Elements
+[2023.03.28-22.11.29:586][926]Cmd: MODE ROTGRID=1
+[2023.03.28-22.11.45:804][613]Cmd: EDIT COPY
+[2023.03.28-22.11.46:039][621]Cmd: EDIT PASTE
+[2023.03.28-22.12.19:985][943]Cmd: EDIT COPY
+[2023.03.28-22.12.20:189][949]Cmd: EDIT PASTE
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: ================================================
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 1.05 s
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 1.07
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.07 s
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Average processing rate: 3.76 jobs/sec
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 54.29% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.71% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-22.12.23:501][ 62]LogShaderCompilers: Display: ================================================
+[2023.03.28-22.12.26:233][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:260][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:287][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:314][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:342][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:369][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:396][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:424][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:452][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:480][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:508][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:534][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:561][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:589][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:617][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:644][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB87177B64BAC38BC51668090E9087800 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:672][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBE5CABC948F577AFF9DCF890BE08604A (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:697][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture71B6DC534C6B297BDF6501BF69A48411 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.26:725][ 62]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture51D8318447838A1DC35344AC83745EFD (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.12.29:274][128]MapCheck: New page: Map Check
+[2023.03.28-22.12.29:293][128]LightingResults: New page: Lighting Build - 29 mars 2023 à 02:12:29
+[2023.03.28-22.12.29:299][128]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.28-22.12.29:303][128]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.28-22.12.29:303][128]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.28-22.12.29:304][128]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.28-22.12.29:304][128]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13220
+[2023.03.28-22.12.33:884][128]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.03.28-22.12.33:885][128]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.28-22.12.33:885][128]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.28-22.12.33:885][128]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.28-22.12.33:885][128]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.28-22.12.33:885][128]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.28-22.12.34:009][128]LogEditorBuildUtils: Build time 0:04
+[2023.03.28-22.12.34:520][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.03.28-22.12.46:810][472]LightingResults: Warning: PlafondCuisine_LP Object has overlapping UVs.
+[2023.03.28-22.12.46:810][472]LightingResults: PlafondCuisine_LP Lightmap UV are overlapping by 12.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-22.12.49:049][525]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-22.12.49:049][525]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-22.12.54:005][642]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-22.12.54:005][642]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-22.13.26:119][492]Job is a success!
+[2023.03.28-22.13.26:322][493]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.03.28-22.13.26:322][493]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.03.28-22.13.26:322][493]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.03.28-22.13.26:322][493]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.28-22.13.26:323][493]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2023.03.28-22.13.26:323][493]LogVolumetricLightmapImport:          1: 36.4% covering 6.2% of volume
+[2023.03.28-22.13.26:323][493]LogVolumetricLightmapImport:          2: 54.5% covering 0.1% of volume
+[2023.03.28-22.13.26:323][493]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.28-22.13.26:323][493]LogVolumetricLightmapImport:          Merged_Level 			 5 bricks 	 45.5% (Persistent Level)
+[2023.03.28-22.13.26:323][493]LogVolumetricLightmapImport:          Manon 			 6 bricks 	 54.5%
+[2023.03.28-22.13.29:813][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.30:514][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.31:146][493]Lightmass on DESKTOP-PNP00D5: 56.0 sec total, 521 ms importing, 419 ms setup, 6.88 sec photons, 48.1 sec processing, 0 us extra exporting [605/605 mappings]. Threads: 18:27 min total, 5:42 min processing.
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:157][493]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.13.31:206][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.28-22.13.31:218][493]LogStaticLightingSystem: Illumination: 1:01 min (4.13 sec encoding lightmaps, 10 us encoding shadowmaps)
+[2023.03.28-22.13.31:218][493]LogStaticLightingSystem: Lightmap texture memory:  128.1 MB (128.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.03.28-22.13.31:218][493]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.03.28-22.13.31:258][493]DumpUnbuiltLightIteractions
+[2023.03.28-22.13.31:258][493]Lights with unbuilt interactions: 0
+[2023.03.28-22.13.31:258][493]
+[2023.03.28-22.13.31:258][493]Primitives with unbuilt interactions: 0
+[2023.03.28-22.13.31:756][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.31:786][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.31:815][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.31:843][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.31:872][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.31:903][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.31:933][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.31:961][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.31:991][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:020][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:050][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:077][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:105][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:134][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:163][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:192][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB87177B64BAC38BC51668090E9087800 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:221][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBE5CABC948F577AFF9DCF890BE08604A (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:253][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture71B6DC534C6B297BDF6501BF69A48411 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:281][493]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture51D8318447838A1DC35344AC83745EFD (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.13.32:734][494]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.28-22.13.32:734][494]MapCheck: New page: Merged_Level - 29 mars 2023 à 02:13:32
+[2023.03.28-22.13.32:735][494]MapCheck: Warning: StaticMeshActor_19 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.13.32:735][494]MapCheck: Warning: StaticMeshActor_200 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.13.32:736][494]MapCheck: Warning: StaticMeshActor_3 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.13.32:736][494]MapCheck: Warning: StaticMeshActor_13 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.13.32:736][494]MapCheck: Warning: StaticMeshActor_27 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.13.32:738][494]MapCheck: Warning: StaticMeshActor_196 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.13.32:738][494]MapCheck: Warning: StaticMeshActor_109 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.13.32:739][494]MapCheck: Warning: StaticMeshActor_1 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.13.32:739][494]MapCheck: Warning: StaticMeshActor_16 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.13.32:739][494]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 5,105ms to complete.
+[2023.03.28-22.13.37:027][940]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-22.13.37:038][940]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-22.14.14:844][278]LogSlate: Window 'Message' being destroyed
+[2023.03.28-22.14.14:849][278]Message dialog closed, result: Ok, title: Message, text: bForceNoPrecomputedLighting is now enabled, build lighting once to propagate the change (will remove existing precomputed lighting data).
+[2023.03.28-22.14.16:347][450]MapCheck: New page: Map Check
+[2023.03.28-22.14.16:358][450]LightingResults: New page: Lighting Build - 29 mars 2023 à 02:14:16
+[2023.03.28-22.14.16:358][450]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.03.28-22.14.16:383][450]LogEditorBuildUtils: Build time 0:00
+[2023.03.28-22.14.35:912][187]Cmd: TRANSACTION UNDO
+[2023.03.28-22.14.35:912][187]LogEditorTransaction: Undo Move Elements
+[2023.03.28-22.14.49:821][670]Cmd: TRANSACTION UNDO
+[2023.03.28-22.14.49:821][670]LogEditorTransaction: Undo Edit Barn Door Length
+[2023.03.28-22.14.50:330][678]Cmd: TRANSACTION UNDO
+[2023.03.28-22.14.50:330][678]LogEditorTransaction: Undo Edit Barn Door Angle
+[2023.03.28-22.14.56:870][939]Cmd: DELETE
+[2023.03.28-22.14.56:870][939]Cmd: ACTOR DELETE
+[2023.03.28-22.14.56:885][939]LogEditorActor: Deleted Actor: RectLight
+[2023.03.28-22.14.56:929][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.03.28-22.14.56:938][939]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2023.03.28-22.15.06:790][349]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.03.28-22.15.06:791][349]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.03.28-22.15.08:893][389]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.28-22.15.08:898][389]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.28-22.15.08:898][389]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.03.28-22.15.08:898][389]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: ================================================
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 1.05 s
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 1.07
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.07 s
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Average processing rate: 3.76 jobs/sec
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 54.29% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.49 sec)
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.71% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2023.03.28-22.15.40:834][610]LogShaderCompilers: Display: ================================================
+[2023.03.28-22.15.43:541][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:568][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:597][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:625][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:654][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:683][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:711][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:738][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:765][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:793][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:820][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:846][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:874][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:900][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:927][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:954][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB87177B64BAC38BC51668090E9087800 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.43:980][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBE5CABC948F577AFF9DCF890BE08604A (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.44:006][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture71B6DC534C6B297BDF6501BF69A48411 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.44:033][610]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture51D8318447838A1DC35344AC83745EFD (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.15.50:109][824]MapCheck: New page: Map Check
+[2023.03.28-22.15.50:129][824]LightingResults: New page: Lighting Build - 29 mars 2023 à 02:15:50
+[2023.03.28-22.15.50:136][824]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.28-22.15.50:144][824]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.28-22.15.50:144][824]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.28-22.15.50:144][824]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.28-22.15.50:145][824]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13220
+[2023.03.28-22.15.54:715][824]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.03.28-22.15.54:716][824]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.28-22.15.54:716][824]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.28-22.15.54:716][824]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.28-22.15.54:716][824]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.28-22.15.54:716][824]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.28-22.15.54:838][824]LogEditorBuildUtils: Build time 0:04
+[2023.03.28-22.15.54:900][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.28-22.16.06:087][858]LightingResults: Warning: PlafondCuisine_LP Object has overlapping UVs.
+[2023.03.28-22.16.06:087][858]LightingResults: PlafondCuisine_LP Lightmap UV are overlapping by 12.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-22.16.08:429][865]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-22.16.08:429][865]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-22.16.12:790][878]LightingResults: Warning: P1_UE_Porte2_LP Object has overlapping UVs.
+[2023.03.28-22.16.12:790][878]LightingResults: P1_UE_Porte2_LP Lightmap UV are overlapping by 34.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.28-22.16.44:023][971]Job is a success!
+[2023.03.28-22.16.44:485][972]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.03.28-22.16.44:485][972]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.03.28-22.16.44:485][972]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.03.28-22.16.44:485][972]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.28-22.16.44:485][972]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2023.03.28-22.16.44:485][972]LogVolumetricLightmapImport:          1: 36.4% covering 6.2% of volume
+[2023.03.28-22.16.44:485][972]LogVolumetricLightmapImport:          2: 54.5% covering 0.1% of volume
+[2023.03.28-22.16.44:485][972]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.28-22.16.44:485][972]LogVolumetricLightmapImport:          Merged_Level 			 5 bricks 	 45.5% (Persistent Level)
+[2023.03.28-22.16.44:485][972]LogVolumetricLightmapImport:          Manon 			 6 bricks 	 54.5%
+[2023.03.28-22.16.47:897][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.48:592][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.49:199][972]Lightmass on DESKTOP-PNP00D5: 53.7 sec total, 473 ms importing, 371 ms setup, 6.44 sec photons, 46.4 sec processing, 0 us extra exporting [605/605 mappings]. Threads: 17:47 min total, 5:10 min processing.
+[2023.03.28-22.16.49:199][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:199][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:199][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:200][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:200][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:200][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:200][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:200][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:200][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:200][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:200][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:200][972]LogStaticLightingSystem: Light_Paris_BuiltData storing lightmap data for 605 meshes in 1 LightmapResourceClusters (605.0 Meshes per cluster).
+[2023.03.28-22.16.49:264][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.03.28-22.16.49:278][972]LogStaticLightingSystem: Illumination: 58.7 sec (4.02 sec encoding lightmaps, 9 us encoding shadowmaps)
+[2023.03.28-22.16.49:279][972]LogStaticLightingSystem: Lightmap texture memory:  128.1 MB (128.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.03.28-22.16.49:279][972]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.03.28-22.16.49:320][972]DumpUnbuiltLightIteractions
+[2023.03.28-22.16.49:320][972]Lights with unbuilt interactions: 0
+[2023.03.28-22.16.49:320][972]
+[2023.03.28-22.16.49:320][972]Primitives with unbuilt interactions: 0
+[2023.03.28-22.16.49:841][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1EEE02AB41912A4E6F48409C85FD3819 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.49:871][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture1F313648497B2DCE3421F585562D9EF2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.49:901][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC145B863470B9566B21D8EA07A18ED59 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.49:930][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture28591C084051AA3F3CA0EA9ECD84A68B (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.49:960][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureCC698CC544815D296646D8AF4DC8DDCC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.49:988][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureE0D43CA144630A89356B088DD27213BB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:017][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB5ED4BDF47D309A930A847B6EB61A0DC (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:045][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureEFAF66D24B7A7266BD7698B8BAD16FEF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:074][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture61D0FE3D4BD0CF91E3E3D49BAAE5AB93 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:102][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture53DF610942875D310C9114BEEF7DDD13 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:132][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBC2FC64440CFAD981C6C6ABBB1D6C4A1 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:161][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureC36497DE4F8498479165BB9C938D1AA6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:189][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD2AA7D55437134EA6BABDE887F372325 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:218][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureD05304DC4E3DDCEA67BB6A9BA5A820AB (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:246][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture674F1F5446AFC5FE8F2602B8D6EFA4E6 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:274][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureB87177B64BAC38BC51668090E9087800 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:302][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTextureBE5CABC948F577AFF9DCF890BE08604A (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:330][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture71B6DC534C6B297BDF6501BF69A48411 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:359][972]LogTexture: Display: Building textures: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData:NewReflectionComponentTexture51D8318447838A1DC35344AC83745EFD (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.28-22.16.50:824][973]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.28-22.16.50:824][973]MapCheck: New page: Merged_Level - 29 mars 2023 à 02:16:50
+[2023.03.28-22.16.50:825][973]MapCheck: Warning: StaticMeshActor_19 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.16.50:825][973]MapCheck: Warning: StaticMeshActor_200 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.16.50:826][973]MapCheck: Warning: StaticMeshActor_3 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.16.50:826][973]MapCheck: Warning: StaticMeshActor_13 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.16.50:826][973]MapCheck: Warning: StaticMeshActor_27 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.16.50:828][973]MapCheck: Warning: StaticMeshActor_196 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.16.50:828][973]MapCheck: Warning: StaticMeshActor_109 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.16.50:829][973]MapCheck: Warning: StaticMeshActor_1 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.16.50:829][973]MapCheck: Warning: StaticMeshActor_16 Static mesh actor has NULL StaticMesh property 
+[2023.03.28-22.16.50:829][973]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 5,141ms to complete.
+[2023.03.28-22.16.52:409][ 77]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-22.16.52:417][ 77]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-22.18.09:217][978]LogSlate: Window 'FBX Export Options' being destroyed
+[2023.03.28-22.18.09:263][978]LogFbx: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2023.03.28-22.18.50:424][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.03.28-22.18.50:428][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Merged_Level" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.28-22.18.50:430][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TA/Map/Merged_Level_Auto1
+[2023.03.28-22.18.50:430][816]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.18.50:931][816]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.18.51:431][816]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.18.51:932][816]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.18.52:432][816]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.18.52:933][816]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.18.53:433][816]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.18.53:934][816]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.18.54:434][816]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.18.54:935][816]LogFileManager: Warning: MoveFile was unable to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp' (Error Code 32), retrying in .5s...
+[2023.03.28-22.18.55:435][816]LogFileManager: Error: Error moving file '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_Level_Auto14E08EF4A4BC64A86E122689BCA61BCA6.tmp'.
+[2023.03.28-22.18.55:435][816]LogSavePackage: Warning: Failed to move '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' to temp directory
+[2023.03.28-22.18.55:435][816]LogSavePackage: Error: Error saving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap'
+[2023.03.28-22.18.55:436][816]EditorErrors: New page: Save Output
+[2023.03.28-22.18.55:437][816]EditorErrors: Warning: Error saving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap'
+[2023.03.28-22.18.55:465][816]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Map/Merged_Level_Auto1.umap' which belongs to world '/Game/TA/Map/Merged_Level'. Aborting autosave.
+[2023.03.28-22.18.55:466][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TA/Materials/Wall_Ground/Appartement/CuisineMurs] ([1] browsable assets)...
+[2023.03.28-22.18.55:524][816]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/TA/Materials/Wall_Ground/Appartement/CuisineMurs.CuisineMurs]
+[2023.03.28-22.18.55:524][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/TA/Materials/Wall_Ground/Appartement/CuisineMurs]
+[2023.03.28-22.18.55:525][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TA/Materials/Wall_Ground/Appartement/CuisineMurs_Auto1
+[2023.03.28-22.18.55:525][816]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/CuisineMurs_Auto1BB9A18A84094DE17A1244FAAAAA90489.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/TA/Materials/Wall_Ground/Appartement/CuisineMurs_Auto1.uasset'
+[2023.03.28-22.18.55:527][816]LogFileHelpers: Auto-saving content packages took 0.061
+[2023.03.28-22.19.15:621][921]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-22.19.15:627][921]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-22.19.19:299][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.28-22.19.20:161][324]LogSlate: Window 'Save Content' being destroyed
+[2023.03.28-22.19.20:192][324]LogSavePackage: Moving output files for package: /Game/TA/Materials/Wall_Ground/Appartement/CuisineMurs
+[2023.03.28-22.19.20:192][324]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/CuisineMurs09D953A24090F9BFA914F7B85069A3C6.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Wall_Ground/Appartement/CuisineMurs.uasset'
+[2023.03.28-22.19.20:212][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.28-22.19.20:226][324]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris
+[2023.03.28-22.19.20:227][324]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_ParisFF43FD054AEA32A51C27B394A58373B1.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris.umap'
+[2023.03.28-22.19.20:232][324]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-22.19.20:232][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset" SILENT=true
+[2023.03.28-22.19.22:181][324]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-22.19.22:181][324]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris_BuiltData3B0B81234B814604C618B0B0F75DC455.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset'
+[2023.03.28-22.19.22:186][324]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-22.19.22:186][324]LogFileHelpers: Saving map 'Light_Paris' took 1.994
+[2023.03.28-22.19.22:186][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset" SILENT=true
+[2023.03.28-22.19.24:136][324]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData
+[2023.03.28-22.19.24:136][324]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Light_Paris_BuiltData92419FFF464C6415B7F7018E75836A0B.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.uasset'
+[2023.03.28-22.19.24:141][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Louise_F" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Louise_F.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.28-22.19.24:160][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.28-22.19.24:191][324]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Louise_F
+[2023.03.28-22.19.24:192][324]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Louise_F03F0E2A2486F66FAA86743B221BA5FDD.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Louise_F.umap'
+[2023.03.28-22.19.24:197][324]LogFileHelpers: No new changes to save!
+[2023.03.28-22.19.24:198][324]LogFileHelpers: Saving map 'Louise_F' took 0.057
+[2023.03.28-22.19.24:198][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Manon" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Manon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.28-22.19.24:217][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.28-22.19.24:283][324]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Manon
+[2023.03.28-22.19.24:284][324]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/ManonACC04688466074366DC65F95C7C8A0A7.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Manon.umap'
+[2023.03.28-22.19.24:289][324]LogFileHelpers: No new changes to save!
+[2023.03.28-22.19.24:289][324]LogFileHelpers: Saving map 'Manon' took 0.092
+[2023.03.28-22.19.24:290][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Merged_Level" FILE="../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Merged_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.28-22.19.24:310][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.28-22.19.24:314][324]LogSavePackage: Moving output files for package: /Game/TA/Map/Merged_Level
+[2023.03.28-22.19.24:314][324]LogSavePackage: Moving '../../../../../Git/FPWL_Projet/FPWL_Projet/Saved/Merged_LevelAA4CBD52410EDB8AA2DD139D29D9D77E.tmp' to '../../../../../Git/FPWL_Projet/FPWL_Projet/Content/TA/Map/Merged_Level.umap'
+[2023.03.28-22.19.24:327][324]LogFileHelpers: No new changes to save!
+[2023.03.28-22.19.24:327][324]LogFileHelpers: Saving map 'Merged_Level' took 0.037
+[2023.03.28-22.19.24:339][324]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.28-22.19.24:339][324]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Manon.Manon
+[2023.03.28-22.19.24:339][324]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/TA/Materials/Wall_Ground/Appartement/CuisineMurs.CuisineMurs
+[2023.03.28-22.19.24:339][324]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Light_Paris.Light_Paris
+[2023.03.28-22.19.24:339][324]LogContentValidation: Display: Validating World /Game/TA/Map/Merged_Level.Merged_Level
+[2023.03.28-22.19.24:339][324]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Louise_F.Louise_F
+[2023.03.28-22.19.24:339][324]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TA/Map/Sub_Lvl_Paris/Light_Paris_BuiltData.Light_Paris_BuiltData
