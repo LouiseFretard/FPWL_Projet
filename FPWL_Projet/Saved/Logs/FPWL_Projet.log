@@ -13045,3 +13045,34 @@ BALANCE A EQUILIBRER
 [2023.03.30-01.17.54:680][532]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
 [2023.03.30-01.17.58:079][532]LogExit: Editor shut down
 [2023.03.30-01.17.59:113][532]LogExit: Transaction tracking system shut down
+[2023.03.30-01.19.01:272][532]LogExit: Object subsystem successfully closed.
+[2023.03.30-01.19.02:680][532]LogShaderCompilers: Display: ================================================
+[2023.03.30-01.19.02:680][532]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-01.19.02:680][532]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.03.30-01.19.02:680][532]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 12 distinct outputs (75.00%)
+[2023.03.30-01.19.02:681][532]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.01%
+[2023.03.30-01.19.02:681][532]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-01.19.02:681][532]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.30-01.19.02:681][532]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100.00%)
+[2023.03.30-01.19.02:681][532]LogShaderCompilers: Display: Average time worker was idle: 477.52 s
+[2023.03.30-01.19.02:681][532]LogShaderCompilers: Display: Time job spent in pending queue: average 1.68 s, longest 4.39 s
+[2023.03.30-01.19.02:681][532]LogShaderCompilers: Display: Job execution time: average 3.39 s, max 7.95 s
+[2023.03.30-01.19.02:681][532]LogShaderCompilers: Display: Job life time (pending + execution): average 5.06 s, max 8.06
+[2023.03.30-01.19.02:681][532]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.08 s
+[2023.03.30-01.19.02:682][532]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.30-01.19.02:682][532]LogShaderCompilers: Display: Average processing rate: 1.14 jobs/sec
+[2023.03.30-01.19.02:682][532]LogShaderCompilers: Display: Effective parallelization: 1.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.03.30-01.19.02:682][532]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-01.19.02:682][532]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 2.14 sec, max 2.14 sec, min 2.14 sec)
+[2023.03.30-01.19.02:682][532]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2023.03.30-01.19.02:682][532]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.04 sec, max 2.04 sec, min 2.04 sec)
+[2023.03.30-01.19.02:682][532]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.86 sec, max 1.86 sec, min 1.86 sec)
+[2023.03.30-01.19.02:682][532]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.85 sec, max 1.85 sec, min 1.85 sec)
+[2023.03.30-01.19.02:682][532]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-01.19.02:683][532]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.80% of total time (compiled    1 times, average 2.14 sec, max 2.14 sec, min 2.14 sec)
+[2023.03.30-01.19.02:683][532]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.70% of total time (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2023.03.30-01.19.02:683][532]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.43% of total time (compiled    1 times, average 2.04 sec, max 2.04 sec, min 2.04 sec)
+[2023.03.30-01.19.02:683][532]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.77% of total time (compiled    1 times, average 1.86 sec, max 1.86 sec, min 1.86 sec)
+[2023.03.30-01.19.02:683][532]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.75% of total time (compiled    1 times, average 1.85 sec, max 1.85 sec, min 1.85 sec)
+[2023.03.30-01.19.02:683][532]LogShaderCompilers: Display: ================================================
+[2023.03.30-01.19.02:970][532]LogShaderCompilers: Display: Shaders left to compile 0
