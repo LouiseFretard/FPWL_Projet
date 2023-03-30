@@ -13487,3 +13487,31 @@ BALANCE A EQUILIBRER
 [2023.03.30-01.19.36:368][532]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (88)
 [2023.03.30-01.19.36:368][532]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (86)
 [2023.03.30-01.19.36:411][532]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (84)
+[2023.03.30-01.19.36:817][532]LogModuleManager: Shutting down and abandoning module XMPP (79)
+[2023.03.30-01.19.36:886][532]LogModuleManager: Shutting down and abandoning module WebSockets (78)
+[2023.03.30-01.19.37:483][532]LogModuleManager: Shutting down and abandoning module HTTP (75)
+[2023.03.30-01.19.37:504][532]LogHttp: Warning: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2023.03.30-01.19.37:517][532]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7B3C9BB-4604-78DA-DB48-0BB506B96422%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=9376bb5e41a5253e6f938982c8f52587%7Cc79a775a667b4c739a3dd572918f167a%7C247bcbc7-514e-42b5-a795-d2bf3d908e8d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.03.30-01.19.37:517][532]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7B3C9BB-4604-78DA-DB48-0BB506B96422%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=9376bb5e41a5253e6f938982c8f52587%7Cc79a775a667b4c739a3dd572918f167a%7C247bcbc7-514e-42b5-a795-d2bf3d908e8d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.03.30-01.19.37:517][532]LogHttp: Warning: Cleaning up 2 outstanding Http requests.
+[2023.03.30-01.19.37:576][532]LogModuleManager: Shutting down and abandoning module SSL (74)
+[2023.03.30-01.19.37:749][532]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2023.03.30-01.19.37:749][532]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2023.03.30-01.19.37:749][532]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2023.03.30-01.19.37:780][532]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2023.03.30-01.19.37:780][532]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2023.03.30-01.19.37:781][532]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2023.03.30-01.19.37:790][532]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2023.03.30-01.19.37:790][532]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2023.03.30-01.19.37:809][532]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2023.03.30-01.19.37:809][532]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2023.03.30-01.19.37:822][532]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2023.03.30-01.19.37:822][532]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2023.03.30-01.19.37:822][532]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2023.03.30-01.19.37:907][532]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2023.03.30-01.19.37:959][532]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2023.03.30-01.19.37:973][532]LogXGEController: Cleaning working directory: C:/Users/Téo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.03.30-01.19.37:992][532]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2023.03.30-01.19.38:012][532]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.03.30-01.19.38:028][532]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2023.03.30-01.19.38:223][532]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
