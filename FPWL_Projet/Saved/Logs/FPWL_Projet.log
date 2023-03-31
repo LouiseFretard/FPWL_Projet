@@ -4469,3 +4469,1030 @@ Script Stack (0 frames):
 [2023.03.31-12.45.16:692][920]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Inventory/BP_Briquet.BP_Briquet
 [2023.03.31-12.45.29:906][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2023.03.31-12.45.33:267][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.03.31-12.46.06:109][301]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-12.46.06:125][301]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.31-12.46.06:140][301]LogPlayLevel: [PlayLevel] Compiling BP_Briquet before play...
+[2023.03.31-12.46.06:380][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2023.03.31-12.46.06:384][301]LogPlayLevel: PlayLevel: Blueprint regeneration took 259 ms (1 blueprints)
+[2023.03.31-12.46.06:384][301]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 16:46:06)
+[2023.03.31-12.46.06:384][301]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.46.06:387][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002871s)
+[2023.03.31-12.46.06:387][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.002959s)
+[2023.03.31-12.46.06:387][301]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-12.46.06:387][301]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-12.46.06:388][301]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-12.46.06:388][301]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2023.03.31-12.46.06:490][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.03.31-12.46.06:491][301]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.03.31-12.46.06:492][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-12.46.06:492][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-12.46.06:492][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-12.46.06:492][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-12.46.06:492][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-12.46.06:492][301]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-12.46.06:492][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-12.46.06:492][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-12.46.06:492][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-12.46.06:492][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-12.46.06:492][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-12.46.06:494][301]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-12.46.06:516][301]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-12.46.06:516][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-12.46.06:516][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-12.46.06:516][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-12.46.06:516][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.03.31-12.46.06:516][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.03.31-12.46.06:518][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.03.31-12.46.06:518][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.03.31-12.46.06:518][301]LogInit: FAudioDevice initialized.
+[2023.03.31-12.46.06:518][301]LogAudio: Display: Audio Device (ID: 41) registered with world 'Merged_Level'.
+[2023.03.31-12.46.06:533][301]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-12.46.06:714][301]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-14.46.06
+[2023.03.31-12.46.06:715][301]LogWorld: Bringing up level for play took: 0.001849
+[2023.03.31-12.46.06:717][301]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2023.03.31-12.46.06:717][301]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-12.46.06:722][301]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-12.46.06:727][301]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-12.46.06:730][301]PIE: Server logged in
+[2023.03.31-12.46.06:731][301]PIE: Play in editor total start time 0,607 seconds.
+[2023.03.31-12.46.20:912][869]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2023.03.31-12.46.37:263][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.46.37:263][561]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.46.37:268][561]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.46.37:269][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.46.37:291][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-12.46.37:304][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.46.37:408][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.46.37:408][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.03.31-12.46.37:410][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.03.31-12.46.37:425][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.03.31-12.46.37:529][562]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.03.31-12.46.37:636][562]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.03.31-12.46.53:916][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.46.53:916][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.47.02:093][905]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.31-12.47.22:572][209]LogEditorTransaction: Undo Set Vector Property
+[2023.03.31-12.47.52:688][652]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.47.52:688][652]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.48.45:318][424]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-12.48.45:334][424]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.31-12.48.45:352][424]LogPlayLevel: [PlayLevel] Compiling Menu_Pause_Journal before play...
+[2023.03.31-12.48.45:752][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2023.03.31-12.48.45:759][424]LogPlayLevel: PlayLevel: Blueprint regeneration took 424 ms (1 blueprints)
+[2023.03.31-12.48.45:759][424]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 16:48:45)
+[2023.03.31-12.48.45:759][424]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.48.45:760][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001682s)
+[2023.03.31-12.48.45:760][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001750s)
+[2023.03.31-12.48.45:761][424]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-12.48.45:761][424]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-12.48.45:761][424]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-12.48.45:761][424]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2023.03.31-12.48.45:863][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.03.31-12.48.45:865][424]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.03.31-12.48.45:865][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-12.48.45:865][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-12.48.45:865][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-12.48.45:865][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-12.48.45:865][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-12.48.45:865][424]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-12.48.45:865][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-12.48.45:865][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-12.48.45:865][424]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-12.48.45:865][424]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-12.48.45:865][424]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-12.48.45:867][424]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-12.48.45:889][424]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-12.48.45:890][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-12.48.45:890][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-12.48.45:890][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-12.48.45:890][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.03.31-12.48.45:891][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.03.31-12.48.45:892][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.03.31-12.48.45:892][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.03.31-12.48.45:892][424]LogInit: FAudioDevice initialized.
+[2023.03.31-12.48.45:892][424]LogAudio: Display: Audio Device (ID: 42) registered with world 'Merged_Level'.
+[2023.03.31-12.48.45:902][424]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-12.48.46:021][424]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-14.48.46
+[2023.03.31-12.48.46:022][424]LogWorld: Bringing up level for play took: 0.002267
+[2023.03.31-12.48.46:024][424]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2023.03.31-12.48.46:025][424]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-12.48.46:029][424]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-12.48.46:034][424]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-12.48.46:038][424]PIE: Server logged in
+[2023.03.31-12.48.46:039][424]PIE: Play in editor total start time 0,704 seconds.
+[2023.03.31-12.48.58:777][150]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2023.03.31-12.49.12:673][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.49.12:673][786]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.49.12:679][786]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.49.12:680][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.49.12:728][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-12.49.12:741][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.49.12:846][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.49.12:846][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.03.31-12.49.12:847][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.03.31-12.49.12:861][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.03.31-12.49.12:976][787]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.03.31-12.49.13:079][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.03.31-12.49.16:613][833]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.49.16:613][833]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.49.29:880][ 56]LogEditorTransaction: Undo Set Vector Property
+[2023.03.31-12.49.32:701][102]LogEditorTransaction: Undo Edit Image
+[2023.03.31-12.50.08:914][679]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-12.50.08:931][679]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.31-12.50.08:947][679]LogPlayLevel: [PlayLevel] Compiling Menu_Pause_Journal before play...
+[2023.03.31-12.50.09:341][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2023.03.31-12.50.09:347][679]LogPlayLevel: PlayLevel: Blueprint regeneration took 415 ms (1 blueprints)
+[2023.03.31-12.50.09:347][679]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 16:50:09)
+[2023.03.31-12.50.09:347][679]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.50.09:349][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001672s)
+[2023.03.31-12.50.09:349][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001741s)
+[2023.03.31-12.50.09:349][679]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-12.50.09:349][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-12.50.09:349][679]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-12.50.09:349][679]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2023.03.31-12.50.09:449][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.03.31-12.50.09:451][679]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.03.31-12.50.09:451][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-12.50.09:451][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-12.50.09:451][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-12.50.09:451][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-12.50.09:451][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-12.50.09:451][679]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-12.50.09:451][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-12.50.09:451][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-12.50.09:452][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-12.50.09:452][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-12.50.09:452][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-12.50.09:454][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-12.50.09:476][679]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-12.50.09:476][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-12.50.09:476][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-12.50.09:476][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-12.50.09:477][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.03.31-12.50.09:477][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.03.31-12.50.09:478][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.03.31-12.50.09:478][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.03.31-12.50.09:478][679]LogInit: FAudioDevice initialized.
+[2023.03.31-12.50.09:478][679]LogAudio: Display: Audio Device (ID: 43) registered with world 'Merged_Level'.
+[2023.03.31-12.50.09:493][679]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-12.50.09:647][679]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-14.50.09
+[2023.03.31-12.50.09:648][679]LogWorld: Bringing up level for play took: 0.001107
+[2023.03.31-12.50.09:650][679]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2023.03.31-12.50.09:650][679]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-12.50.09:655][679]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-12.50.09:660][679]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-12.50.09:664][679]PIE: Server logged in
+[2023.03.31-12.50.09:664][679]PIE: Play in editor total start time 0,734 seconds.
+[2023.03.31-12.50.24:473][457]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2023.03.31-12.50.34:478][870]LogNet: Browse: /Game/GD/Maps/Project_Degree_Select_House
+[2023.03.31-12.50.34:478][870]LogLoad: LoadMap: /Game/GD/Maps/Project_Degree_Select_House
+[2023.03.31-12.50.34:478][870]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.50.34:480][870]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.50.34:482][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.50.34:482][870]LogWorld: UWorld::CleanupWorld for LightTurnoff_Paris, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.50.34:482][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.50.34:483][870]LogWorld: UWorld::CleanupWorld for Louise_L, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.50.34:483][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.50.34:483][870]LogWorld: UWorld::CleanupWorld for Manon, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.50.34:483][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.50.34:483][870]LogWorld: UWorld::CleanupWorld for GD, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.50.34:483][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.50.34:483][870]LogWorld: UWorld::CleanupWorld for Louise_F, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.50.34:483][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.50.34:483][870]LogWorld: UWorld::CleanupWorld for Vincent, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.50.34:483][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.50.34:483][870]LogWorld: UWorld::CleanupWorld for Light_Paris, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.50.34:483][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.50.34:588][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.31-12.50.34:599][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.03.31-12.50.34:641][870]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.31-12.50.34:674][870]LogAudio: Display: Audio Device (ID: 43) registered with world 'Project_Degree_Select_House'.
+[2023.03.31-12.50.34:674][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-12.50.34:674][870]LogAIModule: Creating AISystem for world Project_Degree_Select_House
+[2023.03.31-12.50.34:675][870]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.31-12.50.34:675][870]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.31-12.50.34:676][870]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.31-12.50.34:676][870]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.31-12.50.34:676][870]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.31-12.50.34:676][870]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.31-12.50.34:676][870]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.31-12.50.34:676][870]LogWorldPartition: Display: GetPartitionedActors took 49 us
+[2023.03.31-12.50.34:676][870]LogWorldPartition: Display: GenerateStreaming took 98 us
+[2023.03.31-12.50.34:677][870]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.31-12.50.34:677][870]LogPlayLevel: PIE: World Init took: (0.002786s)
+[2023.03.31-12.50.34:677][870]LogLoad: Game class is 'GameMode'
+[2023.03.31-12.50.34:677][870]LogWorld: Bringing World /Game/GD/Maps/UEDPIE_0_Project_Degree_Select_House.Project_Degree_Select_House up for play (max tick rate 0) at 2023.03.31-14.50.34
+[2023.03.31-12.50.34:677][870]LogWorld: Bringing up level for play took: 0.000439
+[2023.03.31-12.50.34:678][870]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.31-12.50.34:678][870]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.31-12.50.34:678][870]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.31-12.50.34:678][870]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.31-12.50.34:678][870]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2023.03.31-12.50.34:678][870]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.31-12.50.34:679][870]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2023.03.31-12.50.34:679][870]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.31-12.50.34:679][870]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.03.31-12.50.34:679][870]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.31-12.50.34:679][870]LogLoad: Took 0.201139 seconds to LoadMap(/Game/GD/Maps/Project_Degree_Select_House)
+[2023.03.31-12.50.37:192][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.50.37:192][168]LogWorld: BeginTearingDown for /Game/GD/Maps/UEDPIE_0_Project_Degree_Select_House
+[2023.03.31-12.50.37:193][168]LogWorld: UWorld::CleanupWorld for Project_Degree_Select_House, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.50.37:193][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.50.37:208][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-12.50.37:218][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.50.37:317][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.50.37:317][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.03.31-12.50.37:319][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.03.31-12.50.37:328][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.03.31-12.50.37:427][169]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.03.31-12.50.37:638][170]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1245 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50)
+[2023.03.31-12.51.25:362][654]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-12.51.25:379][654]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.31-12.51.25:395][654]LogPlayLevel: [PlayLevel] Compiling Menu_Pause_Journal before play...
+[2023.03.31-12.51.25:783][654]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.03.31-12.51.25:788][654]LogPlayLevel: PlayLevel: Blueprint regeneration took 409 ms (1 blueprints)
+[2023.03.31-12.51.25:789][654]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 16:51:25)
+[2023.03.31-12.51.25:789][654]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.51.25:790][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001654s)
+[2023.03.31-12.51.25:790][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001724s)
+[2023.03.31-12.51.25:790][654]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-12.51.25:791][654]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-12.51.25:791][654]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-12.51.25:791][654]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2023.03.31-12.51.25:894][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.03.31-12.51.25:896][654]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.03.31-12.51.25:896][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-12.51.25:896][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-12.51.25:896][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-12.51.25:896][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-12.51.25:896][654]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-12.51.25:896][654]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-12.51.25:896][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-12.51.25:896][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-12.51.25:897][654]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-12.51.25:897][654]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-12.51.25:897][654]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-12.51.25:898][654]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-12.51.25:921][654]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-12.51.25:921][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-12.51.25:921][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-12.51.25:921][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-12.51.25:922][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2023.03.31-12.51.25:922][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2023.03.31-12.51.25:923][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2023.03.31-12.51.25:923][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2023.03.31-12.51.25:923][654]LogInit: FAudioDevice initialized.
+[2023.03.31-12.51.25:923][654]LogAudio: Display: Audio Device (ID: 44) registered with world 'Merged_Level'.
+[2023.03.31-12.51.25:937][654]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-12.51.26:070][654]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-14.51.26
+[2023.03.31-12.51.26:071][654]LogWorld: Bringing up level for play took: 0.001643
+[2023.03.31-12.51.26:073][654]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2023.03.31-12.51.26:074][654]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-12.51.26:079][654]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-12.51.26:084][654]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-12.51.26:088][654]PIE: Server logged in
+[2023.03.31-12.51.26:088][654]PIE: Play in editor total start time 0,71 seconds.
+[2023.03.31-12.51.47:109][831]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2023.03.31-12.51.56:854][274]LogNet: Browse: /Game/GD/Maps/Project_Degree_Select_House
+[2023.03.31-12.51.56:854][274]LogLoad: LoadMap: /Game/GD/Maps/Project_Degree_Select_House
+[2023.03.31-12.51.56:854][274]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.51.56:856][274]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.51.56:858][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.51.56:858][274]LogWorld: UWorld::CleanupWorld for Manon, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.51.56:858][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.51.56:858][274]LogWorld: UWorld::CleanupWorld for Vincent, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.51.56:858][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.51.56:858][274]LogWorld: UWorld::CleanupWorld for LightTurnoff_Paris, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.51.56:858][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.51.56:858][274]LogWorld: UWorld::CleanupWorld for GD, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.51.56:858][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.51.56:858][274]LogWorld: UWorld::CleanupWorld for Louise_L, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.51.56:858][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.51.56:858][274]LogWorld: UWorld::CleanupWorld for Louise_F, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.51.56:859][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.51.56:859][274]LogWorld: UWorld::CleanupWorld for Light_Paris, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.51.56:859][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.51.56:964][274]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.31-12.51.56:976][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.03.31-12.51.57:015][274]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.31-12.51.57:046][274]LogAudio: Display: Audio Device (ID: 44) registered with world 'Project_Degree_Select_House'.
+[2023.03.31-12.51.57:046][274]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-12.51.57:047][274]LogAIModule: Creating AISystem for world Project_Degree_Select_House
+[2023.03.31-12.51.57:047][274]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.31-12.51.57:047][274]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.31-12.51.57:048][274]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.31-12.51.57:048][274]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.31-12.51.57:048][274]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.31-12.51.57:048][274]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.31-12.51.57:048][274]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.31-12.51.57:048][274]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2023.03.31-12.51.57:049][274]LogWorldPartition: Display: GenerateStreaming took 103 us
+[2023.03.31-12.51.57:050][274]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.03.31-12.51.57:050][274]LogPlayLevel: PIE: World Init took: (0.003322s)
+[2023.03.31-12.51.57:050][274]LogLoad: Game class is 'GameMode'
+[2023.03.31-12.51.57:050][274]LogWorld: Bringing World /Game/GD/Maps/UEDPIE_0_Project_Degree_Select_House.Project_Degree_Select_House up for play (max tick rate 0) at 2023.03.31-14.51.57
+[2023.03.31-12.51.57:051][274]LogWorld: Bringing up level for play took: 0.000642
+[2023.03.31-12.51.57:051][274]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.31-12.51.57:051][274]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.31-12.51.57:051][274]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.03.31-12.51.57:051][274]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.03.31-12.51.57:052][274]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=0.000 Z=0.000
+[2023.03.31-12.51.57:052][274]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.31-12.51.57:053][274]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2023.03.31-12.51.57:053][274]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.31-12.51.57:053][274]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.03.31-12.51.57:053][274]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.03.31-12.51.57:053][274]LogLoad: Took 0.198952 seconds to LoadMap(/Game/GD/Maps/Project_Degree_Select_House)
+[2023.03.31-12.52.57:851][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.52.57:851][818]LogWorld: BeginTearingDown for /Game/GD/Maps/UEDPIE_0_Project_Degree_Select_House
+[2023.03.31-12.52.57:872][818]LogWorld: UWorld::CleanupWorld for Project_Degree_Select_House, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.52.57:872][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.52.57:881][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-12.52.57:894][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.52.57:989][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.52.57:990][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.03.31-12.52.57:991][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.03.31-12.52.58:001][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.03.31-12.52.58:238][819]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.03.31-12.54.18:505][159]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\t_beguin\Downloads\Menu_Access.png)
+[2023.03.31-12.54.18:548][159]LogTexture: Display: Building textures: /Game/GD/Widget/Menu_Access.Menu_Access (BGRA8, 834X572 X1X1) (Required Memory Estimate: 9.098969 MB), EncodeSpeed: Fast
+[2023.03.31-12.54.22:994][212]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.54.22:995][212]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.54.37:176][425]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GD/Widget/HUD.HUD
+[2023.03.31-12.54.37:176][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-12.54.37:250][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-12.54.37:635][425]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.54.37:635][425]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.54.41:861][487]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.54.41:861][487]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.55.53:396][567]LogEditorTransaction: Undo Edit X
+[2023.03.31-12.55.53:743][569]LogEditorTransaction: Undo Edit Y
+[2023.03.31-12.55.53:868][570]LogEditorTransaction: Undo Edit Y
+[2023.03.31-12.55.53:994][571]LogEditorTransaction: Undo Edit X
+[2023.03.31-12.55.55:913][601]LogEditorTransaction: Undo Edit Y
+[2023.03.31-12.55.56:575][611]LogEditorTransaction: Undo Edit X
+[2023.03.31-12.55.57:502][625]LogEditorTransaction: Undo Edit Render Opacity
+[2023.03.31-12.55.58:903][646]LogEditorTransaction: Redo Edit Render Opacity
+[2023.03.31-12.56.19:106][948]BlueprintLog: New page: Compile HUD
+[2023.03.31-12.56.19:169][948]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Image_5" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Image_5
+[2023.03.31-12.56.19:169][948]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Image_5" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Image_5
+[2023.03.31-12.56.19:195][948]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Image 5  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-12.56.19:196][948]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Image 5  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-12.56.19:469][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.03.31-12.56.33:217][150]BlueprintLog: New page: Compile HUD
+[2023.03.31-12.56.33:572][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.03.31-12.56.35:066][168]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.56.35:066][168]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.57.12:671][720]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.57.12:671][720]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.57.16:995][783]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-12.57.17:010][783]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.31-12.57.17:052][783]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2023.03.31-12.57.17:602][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.03.31-12.57.17:605][783]LogPlayLevel: PlayLevel: Blueprint regeneration took 595 ms (1 blueprints)
+[2023.03.31-12.57.17:605][783]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 16:57:17)
+[2023.03.31-12.57.17:605][783]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.57.17:607][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001681s)
+[2023.03.31-12.57.17:607][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001747s)
+[2023.03.31-12.57.17:607][783]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-12.57.17:607][783]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-12.57.17:607][783]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-12.57.17:608][783]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2023.03.31-12.57.17:714][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.03.31-12.57.17:716][783]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.03.31-12.57.17:716][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-12.57.17:716][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-12.57.17:716][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-12.57.17:716][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-12.57.17:716][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-12.57.17:716][783]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-12.57.17:716][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-12.57.17:716][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-12.57.17:716][783]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-12.57.17:716][783]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-12.57.17:716][783]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-12.57.17:718][783]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-12.57.17:739][783]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-12.57.17:739][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-12.57.17:739][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-12.57.17:739][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-12.57.17:739][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2023.03.31-12.57.17:739][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2023.03.31-12.57.17:742][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2023.03.31-12.57.17:742][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2023.03.31-12.57.17:742][783]LogInit: FAudioDevice initialized.
+[2023.03.31-12.57.17:742][783]LogAudio: Display: Audio Device (ID: 45) registered with world 'Merged_Level'.
+[2023.03.31-12.57.17:754][783]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-12.57.17:917][783]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-14.57.17
+[2023.03.31-12.57.17:918][783]LogWorld: Bringing up level for play took: 0.001001
+[2023.03.31-12.57.17:919][783]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.03.31-12.57.17:920][783]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-12.57.17:925][783]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-12.57.17:930][783]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-12.57.17:933][783]PIE: Server logged in
+[2023.03.31-12.57.17:934][783]PIE: Play in editor total start time 0,924 seconds.
+[2023.03.31-12.57.34:002][648]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2023.03.31-12.57.46:033][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.57.46:033][129]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.57.46:039][129]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.57.46:039][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.57.46:065][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-12.57.46:077][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.57.46:186][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.57.46:186][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.03.31-12.57.46:187][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.03.31-12.57.46:202][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.03.31-12.57.46:329][130]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.03.31-12.57.46:436][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.03.31-12.57.48:196][164]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-12.57.48:214][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.31-12.57.48:214][164]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 16:57:48)
+[2023.03.31-12.57.48:214][164]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.57.48:216][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001932s)
+[2023.03.31-12.57.48:216][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.002017s)
+[2023.03.31-12.57.48:216][164]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-12.57.48:216][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-12.57.48:217][164]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-12.57.48:217][164]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2023.03.31-12.57.48:323][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.03.31-12.57.48:325][164]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2023.03.31-12.57.48:325][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-12.57.48:325][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-12.57.48:325][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-12.57.48:325][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-12.57.48:325][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-12.57.48:325][164]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-12.57.48:325][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-12.57.48:325][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-12.57.48:325][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-12.57.48:325][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-12.57.48:325][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-12.57.48:327][164]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-12.57.48:348][164]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-12.57.48:348][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-12.57.48:348][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-12.57.48:348][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-12.57.48:348][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2023.03.31-12.57.48:348][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2023.03.31-12.57.48:350][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2023.03.31-12.57.48:350][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2023.03.31-12.57.48:350][164]LogInit: FAudioDevice initialized.
+[2023.03.31-12.57.48:350][164]LogAudio: Display: Audio Device (ID: 46) registered with world 'Merged_Level'.
+[2023.03.31-12.57.48:364][164]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-12.57.48:468][164]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-14.57.48
+[2023.03.31-12.57.48:468][164]LogWorld: Bringing up level for play took: 0.001008
+[2023.03.31-12.57.48:471][164]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.03.31-12.57.48:471][164]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-12.57.48:476][164]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-12.57.48:481][164]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-12.57.48:485][164]PIE: Server logged in
+[2023.03.31-12.57.48:485][164]PIE: Play in editor total start time 0,271 seconds.
+[2023.03.31-12.57.49:563][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.57.49:563][218]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-12.57.49:568][218]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-12.57.49:568][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.57.49:593][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-12.57.49:603][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-12.57.49:709][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-12.57.49:710][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.03.31-12.57.49:711][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.03.31-12.57.49:725][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.03.31-12.57.49:766][219]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.03.31-12.57.49:873][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.03.31-12.59.50:298][472]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-12.59.50:298][472]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.00.03:653][719]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.00.03:653][719]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.00.17:649][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.00.17:649][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.00.48:585][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.03.31-13.00.48:611][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Maps/Sub_Lvl/GD_Auto3
+[2023.03.31-13.00.48:612][247]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/GD_Auto3D8D0E2EF4018A1DDD333C682D3CA8766.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Maps/Sub_Lvl/GD_Auto3.umap'
+[2023.03.31-13.00.48:618][247]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TA/Map/Merged_Level' took 0.156
+[2023.03.31-13.00.48:618][247]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.156
+[2023.03.31-13.00.48:618][247]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GD/Widget/HUD] ([2] browsable assets)...
+[2023.03.31-13.00.48:622][247]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GD/Widget/HUD.HUD]
+[2023.03.31-13.00.48:622][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Widget/HUD]
+[2023.03.31-13.00.48:739][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Widget/HUD_Auto3
+[2023.03.31-13.00.48:740][247]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUD_Auto33E5866FB4A87E6B0818BDEA941327A2A.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Widget/HUD_Auto3.uasset'
+[2023.03.31-13.00.48:746][247]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GD/Widget/Menu_Pause_Journal] ([2] browsable assets)...
+[2023.03.31-13.00.48:751][247]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GD/Widget/Menu_Pause_Journal.Menu_Pause_Journal]
+[2023.03.31-13.00.48:751][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Widget/Menu_Pause_Journal]
+[2023.03.31-13.00.48:892][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Widget/Menu_Pause_Journal_Auto3
+[2023.03.31-13.00.48:893][247]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Menu_Pause_Journal_Auto3CED2CAAD437AFAD9BCE745AC7576E846.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Widget/Menu_Pause_Journal_Auto3.uasset'
+[2023.03.31-13.00.48:898][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GD/Widget/Menu_Access] ([1] browsable assets)...
+[2023.03.31-13.00.48:900][247]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GD/Widget/Menu_Access.Menu_Access]
+[2023.03.31-13.00.48:900][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/GD/Widget/Menu_Access]
+[2023.03.31-13.00.48:903][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GD/Widget/Menu_Access_Auto3
+[2023.03.31-13.00.48:903][247]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Menu_Access_Auto332A4E90542D6AB0C4050409783590A6E.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Autosaves/Game/GD/Widget/Menu_Access_Auto3.uasset'
+[2023.03.31-13.00.48:904][247]LogFileHelpers: Auto-saving content packages took 0.286
+[2023.03.31-13.01.55:762][529]LogEditorTransaction: Undo Move Node
+[2023.03.31-13.02.24:854][ 60]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-13.02.24:869][ 60]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.31-13.02.24:895][ 60]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Interactainable\Object_Interact_Not_Inspectable_Not_Need_Object\BP_Radio_Child_ININNO.uasset: [Compiler] Variable Spline Left is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.03.31-13.02.24:986][ 60]LogPlayLevel: [PlayLevel] Compiling BP_Diplome_First_Person_Project before play...
+[2023.03.31-13.02.25:753][ 60]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2023.03.31-13.02.26:236][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.03.31-13.02.26:239][ 60]LogPlayLevel: PlayLevel: Blueprint regeneration took 1370 ms (2 blueprints)
+[2023.03.31-13.02.26:239][ 60]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 17:02:26)
+[2023.03.31-13.02.26:239][ 60]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-13.02.26:241][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001718s)
+[2023.03.31-13.02.26:241][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001787s)
+[2023.03.31-13.02.26:241][ 60]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-13.02.26:241][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-13.02.26:241][ 60]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-13.02.26:242][ 60]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2023.03.31-13.02.26:348][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.03.31-13.02.26:349][ 60]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.03.31-13.02.26:349][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-13.02.26:349][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-13.02.26:349][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-13.02.26:349][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-13.02.26:349][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-13.02.26:349][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-13.02.26:349][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-13.02.26:349][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-13.02.26:350][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-13.02.26:350][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-13.02.26:350][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-13.02.26:352][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-13.02.26:373][ 60]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-13.02.26:374][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-13.02.26:374][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-13.02.26:374][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-13.02.26:374][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2023.03.31-13.02.26:374][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2023.03.31-13.02.26:376][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2023.03.31-13.02.26:376][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2023.03.31-13.02.26:376][ 60]LogInit: FAudioDevice initialized.
+[2023.03.31-13.02.26:376][ 60]LogAudio: Display: Audio Device (ID: 47) registered with world 'Merged_Level'.
+[2023.03.31-13.02.26:391][ 60]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-13.02.26:508][ 60]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-15.02.26
+[2023.03.31-13.02.26:509][ 60]LogWorld: Bringing up level for play took: 0.001024
+[2023.03.31-13.02.26:511][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.03.31-13.02.26:511][ 60]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-13.02.26:516][ 60]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-13.02.26:521][ 60]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-13.02.26:525][ 60]PIE: Server logged in
+[2023.03.31-13.02.26:525][ 60]PIE: Play in editor total start time 1,657 seconds.
+[2023.03.31-13.02.42:332][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-13.02.42:332][933]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-13.02.42:341][933]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-13.02.42:341][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-13.02.42:382][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-13.02.42:394][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-13.02.42:502][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-13.02.42:503][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.03.31-13.02.42:504][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.03.31-13.02.42:519][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.03.31-13.02.42:561][934]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.03.31-13.02.42:667][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.03.31-13.03.19:909][774]LogEditorTransaction: Undo Delete current selection
+[2023.03.31-13.03.27:380][928]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.03.27:380][928]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.03.50:747][464]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.31-13.04.06:393][840]LogEditorTransaction: Undo Edit X
+[2023.03.31-13.05.03:971][147]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-13.05.03:986][147]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.31-13.05.04:009][147]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Interactainable\Object_Interact_Not_Inspectable_Not_Need_Object\BP_Radio_Child_ININNO.uasset: [Compiler] Variable Spline Left is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.03.31-13.05.04:058][147]LogPlayLevel: [PlayLevel] Compiling BP_Diplome_First_Person_Project before play...
+[2023.03.31-13.05.04:915][147]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2023.03.31-13.05.05:460][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2023.03.31-13.05.05:463][147]LogPlayLevel: PlayLevel: Blueprint regeneration took 1476 ms (2 blueprints)
+[2023.03.31-13.05.05:463][147]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 17:05:05)
+[2023.03.31-13.05.05:463][147]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-13.05.05:465][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001755s)
+[2023.03.31-13.05.05:465][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001824s)
+[2023.03.31-13.05.05:465][147]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-13.05.05:465][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-13.05.05:465][147]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-13.05.05:466][147]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2023.03.31-13.05.05:572][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.03.31-13.05.05:574][147]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.03.31-13.05.05:574][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-13.05.05:574][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-13.05.05:574][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-13.05.05:574][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-13.05.05:574][147]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-13.05.05:574][147]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-13.05.05:574][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-13.05.05:574][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-13.05.05:574][147]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-13.05.05:574][147]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-13.05.05:574][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-13.05.05:576][147]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-13.05.05:597][147]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-13.05.05:597][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-13.05.05:597][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-13.05.05:597][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-13.05.05:598][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2023.03.31-13.05.05:598][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2023.03.31-13.05.05:600][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2023.03.31-13.05.05:600][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2023.03.31-13.05.05:600][147]LogInit: FAudioDevice initialized.
+[2023.03.31-13.05.05:600][147]LogAudio: Display: Audio Device (ID: 48) registered with world 'Merged_Level'.
+[2023.03.31-13.05.05:612][147]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-13.05.05:760][147]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-15.05.05
+[2023.03.31-13.05.05:761][147]LogWorld: Bringing up level for play took: 0.001183
+[2023.03.31-13.05.05:763][147]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2023.03.31-13.05.05:764][147]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-13.05.05:768][147]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-13.05.05:772][147]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-13.05.05:776][147]PIE: Server logged in
+[2023.03.31-13.05.05:777][147]PIE: Play in editor total start time 1,791 seconds.
+[2023.03.31-13.05.22:852][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-13.05.22:852][ 75]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-13.05.22:858][ 75]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-13.05.22:859][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-13.05.22:901][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-13.05.22:912][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-13.05.23:021][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-13.05.23:022][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.03.31-13.05.23:023][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.03.31-13.05.23:038][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.03.31-13.05.23:083][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.03.31-13.05.23:186][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.03.31-13.07.34:410][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.03.31-13.07.34:583][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.03.31-13.07.34:606][902]LogSavePackage: Moving output files for package: /Game/GD/Maps/Sub_Lvl/GD
+[2023.03.31-13.07.34:606][902]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/GDBB0513C74044F1E32D44A0B6DA51614B.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Maps/Sub_Lvl/GD.umap'
+[2023.03.31-13.07.34:612][902]LogFileHelpers: Saving map 'GD' took 0.133
+[2023.03.31-13.07.35:017][902]LogSavePackage: Moving output files for package: /Game/GD/ThirdPerson/Blueprints/BP_Diplome_First_Person_Project
+[2023.03.31-13.07.35:017][902]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Diplome_First_Person_Project42582B3540A45ED8382C989EF9AACA75.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/ThirdPerson/Blueprints/BP_Diplome_First_Person_Project.uasset'
+[2023.03.31-13.07.35:023][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset" SILENT=true
+[2023.03.31-13.07.35:142][902]LogSavePackage: Moving output files for package: /Game/GD/Widget/HUD
+[2023.03.31-13.07.35:143][902]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUD8435EC5240A82D256C46AD8557A230DB.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset'
+[2023.03.31-13.07.35:219][902]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Object_Interact_Not_Inspectable_Not_Need_Object/BP_Phone_Child_ININNO
+[2023.03.31-13.07.35:220][902]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Phone_Child_ININNO47138C3147FB789A963586B25995856A.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Object_Interact_Not_Inspectable_Not_Need_Object/BP_Phone_Child_ININNO.uasset'
+[2023.03.31-13.07.35:227][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/Menu_Pause_Journal" FILE="../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/Menu_Pause_Journal.uasset" SILENT=true
+[2023.03.31-13.07.35:369][902]LogSavePackage: Moving output files for package: /Game/GD/Widget/Menu_Pause_Journal
+[2023.03.31-13.07.35:369][902]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Menu_Pause_Journal044C5F0245C1C78E9D1FE19944CC0863.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/Menu_Pause_Journal.uasset'
+[2023.03.31-13.07.35:587][902]LogSavePackage: Moving output files for package: /Game/GD/Interactainable/Object_Interactable_But_Not_Inspectable_And_Need_Object/BP_Eletric_Meter_Child_INI
+[2023.03.31-13.07.35:588][902]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Eletric_Meter_Child_INI7A153D9547468A5AA1678EAE661FFF7B.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Interactainable/Object_Interactable_But_Not_Inspectable_And_Need_Object/BP_Eletric_Meter_Child_INI.uasset'
+[2023.03.31-13.07.35:590][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/Menu_Access" FILE="../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/Menu_Access.uasset" SILENT=true
+[2023.03.31-13.07.35:613][902]LogSavePackage: Moving output files for package: /Game/GD/Widget/Menu_Access
+[2023.03.31-13.07.35:613][902]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Menu_AccessD00A4E1D4F916DF1C51B5AA13E644E2A.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/Menu_Access.uasset'
+[2023.03.31-13.07.35:636][902]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.31-13.07.35:636][902]LogContentValidation: Display: Validating Blueprint /Game/GD/ThirdPerson/Blueprints/BP_Diplome_First_Person_Project.BP_Diplome_First_Person_Project
+[2023.03.31-13.07.35:636][902]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/HUD.HUD
+[2023.03.31-13.07.35:638][902]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Object_Interact_Not_Inspectable_Not_Need_Object/BP_Phone_Child_ININNO.BP_Phone_Child_ININNO
+[2023.03.31-13.07.35:639][902]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/Menu_Pause_Journal.Menu_Pause_Journal
+[2023.03.31-13.07.35:640][902]LogContentValidation: Display: Validating Blueprint /Game/GD/Interactainable/Object_Interactable_But_Not_Inspectable_And_Need_Object/BP_Eletric_Meter_Child_INI.BP_Eletric_Meter_Child_INI
+[2023.03.31-13.07.35:640][902]LogContentValidation: Display: Validating Texture2D /Game/GD/Widget/Menu_Access.Menu_Access
+[2023.03.31-13.07.35:640][902]LogContentValidation: Display: Validating World /Game/GD/Maps/Sub_Lvl/GD.GD
+[2023.03.31-13.09.33:181][962]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.09.33:181][962]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.09.41:092][ 96]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.31-13.10.25:541][547]LogEditorTransaction: Undo Edit B
+[2023.03.31-13.10.26:137][553]LogEditorTransaction: Undo Edit G
+[2023.03.31-13.10.26:585][562]LogEditorTransaction: Undo Edit R
+[2023.03.31-13.10.39:903][800]LogEditorTransaction: Undo Edit G
+[2023.03.31-13.10.40:614][810]LogEditorTransaction: Undo Edit R
+[2023.03.31-13.11.10:816][309]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\t_beguin\Downloads\Show_What_Item_Is_Selected_By_Player.png)
+[2023.03.31-13.11.10:836][309]LogTexture: Display: Building textures: /Game/GD/Widget/Show_What_Item_Is_Selected_By_Player.Show_What_Item_Is_Selected_By_Player (BGRA8, 834X572 X1X1) (Required Memory Estimate: 9.098969 MB), EncodeSpeed: Fast
+[2023.03.31-13.11.10:836][309]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SDesignerView [DesignerTabSummoner.cpp(26)].
+[2023.03.31-13.11.43:982][875]LogEditorTransaction: Undo Edit A
+[2023.03.31-13.11.52:911][ 26]LogEditorTransaction: Undo Edit B
+[2023.03.31-13.11.53:442][ 30]LogEditorTransaction: Undo Edit R
+[2023.03.31-13.11.53:611][ 31]LogEditorTransaction: Undo Edit G
+[2023.03.31-13.11.53:766][ 33]LogEditorTransaction: Undo Edit Image
+[2023.03.31-13.11.54:041][ 38]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.31-13.11.54:436][ 45]LogEditorTransaction: Undo Edit A
+[2023.03.31-13.11.56:126][ 75]LogEditorTransaction: Redo Edit A
+[2023.03.31-13.11.56:522][ 82]LogEditorTransaction: Redo Drag and Drop Widget
+[2023.03.31-13.12.40:810][761]LogEditorTransaction: Undo Edit X
+[2023.03.31-13.13.02:088][117]LogEditorTransaction: Undo Resize Widget
+[2023.03.31-13.14.52:090][997]LogEditorTransaction: Undo Edit Bottom
+[2023.03.31-13.14.52:441][  0]LogEditorTransaction: Undo Edit Bottom
+[2023.03.31-13.14.52:936][  8]LogEditorTransaction: Undo Edit Right
+[2023.03.31-13.15.30:113][639]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.31-13.16.52:407][ 55]LogEditorTransaction: Undo Resize Widget
+[2023.03.31-13.16.52:789][ 58]LogEditorTransaction: Undo Resize Widget
+[2023.03.31-13.16.53:282][ 66]LogEditorTransaction: Undo Resize Widget
+[2023.03.31-13.16.53:957][ 78]LogEditorTransaction: Undo Resize Widget
+[2023.03.31-13.17.54:000][105]LogEditorTransaction: Undo Edit A
+[2023.03.31-13.18.18:677][525]BlueprintLog: New page: Compile HUD
+[2023.03.31-13.18.19:470][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.03.31-13.20.59:298][964]LogEditorTransaction: Undo Edit Right
+[2023.03.31-13.21.25:672][408]LogEditorTransaction: Undo Edit Image
+[2023.03.31-13.21.35:955][578]LogDerivedDataCache: C:/Users/t_beguin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.252 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.31-13.22.27:782][450]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.31-13.22.33:895][540]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.31-13.22.38:714][609]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.31-13.22.41:085][638]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.31-13.22.43:566][672]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.31-13.23.16:121][163]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-13.23.16:143][163]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.31-13.23.16:169][163]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Interactainable\Object_Interact_Not_Inspectable_Not_Need_Object\BP_Radio_Child_ININNO.uasset: [Compiler] Variable Spline Left is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.03.31-13.23.16:222][163]LogPlayLevel: [PlayLevel] Compiling BP_Diplome_First_Person_Project before play...
+[2023.03.31-13.23.16:827][163]LogPlayLevel: [PlayLevel] Compiling BP_Phone_Child_ININNO before play...
+[2023.03.31-13.23.17:091][163]LogPlayLevel: [PlayLevel] Compiling BP_Eletric_Meter_Child_INI before play...
+[2023.03.31-13.23.17:437][163]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2023.03.31-13.23.17:975][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2023.03.31-13.23.17:983][163]LogPlayLevel: PlayLevel: Blueprint regeneration took 1838 ms (4 blueprints)
+[2023.03.31-13.23.17:983][163]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 17:23:17)
+[2023.03.31-13.23.17:983][163]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-13.23.17:985][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001801s)
+[2023.03.31-13.23.17:985][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001870s)
+[2023.03.31-13.23.17:985][163]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-13.23.17:985][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-13.23.17:985][163]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-13.23.17:986][163]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2023.03.31-13.23.18:099][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.03.31-13.23.18:101][163]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.03.31-13.23.18:101][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-13.23.18:101][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-13.23.18:101][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-13.23.18:101][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-13.23.18:101][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-13.23.18:101][163]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-13.23.18:101][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-13.23.18:101][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-13.23.18:102][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-13.23.18:102][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-13.23.18:102][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-13.23.18:104][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-13.23.18:128][163]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-13.23.18:128][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-13.23.18:128][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-13.23.18:128][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-13.23.18:129][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2023.03.31-13.23.18:129][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2023.03.31-13.23.18:131][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2023.03.31-13.23.18:131][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2023.03.31-13.23.18:131][163]LogInit: FAudioDevice initialized.
+[2023.03.31-13.23.18:131][163]LogAudio: Display: Audio Device (ID: 49) registered with world 'Merged_Level'.
+[2023.03.31-13.23.18:147][163]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-13.23.18:288][163]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-15.23.18
+[2023.03.31-13.23.18:288][163]LogWorld: Bringing up level for play took: 0.000879
+[2023.03.31-13.23.18:290][163]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2023.03.31-13.23.18:291][163]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-13.23.18:296][163]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-13.23.18:302][163]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-13.23.18:305][163]PIE: Server logged in
+[2023.03.31-13.23.18:306][163]PIE: Play in editor total start time 2,162 seconds.
+[2023.03.31-13.23.45:845][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-13.23.45:845][715]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-13.23.45:857][715]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-13.23.45:858][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-13.23.45:932][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-13.23.45:944][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-13.23.46:061][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-13.23.46:062][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.03.31-13.23.46:063][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.03.31-13.23.46:079][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.03.31-13.23.46:139][716]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.03.31-13.23.46:252][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.03.31-13.23.57:667][940]BlueprintLog: New page: Compile HUD
+[2023.03.31-13.23.57:749][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Second_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Second_Object_E
+[2023.03.31-13.23.57:750][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Second_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Second_Object_E
+[2023.03.31-13.23.57:750][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Third_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Third_Object_E
+[2023.03.31-13.23.57:750][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Fourth_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Fourth_Object_E
+[2023.03.31-13.23.57:750][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "First_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get First_Object_E
+[2023.03.31-13.23.57:750][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Fourth_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Fourth_Object_E
+[2023.03.31-13.23.57:751][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Third_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Third_Object_E
+[2023.03.31-13.23.57:751][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "First_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get First_Object_E
+[2023.03.31-13.23.57:751][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Second_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Second_Object_E
+[2023.03.31-13.23.57:751][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Third_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Third_Object_E
+[2023.03.31-13.23.57:751][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Fourth_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Fourth_Object_E
+[2023.03.31-13.23.57:751][940]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "First_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get First_Object_E
+[2023.03.31-13.23.57:775][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  First Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:775][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Fourth Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:775][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Third Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:775][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Second Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:775][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  First Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:775][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Third Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:776][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Fourth Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:776][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  First Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:776][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Fourth Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:776][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Third Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:776][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Second Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:777][940]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Second Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.23.57:971][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.03.31-13.24.00:915][990]BlueprintLog: New page: Compile HUD
+[2023.03.31-13.24.00:987][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Second_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Second_Object_E
+[2023.03.31-13.24.00:988][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Second_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Second_Object_E
+[2023.03.31-13.24.00:988][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Third_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Third_Object_E
+[2023.03.31-13.24.00:988][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Fourth_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Fourth_Object_E
+[2023.03.31-13.24.00:988][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "First_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get First_Object_E
+[2023.03.31-13.24.00:988][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Fourth_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Fourth_Object_E
+[2023.03.31-13.24.00:988][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Third_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Third_Object_E
+[2023.03.31-13.24.00:989][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "First_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get First_Object_E
+[2023.03.31-13.24.00:989][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Second_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Second_Object_E
+[2023.03.31-13.24.00:989][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Third_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Third_Object_E
+[2023.03.31-13.24.00:989][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Fourth_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Fourth_Object_E
+[2023.03.31-13.24.00:989][990]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "First_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get First_Object_E
+[2023.03.31-13.24.01:015][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  First Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:016][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Fourth Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:016][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Third Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:016][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Second Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:016][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  First Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:016][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Third Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:016][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Fourth Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:016][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  First Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:016][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Fourth Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:016][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Third Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:016][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Second Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:017][990]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Second Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.01:271][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2023.03.31-13.24.15:132][262]BlueprintLog: New page: Compile HUD
+[2023.03.31-13.24.15:211][262]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Fourth_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Fourth_Object_E
+[2023.03.31-13.24.15:212][262]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Third_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Third_Object_E
+[2023.03.31-13.24.15:212][262]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "First_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get First_Object_E
+[2023.03.31-13.24.15:212][262]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Second_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Second_Object_E
+[2023.03.31-13.24.15:213][262]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Third_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Third_Object_E
+[2023.03.31-13.24.15:213][262]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "Fourth_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get Fourth_Object_E
+[2023.03.31-13.24.15:213][262]LogBlueprint: Warning: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] Could not find a variable named "First_Object_E" in 'HUD_C'.
+Make sure 'HUD_C' has been compiled for  Get First_Object_E
+[2023.03.31-13.24.15:240][262]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  First Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.15:240][262]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Fourth Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.15:240][262]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Third Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.15:240][262]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Second Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.15:241][262]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  First Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.15:241][262]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Third Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.15:241][262]LogBlueprint: Error: [AssetLog] C:\Users\t_beguin\Documents\GitHub\FPWL_Projet\FPWL_Projet\Content\GD\Widget\HUD.uasset: [Compiler] The property associated with  Fourth Object E  could not be found in '/Game/GD/Widget/HUD.HUD_C'
+[2023.03.31-13.24.15:480][262]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2023.03.31-13.24.27:810][503]BlueprintLog: New page: Compile HUD
+[2023.03.31-13.24.28:153][503]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2023.03.31-13.24.31:563][566]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-13.24.31:585][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.31-13.24.31:585][566]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 17:24:31)
+[2023.03.31-13.24.31:586][566]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-13.24.31:588][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002170s)
+[2023.03.31-13.24.31:588][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.002302s)
+[2023.03.31-13.24.31:588][566]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-13.24.31:588][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-13.24.31:589][566]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-13.24.31:589][566]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2023.03.31-13.24.31:715][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.03.31-13.24.31:719][566]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.03.31-13.24.31:719][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-13.24.31:719][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-13.24.31:719][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-13.24.31:719][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-13.24.31:719][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-13.24.31:719][566]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-13.24.31:719][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-13.24.31:719][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-13.24.31:720][566]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-13.24.31:720][566]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-13.24.31:720][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-13.24.31:723][566]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-13.24.31:746][566]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-13.24.31:746][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-13.24.31:746][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-13.24.31:746][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-13.24.31:748][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2023.03.31-13.24.31:748][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2023.03.31-13.24.31:749][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2023.03.31-13.24.31:749][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2023.03.31-13.24.31:750][566]LogInit: FAudioDevice initialized.
+[2023.03.31-13.24.31:750][566]LogAudio: Display: Audio Device (ID: 50) registered with world 'Merged_Level'.
+[2023.03.31-13.24.31:759][566]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-13.24.31:870][566]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-15.24.31
+[2023.03.31-13.24.31:870][566]LogWorld: Bringing up level for play took: 0.000924
+[2023.03.31-13.24.31:873][566]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2023.03.31-13.24.31:873][566]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-13.24.31:879][566]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-13.24.31:884][566]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-13.24.31:887][566]PIE: Server logged in
+[2023.03.31-13.24.31:888][566]PIE: Play in editor total start time 0,303 seconds.
+[2023.03.31-13.24.37:823][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-13.24.37:823][914]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-13.24.37:836][914]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-13.24.37:836][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-13.24.37:899][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-13.24.37:915][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-13.24.38:026][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.31-13.24.38:029][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.03.31-13.24.38:031][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.03.31-13.24.38:035][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-13.24.38:047][914]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.03.31-13.24.38:105][915]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.03.31-13.24.38:215][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.03.31-13.24.41:361][939]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.24.41:361][939]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.25.37:479][  7]LogEditorTransaction: Undo Edit B
+[2023.03.31-13.25.41:783][ 86]LogEditorTransaction: Undo Edit G
+[2023.03.31-13.25.46:959][178]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.31-13.25.47:885][196]Cmd: TRANSACTION UNDO
+[2023.03.31-13.25.47:885][196]LogEditorTransaction: Undo Edit Specified Color
+[2023.03.31-13.26.50:859][372]LogEditorTransaction: Undo Edit A
+[2023.03.31-13.27.03:238][604]LogEditorTransaction: Undo Edit Bottom
+[2023.03.31-13.27.03:518][606]LogEditorTransaction: Undo Edit Right
+[2023.03.31-13.27.03:774][608]LogEditorTransaction: Undo Edit Top
+[2023.03.31-13.27.04:047][613]LogEditorTransaction: Undo Edit Left
+[2023.03.31-13.27.28:685][ 82]LogEditorTransaction: Undo Edit B
+[2023.03.31-13.27.29:243][ 88]LogEditorTransaction: Undo Edit G
+[2023.03.31-13.27.44:951][385]LogEditorTransaction: Undo Edit R
+[2023.03.31-13.27.45:503][391]LogEditorTransaction: Undo Edit A
+[2023.03.31-13.27.48:453][446]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.31-13.27.49:579][468]LogEditorTransaction: Undo Edit Specified Color
+[2023.03.31-13.28.00:131][660]BlueprintLog: New page: Compile HUD
+[2023.03.31-13.28.00:483][660]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2023.03.31-13.28.02:726][696]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.28.02:726][696]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.31-13.28.07:534][787]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-13.28.07:548][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.31-13.28.07:549][787]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 17:28:07)
+[2023.03.31-13.28.07:549][787]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-13.28.07:551][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001890s)
+[2023.03.31-13.28.07:551][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001980s)
+[2023.03.31-13.28.07:551][787]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-13.28.07:551][787]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-13.28.07:551][787]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-13.28.07:552][787]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2023.03.31-13.28.07:684][787]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2023.03.31-13.28.07:690][787]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.03.31-13.28.07:690][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-13.28.07:690][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-13.28.07:690][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-13.28.07:690][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-13.28.07:690][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-13.28.07:690][787]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-13.28.07:690][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-13.28.07:690][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-13.28.07:691][787]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-13.28.07:691][787]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-13.28.07:691][787]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-13.28.07:693][787]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-13.28.07:719][787]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-13.28.07:720][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-13.28.07:720][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-13.28.07:720][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-13.28.07:721][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2023.03.31-13.28.07:721][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2023.03.31-13.28.07:722][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2023.03.31-13.28.07:722][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2023.03.31-13.28.07:722][787]LogInit: FAudioDevice initialized.
+[2023.03.31-13.28.07:722][787]LogAudio: Display: Audio Device (ID: 51) registered with world 'Merged_Level'.
+[2023.03.31-13.28.07:734][787]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-13.28.07:867][787]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-15.28.07
+[2023.03.31-13.28.07:868][787]LogWorld: Bringing up level for play took: 0.001223
+[2023.03.31-13.28.07:869][787]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2023.03.31-13.28.07:870][787]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-13.28.07:875][787]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-13.28.07:881][787]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-13.28.07:885][787]PIE: Server logged in
+[2023.03.31-13.28.07:885][787]PIE: Play in editor total start time 0,338 seconds.
+[2023.03.31-13.28.19:708][478]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2023.03.31-13.29.46:804][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-13.29.46:804][226]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-13.29.46:815][226]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-13.29.46:815][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-13.29.46:876][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-13.29.46:887][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-13.29.46:988][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.31-13.29.46:993][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2023.03.31-13.29.46:994][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2023.03.31-13.29.46:998][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-13.29.47:010][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.03.31-13.29.47:152][227]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2023.03.31-13.29.47:273][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.03.31-13.30.15:465][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.03.31-13.30.15:623][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.03.31-13.30.15:646][449]LogSavePackage: Moving output files for package: /Game/GD/Maps/Sub_Lvl/GD
+[2023.03.31-13.30.15:647][449]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/GD7FF49CA74C77992116BCC490BB40EC66.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Maps/Sub_Lvl/GD.umap'
+[2023.03.31-13.30.15:653][449]LogFileHelpers: Saving map 'GD' took 0.132
+[2023.03.31-13.30.15:656][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/HUD" FILE="../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset" SILENT=true
+[2023.03.31-13.30.15:772][449]LogSavePackage: Moving output files for package: /Game/GD/Widget/HUD
+[2023.03.31-13.30.15:772][449]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/HUDF65B706D485EA90D332444A38B440023.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/HUD.uasset'
+[2023.03.31-13.30.15:792][449]LogSavePackage: Moving output files for package: /Game/GD/Widget/Show_What_Item_Is_Selected_By_Player
+[2023.03.31-13.30.15:792][449]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Show_What_Item_Is_Selected_By_PlC64AB9AD4666D4CC1D74539762950B84.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/Show_What_Item_Is_Selected_By_Player.uasset'
+[2023.03.31-13.30.15:817][449]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.31-13.30.15:817][449]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/HUD.HUD
+[2023.03.31-13.30.15:818][449]LogContentValidation: Display: Validating World /Game/GD/Maps/Sub_Lvl/GD.GD
+[2023.03.31-13.30.15:818][449]LogContentValidation: Display: Validating Texture2D /Game/GD/Widget/Show_What_Item_Is_Selected_By_Player.Show_What_Item_Is_Selected_By_Player
