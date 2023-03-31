@@ -3196,3 +3196,125 @@ Script Stack (0 frames):
 [2023.03.31-17.08.37:958][696]AssetCheck: New page: Asset Save: Menu_Pause_Journal
 [2023.03.31-17.08.37:958][696]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/Menu_Pause_Journal.Menu_Pause_Journal
 [2023.03.31-17.08.38:794][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.03.31-17.09.07:704][584]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-17.09.07:715][584]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.31-17.09.07:732][584]LogPlayLevel: [PlayLevel] Compiling BP_Phone_Child_ININNO before play...
+[2023.03.31-17.09.07:968][584]LogPlayLevel: [PlayLevel] Compiling Menu_Pause_Journal before play...
+[2023.03.31-17.09.08:347][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.03.31-17.09.08:364][584]LogPlayLevel: PlayLevel: Blueprint regeneration took 648 ms (2 blueprints)
+[2023.03.31-17.09.08:364][584]PIE: New page: PIE session: Merged_Level (31 mars 2023 à 21:09:08)
+[2023.03.31-17.09.08:364][584]LogPlayLevel: Creating play world package: /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-17.09.08:365][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001703s)
+[2023.03.31-17.09.08:366][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TA/Map/Merged_Level.Merged_Level to /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level (0.001781s)
+[2023.03.31-17.09.08:366][584]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.31-17.09.08:366][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-17.09.08:366][584]LogAIModule: Creating AISystem for world Merged_Level
+[2023.03.31-17.09.08:366][584]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2023.03.31-17.09.08:444][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.31-17.09.08:445][584]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.03.31-17.09.08:445][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-17.09.08:445][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-17.09.08:445][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-17.09.08:445][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-17.09.08:445][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-17.09.08:445][584]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-17.09.08:445][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-17.09.08:445][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-17.09.08:446][584]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-17.09.08:446][584]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-17.09.08:446][584]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-17.09.08:448][584]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-17.09.08:469][584]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.03.31-17.09.08:469][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-17.09.08:469][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-17.09.08:469][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-17.09.08:470][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.03.31-17.09.08:470][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.03.31-17.09.08:471][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.03.31-17.09.08:471][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.03.31-17.09.08:471][584]LogInit: FAudioDevice initialized.
+[2023.03.31-17.09.08:471][584]LogAudio: Display: Audio Device (ID: 28) registered with world 'Merged_Level'.
+[2023.03.31-17.09.08:484][584]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.31-17.09.08:615][584]LogWorld: Bringing World /Game/TA/Map/UEDPIE_0_Merged_Level.Merged_Level up for play (max tick rate 0) at 2023.03.31-19.09.08
+[2023.03.31-17.09.08:615][584]LogWorld: Bringing up level for play took: 0.000989
+[2023.03.31-17.09.08:617][584]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2023.03.31-17.09.08:618][584]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.31-17.09.08:623][584]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.31-17.09.08:628][584]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2023.03.31-17.09.08:631][584]PIE: Server logged in
+[2023.03.31-17.09.08:632][584]PIE: Play in editor total start time 0,916 seconds.
+[2023.03.31-17.09.19:732][242]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2023.03.31-17.09.24:370][450]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2023.03.31-17.09.30:362][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-17.09.30:362][702]LogWorld: BeginTearingDown for /Game/TA/Map/UEDPIE_0_Merged_Level
+[2023.03.31-17.09.30:368][702]LogWorld: UWorld::CleanupWorld for Merged_Level, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.09.30:368][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.09.30:395][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-17.09.30:404][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.09.30:482][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-17.09.30:483][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.03.31-17.09.30:484][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.03.31-17.09.30:498][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.03.31-17.09.30:624][703]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2023.03.31-17.09.30:700][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.03.31-17.10.31:444][435]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Door_Opening_Cue.SC_Door_Opening_Cue
+[2023.03.31-17.10.56:285][727]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Light_Switch_Cue.SC_Light_Switch_Cue
+[2023.03.31-17.11.10:497][935]LogSavePackage: Moving output files for package: /Game/GD/Sound/Environment_Noise/SC_Light_Switch_Cue
+[2023.03.31-17.11.10:498][935]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/SC_Light_Switch_Cue1065D30E4EF81676BCCE96B76AAC3479.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Sound/Environment_Noise/SC_Light_Switch_Cue.uasset'
+[2023.03.31-17.11.10:515][935]AssetCheck: New page: Asset Save: SC_Light_Switch_Cue
+[2023.03.31-17.11.10:515][935]LogContentValidation: Display: Validating SoundCue /Game/GD/Sound/Environment_Noise/SC_Light_Switch_Cue.SC_Light_Switch_Cue
+[2023.03.31-17.12.01:960][693]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.31-17.12.05:772][753]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Bouton_Carnet_Cue.SC_Bouton_Carnet_Cue
+[2023.03.31-17.12.12:340][852]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/GD/Sound/Environment_Noise/SM_Environment_Noise_Sound.SM_Environment_Noise_Sound
+[2023.03.31-17.12.20:426][976]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Door_Without_Lock_Opening_Cue.SC_Door_Without_Lock_Opening_Cue
+[2023.03.31-17.12.45:184][342]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Inventory_Turnpages_Cue.SC_Inventory_Turnpages_Cue
+[2023.03.31-17.13.09:476][711]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Lighter_Switch_On_Cue.SC_Lighter_Switch_On_Cue
+[2023.03.31-17.13.18:160][841]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Switch_Interrupteur_Cue.SC_Switch_Interrupteur_Cue
+[2023.03.31-17.13.43:013][212]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/Sc_Open_Electric_Meter_Cue.Sc_Open_Electric_Meter_Cue
+[2023.03.31-17.13.45:675][253]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Pickup_Document_Cue.SC_Pickup_Document_Cue
+[2023.03.31-17.13.54:914][392]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Light_Switch_Cue.SC_Light_Switch_Cue
+[2023.03.31-17.13.56:916][420]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Key_Unlock_Door_Cue.SC_Key_Unlock_Door_Cue
+[2023.03.31-17.13.58:452][444]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Inventory_Turnpages_Cue.SC_Inventory_Turnpages_Cue
+[2023.03.31-17.13.59:721][463]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Game/GD/Sound/Environment_Noise/SC_Environment_Noise_Sound.SC_Environment_Noise_Sound
+[2023.03.31-17.14.01:241][486]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Drawer.SC_Drawer
+[2023.03.31-17.14.02:591][507]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Door_Without_Lock_Opening_Cue.SC_Door_Without_Lock_Opening_Cue
+[2023.03.31-17.14.03:946][528]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Door_Opening_Cue.SC_Door_Opening_Cue
+[2023.03.31-17.14.05:227][547]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Door_open_Cue.SC_Door_open_Cue
+[2023.03.31-17.14.10:224][623]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Bouton_Carnet_Cue.SC_Bouton_Carnet_Cue
+[2023.03.31-17.14.13:520][671]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Try_Open_Electric_Meter_Cue.SC_Try_Open_Electric_Meter_Cue
+[2023.03.31-17.14.15:135][695]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/GD/Sound/Environment_Noise/SC_Trying_To_Open_Locked_Door_Cue.SC_Trying_To_Open_Locked_Door_Cue
+[2023.03.31-17.14.25:866][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.03.31-17.14.26:021][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.03.31-17.14.26:047][857]LogSavePackage: Moving output files for package: /Game/GD/Maps/Sub_Lvl/GD
+[2023.03.31-17.14.26:047][857]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/GD2A97A95B472C14179D1300B377209CA5.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Maps/Sub_Lvl/GD.umap'
+[2023.03.31-17.14.26:052][857]LogFileHelpers: Saving map 'GD' took 0.105
+[2023.03.31-17.14.26:450][857]LogSavePackage: Moving output files for package: /Game/GD/ThirdPerson/Blueprints/BP_Diplome_First_Person_Project
+[2023.03.31-17.14.26:451][857]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/BP_Diplome_First_Person_ProjectCEEED729497BBB5618FC6489C98C3B41.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/ThirdPerson/Blueprints/BP_Diplome_First_Person_Project.uasset'
+[2023.03.31-17.14.26:458][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GD/Widget/Menu_Pause_Journal" FILE="../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/Menu_Pause_Journal.uasset" SILENT=true
+[2023.03.31-17.14.26:597][857]LogSavePackage: Moving output files for package: /Game/GD/Widget/Menu_Pause_Journal
+[2023.03.31-17.14.26:598][857]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/Menu_Pause_Journal414E85EA412F6AFED190989E82C17135.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Widget/Menu_Pause_Journal.uasset'
+[2023.03.31-17.14.26:601][857]LogSavePackage: Moving output files for package: /Game/GD/Sound/Environment_Noise/SC_Door_Opening_Cue
+[2023.03.31-17.14.26:602][857]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/SC_Door_Opening_Cue282965B14265C9793DE46D99D7149F7E.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Sound/Environment_Noise/SC_Door_Opening_Cue.uasset'
+[2023.03.31-17.14.26:605][857]LogSavePackage: Moving output files for package: /Game/GD/Sound/Environment_Noise/SC_Bouton_Carnet_Cue
+[2023.03.31-17.14.26:605][857]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/SC_Bouton_Carnet_Cue6C53D0004DDC6CC781CCBEBAE6C5F5B4.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Sound/Environment_Noise/SC_Bouton_Carnet_Cue.uasset'
+[2023.03.31-17.14.26:608][857]LogSavePackage: Moving output files for package: /Game/GD/Sound/Environment_Noise/SC_Door_open_Cue
+[2023.03.31-17.14.26:608][857]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/SC_Door_open_Cue98CC006343E90B69CCEB2090107E9E5A.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Sound/Environment_Noise/SC_Door_open_Cue.uasset'
+[2023.03.31-17.14.26:611][857]LogSavePackage: Moving output files for package: /Game/GD/Sound/Environment_Noise/SC_Door_Without_Lock_Opening_Cue
+[2023.03.31-17.14.26:612][857]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/SC_Door_Without_Lock_Opening_CueF004E28A4B8B05E52C2BACA479618F72.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Sound/Environment_Noise/SC_Door_Without_Lock_Opening_Cue.uasset'
+[2023.03.31-17.14.26:615][857]LogSavePackage: Moving output files for package: /Game/GD/Sound/Environment_Noise/SC_Inventory_Turnpages_Cue
+[2023.03.31-17.14.26:615][857]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/SC_Inventory_Turnpages_CueADF681A045BF2325FFF401858B36570D.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Sound/Environment_Noise/SC_Inventory_Turnpages_Cue.uasset'
+[2023.03.31-17.14.26:617][857]LogSavePackage: Moving output files for package: /Game/GD/Sound/Environment_Noise/SC_Pickup_Document_Cue
+[2023.03.31-17.14.26:618][857]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/SC_Pickup_Document_CueFDAC529148FCC4E00B75F6A7AFEAC575.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Sound/Environment_Noise/SC_Pickup_Document_Cue.uasset'
+[2023.03.31-17.14.26:621][857]LogSavePackage: Moving output files for package: /Game/GD/Sound/Environment_Noise/SC_Switch_Interrupteur_Cue
+[2023.03.31-17.14.26:621][857]LogSavePackage: Moving '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Saved/SC_Switch_Interrupteur_Cue228990B14BE72E4BF05AC1AF5D239233.tmp' to '../../../../../Users/t_beguin/Documents/GitHub/FPWL_Projet/FPWL_Projet/Content/GD/Sound/Environment_Noise/SC_Switch_Interrupteur_Cue.uasset'
+[2023.03.31-17.14.26:643][857]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.31-17.14.26:643][857]LogContentValidation: Display: Validating Blueprint /Game/GD/ThirdPerson/Blueprints/BP_Diplome_First_Person_Project.BP_Diplome_First_Person_Project
+[2023.03.31-17.14.26:643][857]LogContentValidation: Display: Validating WidgetBlueprint /Game/GD/Widget/Menu_Pause_Journal.Menu_Pause_Journal
+[2023.03.31-17.14.26:645][857]LogContentValidation: Display: Validating SoundCue /Game/GD/Sound/Environment_Noise/SC_Door_Opening_Cue.SC_Door_Opening_Cue
+[2023.03.31-17.14.26:645][857]LogContentValidation: Display: Validating World /Game/GD/Maps/Sub_Lvl/GD.GD
+[2023.03.31-17.14.26:645][857]LogContentValidation: Display: Validating SoundCue /Game/GD/Sound/Environment_Noise/SC_Switch_Interrupteur_Cue.SC_Switch_Interrupteur_Cue
+[2023.03.31-17.14.26:645][857]LogContentValidation: Display: Validating SoundCue /Game/GD/Sound/Environment_Noise/SC_Pickup_Document_Cue.SC_Pickup_Document_Cue
+[2023.03.31-17.14.26:645][857]LogContentValidation: Display: Validating SoundCue /Game/GD/Sound/Environment_Noise/SC_Inventory_Turnpages_Cue.SC_Inventory_Turnpages_Cue
+[2023.03.31-17.14.26:645][857]LogContentValidation: Display: Validating SoundCue /Game/GD/Sound/Environment_Noise/SC_Door_Without_Lock_Opening_Cue.SC_Door_Without_Lock_Opening_Cue
+[2023.03.31-17.14.26:645][857]LogContentValidation: Display: Validating SoundCue /Game/GD/Sound/Environment_Noise/SC_Door_open_Cue.SC_Door_open_Cue
+[2023.03.31-17.14.26:645][857]LogContentValidation: Display: Validating SoundCue /Game/GD/Sound/Environment_Noise/SC_Bouton_Carnet_Cue.SC_Bouton_Carnet_Cue
