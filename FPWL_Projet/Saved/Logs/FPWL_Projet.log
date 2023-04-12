@@ -12155,3 +12155,28 @@ Script Stack (0 frames):
 [2023.04.12-13.40.00:186][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.04.12-13.40.00:227][936]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2023.04.12-13.40.00:227][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.40.36:592][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.04.12-13.40.37:636][332]LogSlate: Window 'Save Content' being destroyed
+[2023.04.12-13.40.37:677][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Map/Sub_Lvl_Paris/Louise_F" FILE="D:/FPWL/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Louise_F.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.12-13.40.37:691][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.04.12-13.40.37:733][332]LogSavePackage: Moving output files for package: /Game/TA/Map/Sub_Lvl_Paris/Louise_F
+[2023.04.12-13.40.37:733][332]LogSavePackage: Moving 'D:/FPWL/FPWL_Projet/FPWL_Projet/Saved/Louise_FEC11E1F14D45086B231F9582588CF9F1.tmp' to 'D:/FPWL/FPWL_Projet/FPWL_Projet/Content/TA/Map/Sub_Lvl_Paris/Louise_F.umap'
+[2023.04.12-13.40.37:758][332]LogFileHelpers: Saving map 'Louise_F' took 0.081
+[2023.04.12-13.40.37:758][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Materials/Others/Textures/Oscilo" FILE="D:/FPWL/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Others/Textures/Oscilo.uasset" SILENT=true
+[2023.04.12-13.40.37:810][332]LogSavePackage: Moving output files for package: /Game/TA/Materials/Others/Textures/Oscilo
+[2023.04.12-13.40.37:810][332]LogSavePackage: Moving 'D:/FPWL/FPWL_Projet/FPWL_Projet/Saved/Oscilo47B0B86448249856487F0FBE22AE7324.tmp' to 'D:/FPWL/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Others/Textures/Oscilo.uasset'
+[2023.04.12-13.40.37:885][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Materials/Radio_MANAGER" FILE="D:/FPWL/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Radio_MANAGER.uasset" SILENT=true
+[2023.04.12-13.40.37:893][332]LogSavePackage: Moving output files for package: /Game/TA/Materials/Radio_MANAGER
+[2023.04.12-13.40.37:893][332]LogSavePackage: Moving 'D:/FPWL/FPWL_Projet/FPWL_Projet/Saved/Radio_MANAGERCA033A66444FED7FE0310F8CD8506D8B.tmp' to 'D:/FPWL/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Radio_MANAGER.uasset'
+[2023.04.12-13.40.37:894][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Materials/Others/Textures/Wave" FILE="D:/FPWL/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Others/Textures/Wave.uasset" SILENT=true
+[2023.04.12-13.40.37:961][332]LogSavePackage: Moving output files for package: /Game/TA/Materials/Others/Textures/Wave
+[2023.04.12-13.40.37:961][332]LogSavePackage: Moving 'D:/FPWL/FPWL_Projet/FPWL_Projet/Saved/Wave394F78BC4535A8E1A09EDAA5856EACB2.tmp' to 'D:/FPWL/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Others/Textures/Wave.uasset'
+[2023.04.12-13.40.37:962][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TA/Materials/Others/Textures/WaveMask" FILE="D:/FPWL/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Others/Textures/WaveMask.uasset" SILENT=true
+[2023.04.12-13.40.37:992][332]LogSavePackage: Moving output files for package: /Game/TA/Materials/Others/Textures/WaveMask
+[2023.04.12-13.40.37:992][332]LogSavePackage: Moving 'D:/FPWL/FPWL_Projet/FPWL_Projet/Saved/WaveMask89A7249940E7402AD7A368BABF867AB2.tmp' to 'D:/FPWL/FPWL_Projet/FPWL_Projet/Content/TA/Materials/Others/Textures/WaveMask.uasset'
+[2023.04.12-13.40.38:006][332]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.12-13.40.38:006][332]LogContentValidation: Display: Validating World /Game/TA/Map/Sub_Lvl_Paris/Louise_F.Louise_F
+[2023.04.12-13.40.38:006][332]LogContentValidation: Display: Validating Texture2D /Game/TA/Materials/Others/Textures/WaveMask.WaveMask
+[2023.04.12-13.40.38:006][332]LogContentValidation: Display: Validating Texture2D /Game/TA/Materials/Others/Textures/Oscilo.Oscilo
+[2023.04.12-13.40.38:006][332]LogContentValidation: Display: Validating Texture2D /Game/TA/Materials/Others/Textures/Wave.Wave
+[2023.04.12-13.40.38:006][332]LogContentValidation: Display: Validating Material /Game/TA/Materials/Radio_MANAGER.Radio_MANAGER
