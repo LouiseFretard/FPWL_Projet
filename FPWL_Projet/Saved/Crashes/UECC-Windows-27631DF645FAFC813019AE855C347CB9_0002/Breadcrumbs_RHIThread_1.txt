@@ -1,8 +1,0 @@
-Breadcrumbs 'RHIThread'
-Context 1/3
-	00 CubeMapCapture
-	01 Scene
-	02 Lights
-	03 DirectLighting
-	04 UnbatchedLights
-	05 Light_Provence.RectLight29
